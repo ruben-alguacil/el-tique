@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>El Tique — Precios reales de Mercadona</title>
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper: #F7F3EA; --paper-raised: #FFFDF8; --ink: #221F1A; --ink-soft: #57503F;
+    --muted: #8A8175; --rule: #DCD4C0; --accent: #3E7856; --accent-soft: #E4EEE6;
+    box-sizing: border-box; padding-top: env(safe-area-inset-top, 0px); padding-bottom: env(safe-area-inset-bottom, 0px);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --paper: #17140F; --paper-raised: #201C15; --ink: #F1ECE1; --ink-soft: #C9C0AE;
+      --muted: #8D8574; --rule: #362F23; --accent: #5FA97D; --accent-soft: #22301E;
+    }
+  }
+  * { box-sizing: border-box; }
+  html { height: 100%; scroll-padding-top: env(safe-area-inset-top, 0px); }
+  body { margin: 0; min-height: 100%; background: var(--paper); color: var(--ink); font-family: 'IBM Plex Mono', monospace; }
+  .app { max-width: 480px; margin: 0 auto; padding: 0 18px 40px 18px; }
+  header { padding-top: calc(22px + env(safe-area-inset-top, 0px)); padding-bottom: 14px; position: sticky; top: 0; background: var(--paper); z-index: 5; }
+  h1 { font-family: 'Instrument Serif', Georgia, serif; font-style: italic; font-size: 30px; font-weight: 400; margin: 0; }
+  .sub { font-size: 12px; color: var(--muted); margin-top: 4px; }
+  .search-box { display: flex; align-items: center; gap: 10px; background: var(--paper-raised); border: 1.5px solid var(--rule); border-radius: 10px; padding: 12px 14px; margin-top: 16px; }
+  .search-box input { border: none; outline: none; background: transparent; font-family: 'IBM Plex Mono', monospace; font-size: 15px; color: var(--ink); flex: 1; min-width: 0; }
+  .search-box input::placeholder { color: var(--muted); }
+  .status { text-align: center; color: var(--muted); font-size: 13px; margin-top: 30px; line-height: 1.7; }
+  .list { margin-top: 18px; }
+  .item { display: flex; justify-content: space-between; align-items: baseline; padding: 12px 0; border-bottom: 1px dashed var(--rule); }
+  .item .name { font-size: 14.5px; }
+  .item .cat { color: var(--muted); font-size: 11.5px; display: block; margin-top: 2px; }
+  .item .price { font-weight: 600; font-size: 15px; white-space: nowrap; margin-left: 12px; }
+  footer { margin-top: 30px; font-size: 11px; color: var(--muted); text-align: center; line-height: 1.7; }
+</style>
+</head>
+<body>
+<div class="app">
+  <header>
+    <h1>El Tique</h1>
+    <div class="sub" id="updatedNote">Cargando precios de Mercadona (Madrid)…</div>
+    <div class="search-box">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      <input id="searchInput" type="text" placeholder="Busca un producto…" autocomplete="off">
+    </div>
+  </header>
+  <div id="content"></div>
+  <footer>
+    De momento solo Mercadona, con precios reales que se actualizan cada noche.<br>
+    Cuando añadamos más cadenas, aquí aparecerá la comparación completa.
+  </footer>
+</div>
+
+<script>
+let DATA = null;
+
+function fmt(n) {
+  if (n === null || n === undefined) return '—';
+  return n.toFixed(2).replace('.', ',') + ' €';
+}
+function norm(s) {
+  return (s || '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+}
+
+async function load() {
+  try {
+    const res = await fetch('./prices_mercadona.json', { cache: 'no-store' });
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    DATA = await res.json();
+    const d = new Date(DATA.updated_at);
+    document.getElementById('updatedNote').textContent =
+      `${DATA.product_count} productos · Mercadona, ${DATA.region} · actualizado ${d.toLocaleDateString('es-ES')}`;
+    renderList('');
+  } catch (e) {
+    document.getElementById('content').innerHTML =
+      `<p class="status">Todavía no hay datos. Si acabas de configurar esto, espera a que se ejecute el workflow por primera vez (puedes lanzarlo a mano desde la pestaña Actions en GitHub).</p>`;
+    document.getElementById('updatedNote').textContent = 'Sin datos todavía';
+  }
+}
+
+function renderList(query) {
+  const content = document.getElementById('content');
+  if (!DATA) return;
+  const q = norm(query);
+  const items = DATA.products
+    .filter(p => p.name && (q === '' || norm(p.name).includes(q)))
+    .slice(0, 60);
+  if (items.length === 0) {
+    content.innerHTML = `<p class="status">No hay resultados para «${query}».</p>`;
+    return;
+  }
+  content.innerHTML = `<div class="list">${items.map(p => `
+    <div class="item">
+      <span>
+        <span class="name">${p.name}${p.packaging ? ' · ' + p.packaging : ''}</span>
+        <span class="cat">${p.category}</span>
+      </span>
+      <span class="price">${fmt(p.price)}</span>
+    </div>
+  `).join('')}</div>`;
+}
+
+document.getElementById('searchInput').addEventListener('input', (e) => renderList(e.target.value.trim()));
+load();
+</script>
+</body>
+</html>
