@@ -1,8 +1,449 @@
 {
   "store": "Alcampo",
   "region": "España",
-  "updated_at": "2026-09-20T09:23:00Z",
-  "product_count": 0,
-  "products": [],
-  "note": "Fase de diagnóstico, sin productos todavía. Revisa el log DEBUG."
+  "updated_at": "2026-09-20T09:29:16Z",
+  "product_count": 44,
+  "products": [
+    {
+      "id": "24b9f612-265c-4a43-ab41-65e362e3c96c",
+      "name": "L.R. Leche entera 6 x 1 l.",
+      "brand": "L.R.",
+      "category": "Folletos y Promociones > Folleto Alimentación Canarias > Leche, Huevos, Yogures y Lácteos > Leche",
+      "price": 5.7,
+      "currency": "EUR",
+      "reference_price": 0.95,
+      "available": true
+    },
+    {
+      "id": "123ec3ee-03ff-4e43-adb9-0f06c7d6a672",
+      "name": "PULEVA EcoLeche entera pack de 6 uds x 1 l.",
+      "brand": "PULEVA",
+      "category": "Leche, Huevos, Lácteos, Yogures y Bebidas vegetales > Leche > Leche Ecológica",
+      "price": 6.0,
+      "currency": "EUR",
+      "reference_price": 1.0,
+      "available": true
+    },
+    {
+      "id": "c8bbe84d-21db-4fc2-ba87-8b3da7cf4716",
+      "name": "L.R. Leche de vaca entera 1l.",
+      "brand": "L.R.",
+      "category": "Folletos y Promociones > Folleto Alimentación Canarias > Leche, Huevos, Yogures y Lácteos > Leche",
+      "price": 0.95,
+      "currency": "EUR",
+      "reference_price": 0.95,
+      "available": true
+    },
+    {
+      "id": "74a92454-788e-4cb8-98df-1407403aeb60",
+      "name": "PULEVA Eco  Leche entera  1 l.",
+      "brand": "PULEVA",
+      "category": "Campañas > Todo a un EURO > Supermercado Ecológico",
+      "price": 1.0,
+      "currency": "EUR",
+      "reference_price": 1.0,
+      "available": true
+    },
+    {
+      "id": "48747470-bb9c-4c05-b79b-354f405c374a",
+      "name": "PRÉSIDENT Leche entera de vaca de origen 100% español 6 x 1 l.",
+      "brand": "PRÉSIDENT",
+      "category": "Folletos y Promociones > Folleto Alimentación Canarias > Leche, Huevos, Yogures y Lácteos > Leche",
+      "price": 5.94,
+      "currency": "EUR",
+      "reference_price": 0.99,
+      "available": true
+    },
+    {
+      "id": "d7f66f57-9a60-4e28-91dc-893bcacf2670",
+      "name": "PRÉSIDENT Leche entera de vaca de origen 100% española 1 l.",
+      "brand": "PRÉSIDENT",
+      "category": "Folletos y Promociones > Folleto Alimentación Canarias > Leche, Huevos, Yogures y Lácteos > Leche",
+      "price": 0.99,
+      "currency": "EUR",
+      "reference_price": 0.99,
+      "available": true
+    },
+    {
+      "id": "7586b0f0-ec55-439d-94bb-52754e1f22d7",
+      "name": "RAM Leche entera de vaca 1 l.",
+      "brand": "RAM",
+      "category": "Campañas > Todo a un EURO > Leche, huevos, yogures y lácteos > Leche",
+      "price": 1.0,
+      "currency": "EUR",
+      "reference_price": 1.0,
+      "available": true
+    },
+    {
+      "id": "484ea5d9-3f35-4865-b1cd-4313dfb41ef6",
+      "name": "CENTRAL LECHERA ASTURIANA Leche entera botella 1 l.",
+      "brand": "CENTRAL LECHERA ASTURIANA",
+      "category": "Leche, Huevos, Lácteos, Yogures y Bebidas vegetales > Leche > Leche entera",
+      "price": 1.23,
+      "currency": "EUR",
+      "reference_price": 1.23,
+      "available": true
+    },
+    {
+      "id": "8faad04f-c8cd-43ce-a73b-df9f71e67638",
+      "name": "CENTRAL LECHERA ASTURIANA Leche entera botella 6 x 1 l.",
+      "brand": "CENTRAL LECHERA ASTURIANA",
+      "category": "Leche, Huevos, Lácteos, Yogures y Bebidas vegetales > Leche > Leche entera",
+      "price": 7.38,
+      "currency": "EUR",
+      "reference_price": 1.23,
+      "available": true
+    },
+    {
+      "id": "15b74804-1ab7-414f-ae96-7a8400a7d2be",
+      "name": "PULEVA Leche entera ligera (sólo 2% de materia grasa) 1 l.",
+      "brand": "PULEVA",
+      "category": "Leche, Huevos, Lácteos, Yogures y Bebidas vegetales > Preparado lácteo > Infantil, Energía y Crecimiento",
+      "price": 1.0,
+      "currency": "EUR",
+      "reference_price": 1.0,
+      "available": false
+    },
+    {
+      "id": "6ab4700b-58f9-4d2c-942a-7ddce3286b57",
+      "name": "AUCHAN Leche entera de vaca 6 x 1 l Producto Alcampo.",
+      "brand": "PRODUCTO ALCAMPO",
+      "category": "Leche, Huevos, Lácteos, Yogures y Bebidas vegetales > Leche > Leche entera",
+      "price": 5.7,
+      "currency": "EUR",
+      "reference_price": 0.95,
+      "available": true
+    },
+    {
+      "id": "5bc66ffb-8144-4eed-92e5-aac4f3f49b01",
+      "name": "CENTRAL LECHERA ASTURIANA Leche de vaca entera de origen español 6 x 1l.",
+      "brand": "CENTRAL LECHERA ASTURIANA",
+      "category": "Leche, Huevos, Lácteos, Yogures y Bebidas vegetales > Leche > Leche entera",
+      "price": 7.08,
+      "currency": "EUR",
+      "reference_price": 1.18,
+      "available": true
+    },
+    {
+      "id": "e587a586-bf16-470c-b9b4-8be150244d02",
+      "name": "AUCHAN Leche entera de vaca 1 l. Producto Alcampo",
+      "brand": "PRODUCTO ALCAMPO",
+      "category": "Leche, Huevos, Lácteos, Yogures y Bebidas vegetales > Leche > Leche entera",
+      "price": 0.95,
+      "currency": "EUR",
+      "reference_price": 0.95,
+      "available": true
+    },
+    {
+      "id": "59e25f11-6891-4d59-8451-af5edca1e120",
+      "name": "CENTRAL LECHERA ASTURIANA Leche entera de vaca, de origen español 1 l.",
+      "brand": "CENTRAL LECHERA ASTURIANA",
+      "category": "Leche, Huevos, Lácteos, Yogures y Bebidas vegetales > Leche > Leche entera",
+      "price": 1.18,
+      "currency": "EUR",
+      "reference_price": 1.18,
+      "available": true
+    },
+    {
+      "id": "5c677217-b6fa-48c6-99cf-9edee89371a8",
+      "name": "AUCHAN Leche mini entera 6 x 200 ml Producto Alcampo.",
+      "brand": "PRODUCTO ALCAMPO",
+      "category": "Leche, Huevos, Lácteos, Yogures y Bebidas vegetales > Leche > Leche entera",
+      "price": 1.68,
+      "currency": "EUR",
+      "reference_price": 1.4,
+      "available": true
+    },
+    {
+      "id": "47d644cf-07ee-49f1-8f38-b8da5a169f65",
+      "name": "PASCUAL Leche entera procedente de animales con bienestar garantizado 6x 1l.",
+      "brand": "PASCUAL",
+      "category": "Leche, Huevos, Lácteos, Yogures y Bebidas vegetales > Leche > Leche entera",
+      "price": 7.38,
+      "currency": "EUR",
+      "reference_price": 1.23,
+      "available": true
+    },
+    {
+      "id": "32b8973d-ee8f-4eab-aa04-36d98628e3f1",
+      "name": "CENTRAL LECHERA ASTURIANA Leche entera de vaca, 100% natural 6 x 200 ml.",
+      "brand": "CENTRAL LECHERA ASTURIANA",
+      "category": "Leche, Huevos, Lácteos, Yogures y Bebidas vegetales > Leche > Leche entera",
+      "price": 2.28,
+      "currency": "EUR",
+      "reference_price": 1.9,
+      "available": true
+    },
+    {
+      "id": "973ae991-2620-41d4-b9f0-2cb1dcdb9800",
+      "name": "PULEVA Leche fresca entera de vaca de pastoreo, de procedencia 100% española 1.5 l.",
+      "brand": "PULEVA",
+      "category": "Leche, Huevos, Lácteos, Yogures y Bebidas vegetales > Leche > Leche fresca",
+      "price": 2.47,
+      "currency": "EUR",
+      "reference_price": 1.65,
+      "available": true
+    },
+    {
+      "id": "f4a76c09-e523-4667-99fb-a390a581a78c",
+      "name": "CENTRAL LECHERA ASTURIANA Leche entera de vaca de origen español 1.5 l.",
+      "brand": "CENTRAL LECHERA ASTURIANA",
+      "category": "Leche, Huevos, Lácteos, Yogures y Bebidas vegetales > Leche > Leche entera",
+      "price": 1.8,
+      "currency": "EUR",
+      "reference_price": 1.2,
+      "available": true
+    },
+    {
+      "id": "177a16a8-5984-4ac6-8ab3-5ef844d20fff",
+      "name": "PASCUAL Leche entera de vaca 1 l.",
+      "brand": "PASCUAL",
+      "category": "Leche, Huevos, Lácteos, Yogures y Bebidas vegetales > Leche > Leche entera",
+      "price": 1.23,
+      "currency": "EUR",
+      "reference_price": 1.23,
+      "available": true
+    },
+    {
+      "id": "47fd22de-c9e1-44ef-b73f-6bd1d3edcaa1",
+      "name": "LA COLMENAREÑA Leche de vaca, entera, fresca y pasteurizada 1 l.",
+      "brand": "LA COLMENAREÑA",
+      "category": "Leche, Huevos, Lácteos, Yogures y Bebidas vegetales > Leche > Leche fresca",
+      "price": 1.44,
+      "currency": "EUR",
+      "reference_price": 1.44,
+      "available": true
+    },
+    {
+      "id": "a73227c3-3415-4d72-b230-781fcf709731",
+      "name": "LAUKI Leche entera de vaca, de origen 100% español 6 x 1l.",
+      "brand": "LAUKI",
+      "category": "Leche, Huevos, Lácteos, Yogures y Bebidas vegetales > Leche > Leche entera",
+      "price": 6.12,
+      "currency": "EUR",
+      "reference_price": 1.02,
+      "available": true
+    },
+    {
+      "id": "bfee590a-d539-4e5a-94e9-39860b159f9b",
+      "name": "CENTRAL LECHERA ASTURIANA Leche entera de vaca, de origen española 2.2 l.",
+      "brand": "CENTRAL LECHERA ASTURIANA",
+      "category": "Leche, Huevos, Lácteos, Yogures y Bebidas vegetales > Leche > Leche entera",
+      "price": 2.51,
+      "currency": "EUR",
+      "reference_price": 1.14,
+      "available": true
+    },
+    {
+      "id": "cc90f65c-b7f2-4034-9da0-6ca69d33eb80",
+      "name": "CENTRAL LECHERA ASTURIANA Leche de vaca entera de origen español 6 x 1.5 l.",
+      "brand": "CENTRAL LECHERA ASTURIANA",
+      "category": "Leche, Huevos, Lácteos, Yogures y Bebidas vegetales > Leche > Leche entera",
+      "price": 10.8,
+      "currency": "EUR",
+      "reference_price": 1.2,
+      "available": true
+    },
+    {
+      "id": "9ea90a7e-d3fc-4f2b-92aa-2205b40fef0d",
+      "name": "PASCUAL Leche de vaca entera, de bienestar animal garantizado 6 x 1.5 l.",
+      "brand": "PASCUAL",
+      "category": "Leche, Huevos, Lácteos, Yogures y Bebidas vegetales > Leche > Leche entera",
+      "price": 10.92,
+      "currency": "EUR",
+      "reference_price": 1.21,
+      "available": true
+    },
+    {
+      "id": "69e1ebfa-541d-4786-bd8a-86717c4ada05",
+      "name": "CENTRAL LECHERA ASTURIANA Leche de vaca entera de origen español 6 x 2.2 l.",
+      "brand": "CENTRAL LECHERA ASTURIANA",
+      "category": "Leche, Huevos, Lácteos, Yogures y Bebidas vegetales > Leche > Leche entera",
+      "price": 15.06,
+      "currency": "EUR",
+      "reference_price": 1.14,
+      "available": true
+    },
+    {
+      "id": "96573053-410b-42ca-ab12-d0b63aaeedbe",
+      "name": "LAUKI Leche entera de vaca 1 l.",
+      "brand": "LAUKI",
+      "category": "Leche, Huevos, Lácteos, Yogures y Bebidas vegetales > Leche > Leche entera",
+      "price": 1.02,
+      "currency": "EUR",
+      "reference_price": 1.02,
+      "available": true
+    },
+    {
+      "id": "6682ea18-ce94-451d-be86-aa70de082e72",
+      "name": "ALCAMPO CULTIVAMOS LO BUENO Leche de vaca entera, de origen española 6x1 l.",
+      "brand": "ALCAMPO CULTIVAMOS LO BUENO",
+      "category": "Campañas > ALCAMPO CULTIVAMOS LO BUENO > Leche, huevos y lácteos > Leche > Leche entera",
+      "price": 6.54,
+      "currency": "EUR",
+      "reference_price": 1.09,
+      "available": true
+    },
+    {
+      "id": "5e67a465-8756-4e4e-b657-51e299b2d6b6",
+      "name": "AUCHAN Leche de vaca entera 1,5 l Producto Alcampo.",
+      "brand": "PRODUCTO ALCAMPO",
+      "category": "Leche, Huevos, Lácteos, Yogures y Bebidas vegetales > Leche > Leche entera",
+      "price": 1.56,
+      "currency": "EUR",
+      "reference_price": 1.04,
+      "available": true
+    },
+    {
+      "id": "f0ff2a1c-9303-4b0f-a7f1-ba6101b91e70",
+      "name": "RAM Leche entera de vaca 6x1 l.",
+      "brand": "RAM",
+      "category": "Campañas > Todo a un EURO > Leche, huevos, yogures y lácteos > Leche",
+      "price": 6.0,
+      "currency": "EUR",
+      "reference_price": 1.0,
+      "available": true
+    },
+    {
+      "id": "8380d27f-1519-4e3c-8cc6-2576cab7b4ce",
+      "name": "PASCUAL Leche de vaca entera, de bienestar animal garantizado 1.5 l.",
+      "brand": "PASCUAL",
+      "category": "Leche, Huevos, Lácteos, Yogures y Bebidas vegetales > Leche > Leche entera",
+      "price": 1.82,
+      "currency": "EUR",
+      "reference_price": 1.21,
+      "available": true
+    },
+    {
+      "id": "e00c7d34-1841-4117-a7ab-c60769caeae9",
+      "name": "AUCHAN Leche de vaca entera 6 x 1,5 l Producto Alcampo.",
+      "brand": "PRODUCTO ALCAMPO",
+      "category": "Leche, Huevos, Lácteos, Yogures y Bebidas vegetales > Leche > Leche entera",
+      "price": 9.36,
+      "currency": "EUR",
+      "reference_price": 1.04,
+      "available": true
+    },
+    {
+      "id": "93a090e9-a068-4585-85e1-9576e1af7c19",
+      "name": "CENTRAL LECHERA ASTURIANA Leche entera de vaca, de origen española 500 ml.",
+      "brand": "CENTRAL LECHERA ASTURIANA",
+      "category": "Leche, Huevos, Lácteos, Yogures y Bebidas vegetales > Leche > Leche entera",
+      "price": 0.75,
+      "currency": "EUR",
+      "reference_price": 1.5,
+      "available": true
+    },
+    {
+      "id": "19e778a1-d793-458b-845b-838564981e89",
+      "name": "TIERRA DE SABOR Leche entera de vaca 1 l.",
+      "brand": "TIERRA DE SABOR",
+      "category": "Leche, Huevos, Lácteos, Yogures y Bebidas vegetales > Leche > Leche entera",
+      "price": 1.12,
+      "currency": "EUR",
+      "reference_price": 1.12,
+      "available": true
+    },
+    {
+      "id": "bb6f6032-a10b-4a88-ae1f-f7a38b8fc58f",
+      "name": "TIERRA DE SABOR Leche de vaca entera 6 x 1 l.",
+      "brand": "TIERRA DE SABOR",
+      "category": "Leche, Huevos, Lácteos, Yogures y Bebidas vegetales > Leche > Leche entera",
+      "price": 6.72,
+      "currency": "EUR",
+      "reference_price": 1.12,
+      "available": true
+    },
+    {
+      "id": "0bb6401a-789e-48c8-bc66-df5ab74a48fe",
+      "name": "LA COLMENAREÑA Leche entera 6 x 1l.",
+      "brand": "LA COLMENAREÑA",
+      "category": "Leche, Huevos, Lácteos, Yogures y Bebidas vegetales > Leche > Leche entera",
+      "price": 10.02,
+      "currency": "EUR",
+      "reference_price": 1.67,
+      "available": true
+    },
+    {
+      "id": "d4cd9ed0-61c9-41e7-93b5-a6f8260ff3f2",
+      "name": "CENTRAL LECHERA ASTURIANA Leche de vaca entera de origen español 6 x 500 ml.",
+      "brand": "CENTRAL LECHERA ASTURIANA",
+      "category": "Leche, Huevos, Lácteos, Yogures y Bebidas vegetales > Leche > Leche entera",
+      "price": 4.5,
+      "currency": "EUR",
+      "reference_price": 1.5,
+      "available": true
+    },
+    {
+      "id": "ded326ab-e22e-4b0d-a05b-3f217f31926c",
+      "name": "LA COLMENAREÑA Leche entera fresca 1 l.",
+      "brand": "LA COLMENAREÑA",
+      "category": "Leche, Huevos, Lácteos, Yogures y Bebidas vegetales > Leche > Leche fresca",
+      "price": 1.34,
+      "currency": "EUR",
+      "reference_price": 1.34,
+      "available": true
+    },
+    {
+      "id": "37653531-853d-4808-881b-f3b3fde26563",
+      "name": "LA COLMENAREÑA Leche entera 1 l.",
+      "brand": "LA COLMENAREÑA",
+      "category": "Leche, Huevos, Lácteos, Yogures y Bebidas vegetales > Leche > Leche entera",
+      "price": 1.67,
+      "currency": "EUR",
+      "reference_price": 1.67,
+      "available": true
+    },
+    {
+      "id": "cb105884-19c3-4389-8646-344f8bbe0092",
+      "name": "PULEVA Tido Leche entera 6 x 200 ml.",
+      "brand": "PULEVA",
+      "category": "Leche, Huevos, Lácteos, Yogures y Bebidas vegetales > Leche > Leche entera",
+      "price": 2.57,
+      "currency": "EUR",
+      "reference_price": 4.28,
+      "available": true
+    },
+    {
+      "id": "26d6ca71-17d3-419a-bb8f-7035bc146c26",
+      "name": "PRIÉGOLA Leche entera fresca 1 l.",
+      "brand": "PRIÉGOLA",
+      "category": "Leche, Huevos, Lácteos, Yogures y Bebidas vegetales > Leche > Leche fresca",
+      "price": 1.78,
+      "currency": "EUR",
+      "reference_price": 1.78,
+      "available": true
+    },
+    {
+      "id": "7af1f9a9-0953-4ac3-acf1-a6355a42ca0a",
+      "name": "ALCAMPO CULTIVAMOS LO BUENO Leche de vaca entera, de origen española 1 l.",
+      "brand": "ALCAMPO CULTIVAMOS LO BUENO",
+      "category": "Campañas > ALCAMPO CULTIVAMOS LO BUENO > Leche, huevos y lácteos > Leche > Leche entera",
+      "price": 1.09,
+      "currency": "EUR",
+      "reference_price": 1.09,
+      "available": true
+    },
+    {
+      "id": "67f0d1ba-a8e1-42e9-a643-83b08209066e",
+      "name": "PRÉSIDENT Leche entera de vaca, de origen 100% español Selección 1.5 l.",
+      "brand": "PRÉSIDENT",
+      "category": "Leche, Huevos, Lácteos, Yogures y Bebidas vegetales > Leche > Leche entera",
+      "price": 1.67,
+      "currency": "EUR",
+      "reference_price": 1.11,
+      "available": true
+    },
+    {
+      "id": "fd84a99e-8ad7-4288-8edc-0c56adf51864",
+      "name": "PRÉSIDENT Leche entera de vaca de origen 100% español 6 x 1.5 l.",
+      "brand": "PRÉSIDENT",
+      "category": "Leche, Huevos, Lácteos, Yogures y Bebidas vegetales > Leche > Leche entera",
+      "price": 10.02,
+      "currency": "EUR",
+      "reference_price": 1.11,
+      "available": true
+    }
+  ],
+  "note": "Fase de diagnóstico de categorías, productos de una sola categoría de ejemplo."
 }
