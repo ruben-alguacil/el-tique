@@ -56,29 +56,20 @@ def extract_initial_state(html):
     return data
 
 
-PRODUCT_KEY_HINTS = {"price", "name", "title", "sku", "productid", "unitprice"}
-
-
-def find_product_lists(obj, path="root", results=None, max_results=6):
-    """Recorre el JSON buscando listas de diccionarios que parezcan productos."""
+def collect_dict_lists(obj, path="root", results=None):
+    """Recorre el JSON y recopila TODAS las listas de diccionarios de tamaño >= 4,
+    sin asumir ningún nombre de campo concreto."""
     if results is None:
         results = []
-    if len(results) >= max_results:
-        return results
 
     if isinstance(obj, dict):
         for k, v in obj.items():
-            find_product_lists(v, f"{path}.{k}", results, max_results)
-    elif isinstance(obj, list) and obj:
-        sample = obj[0]
-        if isinstance(sample, dict):
-            keys_lower = {k.lower() for k in sample.keys()}
-            hits = keys_lower & PRODUCT_KEY_HINTS
-            if len(hits) >= 2:
-                results.append((path, len(obj), list(sample.keys())[:15], sample))
-        # sigue bajando también dentro de listas, por si hay listas anidadas
-        for item in obj[:5]:
-            find_product_lists(item, f"{path}[]", results, max_results)
+            collect_dict_lists(v, f"{path}.{k}", results)
+    elif isinstance(obj, list):
+        if len(obj) >= 4 and isinstance(obj[0], dict):
+            results.append((path, len(obj), obj[0]))
+        for i, item in enumerate(obj[:5]):
+            collect_dict_lists(item, f"{path}[{i}]", results)
     return results
 
 
@@ -92,11 +83,14 @@ def main():
     else:
         state = extract_initial_state(html)
         if state is not None:
-            candidates = find_product_lists(state)
-            print(f"DEBUG -> {len(candidates)} listas candidatas a 'productos' encontradas", file=sys.stderr)
-            for path, length, keys, sample in candidates:
-                print(f"DEBUG candidato -> ruta: {path} | elementos: {length} | claves: {keys}", file=sys.stderr)
-                print(f"DEBUG candidato -> ejemplo completo: {json.dumps(sample, ensure_ascii=False)[:1000]}", file=sys.stderr)
+            candidates = collect_dict_lists(state)
+            candidates.sort(key=lambda c: c[1], reverse=True)
+            print(f"DEBUG -> {len(candidates)} listas de objetos encontradas en total (tamaño >= 4)", file=sys.stderr)
+            for path, length, sample in candidates[:15]:
+                print(f"DEBUG lista -> ruta: {path} | elementos: {length} | claves del primero: {list(sample.keys())}", file=sys.stderr)
+            print("DEBUG -> contenido completo de las 3 listas más grandes:", file=sys.stderr)
+            for path, length, sample in candidates[:3]:
+                print(f"DEBUG muestra ({path}): {json.dumps(sample, ensure_ascii=False)[:1200]}", file=sys.stderr)
 
     # Salida provisional vacía: esta fase es solo de diagnóstico.
     output = {
