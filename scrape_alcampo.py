@@ -73,6 +73,17 @@ def collect_dict_lists(obj, path="root", results=None):
     return results
 
 
+def safe_get(obj, *path):
+    for p in path:
+        if isinstance(obj, dict):
+            obj = obj.get(p)
+        elif isinstance(obj, list) and isinstance(p, int):
+            obj = obj[p] if -len(obj) <= p < len(obj) else None
+        else:
+            return None
+    return obj
+
+
 def main():
     print(f"Probando con categoría de ejemplo: {SAMPLE_CATEGORY}", file=sys.stderr)
     html = fetch(SAMPLE_CATEGORY)
@@ -83,14 +94,26 @@ def main():
     else:
         state = extract_initial_state(html)
         if state is not None:
-            candidates = collect_dict_lists(state)
-            candidates.sort(key=lambda c: c[1], reverse=True)
-            print(f"DEBUG -> {len(candidates)} listas de objetos encontradas en total (tamaño >= 4)", file=sys.stderr)
-            for path, length, sample in candidates[:15]:
-                print(f"DEBUG lista -> ruta: {path} | elementos: {length} | claves del primero: {list(sample.keys())}", file=sys.stderr)
-            print("DEBUG -> contenido completo de las 3 listas más grandes:", file=sys.stderr)
-            for path, length, sample in candidates[:3]:
-                print(f"DEBUG muestra ({path}): {json.dumps(sample, ensure_ascii=False)[:1200]}", file=sys.stderr)
+            entities = safe_get(state, "data", "products", "productEntities")
+            if isinstance(entities, dict):
+                print(f"DEBUG entities -> productEntities tiene {len(entities)} productos", file=sys.stderr)
+                first_key = next(iter(entities))
+                print(f"DEBUG entities -> ejemplo completo de un producto: {json.dumps(entities[first_key], ensure_ascii=False)[:2000]}", file=sys.stderr)
+            else:
+                print("DEBUG entities -> no se encontró data.products.productEntities como diccionario", file=sys.stderr)
+
+            groups = safe_get(state, "data", "products", "catalogue", "data", "productGroups")
+            if isinstance(groups, list):
+                print(f"DEBUG groups -> productGroups tiene {len(groups)} grupos", file=sys.stderr)
+                for i, g in enumerate(groups):
+                    if isinstance(g, dict):
+                        keys = list(g.keys())
+                        print(f"DEBUG groups -> grupo {i} claves: {keys}", file=sys.stderr)
+                        # imprime el grupo entero salvo el campo ya visto (additionalProductAttributes)
+                        g_copy = {k: v for k, v in g.items() if k != "additionalProductAttributes"}
+                        print(f"DEBUG groups -> grupo {i} contenido (sin additionalProductAttributes, 1500 caracteres): {json.dumps(g_copy, ensure_ascii=False)[:1500]}", file=sys.stderr)
+            else:
+                print("DEBUG groups -> no se encontró productGroups como lista", file=sys.stderr)
 
     # Salida provisional vacía: esta fase es solo de diagnóstico.
     output = {
