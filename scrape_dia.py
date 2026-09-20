@@ -18,7 +18,12 @@ import requests
 from xml.etree import ElementTree
 
 BASE = "https://www.dia.es"
-HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; ElTiquePriceBot/1.0)"}
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                  "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "es-ES,es;q=0.9",
+}
 MAX_PRODUCTS = 300  # límite para la primera prueba; se sube luego si todo funciona
 
 
@@ -29,6 +34,8 @@ def get_sitemap_urls(sitemap_url, depth=0):
     r = requests.get(sitemap_url, headers=HEADERS, timeout=20)
     print(f"DEBUG sitemap -> {sitemap_url} status {r.status_code}", file=sys.stderr)
     if r.status_code != 200:
+        print(f"DEBUG sitemap -> cabeceras de la respuesta: {dict(r.headers)}", file=sys.stderr)
+        print(f"DEBUG sitemap -> primeros 500 caracteres del cuerpo: {r.text[:500]}", file=sys.stderr)
         return []
     try:
         root = ElementTree.fromstring(r.content)
