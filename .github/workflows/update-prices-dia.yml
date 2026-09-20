@@ -1,0 +1,33 @@
+name: Actualizar precios Dia
+
+on:
+  schedule:
+    - cron: '15 5 * * *'   # un cuarto de hora después del de Mercadona, para no pisarse
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependencias
+        run: pip install requests
+
+      - name: Descargar precios
+        run: python scrape_dia.py > prices_dia.json
+
+      - name: Subir el archivo actualizado
+        run: |
+          git config user.name "el-tique-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add prices_dia.json
+          git diff --quiet --cached || git commit -m "Actualiza precios Dia $(date -u +%F)"
+          git push
