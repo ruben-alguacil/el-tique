@@ -105,7 +105,10 @@ def parse_product(entity, category_name):
 
 
 def scrape_category(path, name):
-    url = path if path.startswith("http") else f"{BASE}{path}"
+    if path.startswith("http"):
+        url = path
+    else:
+        url = f"{BASE}/{path.lstrip('/')}"
     html = fetch(url)
     if html is None:
         return []
