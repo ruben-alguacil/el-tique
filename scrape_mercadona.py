@@ -20,15 +20,24 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; ElTiquePriceBot/1.0)"}
 def get_categories():
     url = f"{BASE}/categories/"
     r = requests.get(url, headers=HEADERS, params={"lang": "es", "wh": WAREHOUSE}, timeout=20)
+    print(f"DEBUG categories -> status {r.status_code}, url final: {r.url}", file=sys.stderr)
     r.raise_for_status()
-    return r.json().get("results", [])
+    data = r.json()
+    print(f"DEBUG categories -> claves de nivel superior: {list(data.keys())}", file=sys.stderr)
+    results = data.get("results", [])
+    if not results:
+        print(f"DEBUG categories -> respuesta completa (primeros 1000 caracteres): {json.dumps(data, ensure_ascii=False)[:1000]}", file=sys.stderr)
+    return results
 
 
-def get_category_products(cat_id):
+def get_category_products(cat_id, debug=False):
     url = f"{BASE}/categories/{cat_id}/"
     r = requests.get(url, headers=HEADERS, params={"lang": "es", "wh": WAREHOUSE}, timeout=20)
     r.raise_for_status()
     data = r.json()
+    if debug:
+        print(f"DEBUG categoría {cat_id} -> claves de nivel superior: {list(data.keys())}", file=sys.stderr)
+        print(f"DEBUG categoría {cat_id} -> respuesta completa (primeros 1500 caracteres): {json.dumps(data, ensure_ascii=False)[:1500]}", file=sys.stderr)
     products = []
     for sub in data.get("categories", []):
         products.extend(sub.get("products", []))
@@ -58,12 +67,13 @@ def main():
     categories = get_categories()
     print(f"Encontradas {len(categories)} categorías de nivel superior", file=sys.stderr)
 
-    for cat in categories:
+    for i, cat in enumerate(categories):
         cat_id = cat.get("id")
         cat_name = cat.get("name", "")
         print(f"  Descargando: {cat_name}", file=sys.stderr)
         try:
-            products = get_category_products(cat_id)
+            products = get_category_products(cat_id, debug=(i == 0))
+            print(f"    -> {len(products)} productos encontrados en '{cat_name}'", file=sys.stderr)
         except Exception as e:
             print(f"    aviso: no se pudo leer '{cat_name}': {e}", file=sys.stderr)
             continue
