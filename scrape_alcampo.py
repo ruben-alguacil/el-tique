@@ -84,6 +84,39 @@ def safe_get(obj, *path):
     return obj
 
 
+def parse_product(entity):
+    price = entity.get("price", {}) or {}
+    current = price.get("current", {}) or {}
+    unit = (price.get("unit") or {}).get("current", {}) or {}
+    return {
+        "id": entity.get("productId"),
+        "name": entity.get("name"),
+        "brand": entity.get("brand"),
+        "category": " > ".join(entity.get("categoryPath") or []),
+        "price": float(current.get("amount")) if current.get("amount") else None,
+        "currency": current.get("currency"),
+        "reference_price": float(unit.get("amount")) if unit.get("amount") else None,
+        "available": entity.get("available"),
+    }
+
+
+def collect_dict_of_dicts(obj, path="root", results=None):
+    """Como collect_dict_lists, pero para diccionarios cuyos VALORES son diccionarios
+    (mapas tipo {id: objeto}), que es como vino productEntities."""
+    if results is None:
+        results = []
+    if isinstance(obj, dict):
+        values = list(obj.values())
+        if len(values) >= 4 and all(isinstance(v, dict) for v in values[:4]):
+            results.append((path, len(obj), values[0]))
+        for k, v in obj.items():
+            collect_dict_of_dicts(v, f"{path}.{k}", results)
+    elif isinstance(obj, list):
+        for i, item in enumerate(obj[:5]):
+            collect_dict_of_dicts(item, f"{path}[{i}]", results)
+    return results
+
+
 def main():
     print(f"Probando con categoría de ejemplo: {SAMPLE_CATEGORY}", file=sys.stderr)
     html = fetch(SAMPLE_CATEGORY)
@@ -97,32 +130,43 @@ def main():
             entities = safe_get(state, "data", "products", "productEntities")
             if isinstance(entities, dict):
                 print(f"DEBUG entities -> productEntities tiene {len(entities)} productos", file=sys.stderr)
-                first_key = next(iter(entities))
-                print(f"DEBUG entities -> ejemplo completo de un producto: {json.dumps(entities[first_key], ensure_ascii=False)[:2000]}", file=sys.stderr)
-            else:
-                print("DEBUG entities -> no se encontró data.products.productEntities como diccionario", file=sys.stderr)
+                products_found = [parse_product(e) for e in entities.values()]
+                print(f"DEBUG entities -> ejemplo ya interpretado: {json.dumps(products_found[0], ensure_ascii=False)}", file=sys.stderr)
 
-            groups = safe_get(state, "data", "products", "catalogue", "data", "productGroups")
-            if isinstance(groups, list):
-                print(f"DEBUG groups -> productGroups tiene {len(groups)} grupos", file=sys.stderr)
-                for i, g in enumerate(groups):
-                    if isinstance(g, dict):
-                        keys = list(g.keys())
-                        print(f"DEBUG groups -> grupo {i} claves: {keys}", file=sys.stderr)
-                        # imprime el grupo entero salvo el campo ya visto (additionalProductAttributes)
-                        g_copy = {k: v for k, v in g.items() if k != "additionalProductAttributes"}
-                        print(f"DEBUG groups -> grupo {i} contenido (sin additionalProductAttributes, 1500 caracteres): {json.dumps(g_copy, ensure_ascii=False)[:1500]}", file=sys.stderr)
-            else:
-                print("DEBUG groups -> no se encontró productGroups como lista", file=sys.stderr)
+    # Ahora, por separado: diagnóstico de la página raíz de categorías, para
+    # encontrar el árbol completo y no depender de una URL a mano.
+    print("Probando con la página raíz de categorías", file=sys.stderr)
+    root_html = fetch(f"{BASE}/categories")
+    if root_html is not None:
+        root_state = extract_initial_state(root_html)
+        if root_state is not None:
+            list_candidates = collect_dict_lists(root_state)
+            list_candidates.sort(key=lambda c: c[1], reverse=True)
+            print(f"DEBUG categorías -> {len(list_candidates)} listas de objetos encontradas", file=sys.stderr)
+            for path, length, sample in list_candidates[:10]:
+                print(f"DEBUG categorías lista -> {path} | elementos: {length} | claves: {list(sample.keys())}", file=sys.stderr)
 
-    # Salida provisional vacía: esta fase es solo de diagnóstico.
+            dict_candidates = collect_dict_of_dicts(root_state)
+            dict_candidates.sort(key=lambda c: c[1], reverse=True)
+            print(f"DEBUG categorías -> {len(dict_candidates)} diccionarios tipo mapa encontrados", file=sys.stderr)
+            for path, length, sample in dict_candidates[:10]:
+                print(f"DEBUG categorías mapa -> {path} | elementos: {length} | claves: {list(sample.keys())}", file=sys.stderr)
+
+            # Candidatos con más probabilidad de ser el árbol de categorías: los que
+            # tengan alguna clave relacionada con nombre/slug/url.
+            print("DEBUG categorías -> buscando específicamente algo con 'categor' en la ruta", file=sys.stderr)
+            for k in (root_state.get("data") or {}).keys():
+                if "categ" in k.lower() or "nav" in k.lower() or "taxonomy" in k.lower():
+                    print(f"DEBUG categorías -> clave interesante en data: '{k}'", file=sys.stderr)
+                    print(f"DEBUG categorías -> contenido (1200 caracteres): {json.dumps(root_state['data'][k], ensure_ascii=False)[:1200]}", file=sys.stderr)
+
     output = {
         "store": "Alcampo",
         "region": "España",
         "updated_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
         "product_count": len(products_found),
         "products": products_found,
-        "note": "Fase de diagnóstico, sin productos todavía. Revisa el log DEBUG.",
+        "note": "Fase de diagnóstico de categorías, productos de una sola categoría de ejemplo.",
     }
     print(json.dumps(output, ensure_ascii=False, indent=2))
 
