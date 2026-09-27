@@ -1,8 +1,8 @@
 {
   "store": "Mercadona",
   "region": "Madrid capital",
-  "updated_at": "2026-09-26T09:41:57Z",
-  "product_count": 4542,
+  "updated_at": "2026-09-27T10:21:43Z",
+  "product_count": 4553,
   "products": [
     {
       "id": "4241",
@@ -6695,6 +6695,26 @@
       "url": "https://tienda.mercadona.es/product/52442/barritas-peanuts-banadas-chocolate-con-leche-rellenas-con-caramelo-cacahuetes-tostados-crema-azucarada-hacendado-paquete"
     },
     {
+      "id": "17551",
+      "name": "Surtido chocolates con leche Halloween Hacendado",
+      "packaging": "Paquete",
+      "category": "Azúcar, caramelos y chocolate · Chocolate",
+      "price": 1.25,
+      "reference_price": "13.89",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/17551/surtido-chocolates-con-leche-halloween-hacendado-paquete"
+    },
+    {
+      "id": "8863",
+      "name": "Piruleta de chocolate Halloween Hacendado",
+      "packaging": null,
+      "category": "Azúcar, caramelos y chocolate · Chocolate",
+      "price": 1.7,
+      "reference_price": "48.57",
+      "reference_unit": "100 g",
+      "url": "https://tienda.mercadona.es/product/8863/piruleta-chocolate-halloween-hacendado"
+    },
+    {
       "id": "21491",
       "name": "Mix mini barritas de chocolate Hacendado",
       "packaging": "Caja",
@@ -6733,6 +6753,16 @@
       "reference_price": "15.38",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/21688/barritas-crujientes-hacendado-recubiertas-chocolate-con-leche-paquete"
+    },
+    {
+      "id": "35909",
+      "name": "Bombones cereza al licor Hacendado con chocolate",
+      "packaging": "Paquete",
+      "category": "Azúcar, caramelos y chocolate · Chocolate",
+      "price": 2.2,
+      "reference_price": "14.67",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/35909/bombones-cereza-licor-hacendado-con-chocolate-negro-paquete"
     },
     {
       "id": "8920",
@@ -6783,6 +6813,26 @@
       "reference_price": "15.08",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/14355/bombones-chocolate-con-leche-mini-peanut-cups-hacendado-relleno-crema-pedazos-cacahuete-paquete"
+    },
+    {
+      "id": "14469",
+      "name": "Bolitas de coco Hacendado",
+      "packaging": "Paquete",
+      "category": "Azúcar, caramelos y chocolate · Chocolate",
+      "price": 1.9,
+      "reference_price": "7.92",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/14469/bolitas-coco-hacendado-paquete"
+    },
+    {
+      "id": "17947",
+      "name": "Bombones de pistacho Hacendado",
+      "packaging": "Paquete",
+      "category": "Azúcar, caramelos y chocolate · Chocolate",
+      "price": 4.2,
+      "reference_price": "25.93",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/17947/bombones-pistacho-hacendado-paquete"
     },
     {
       "id": "67416",
@@ -6863,6 +6913,16 @@
       "reference_price": "5.30",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/16883/crema-cacahuete-100-hacendado-tarro"
+    },
+    {
+      "id": "24543",
+      "name": "Snacks de golosinas Top Xuxes Hacendado",
+      "packaging": "Caja",
+      "category": "Azúcar, caramelos y chocolate · Golosinas",
+      "price": 1.6,
+      "reference_price": "8.00",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/24543/snacks-golosinas-top-xuxes-hacendado-caja"
     },
     {
       "id": "17719",
@@ -7015,6 +7075,16 @@
       "url": "https://tienda.mercadona.es/product/9792/cono-golosinas-celebracion-hacendado-contiene-snack-maiz-piruleta-comprimido-con-polvo-pica-sabor-fresa-palote-espuma-dulce-caramelos-goma-paquete"
     },
     {
+      "id": "8819",
+      "name": "Golosinas Halloween BOO! Mix Hacendado",
+      "packaging": "Paquete",
+      "category": "Azúcar, caramelos y chocolate · Golosinas",
+      "price": 1.6,
+      "reference_price": "5.33",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/8819/golosinas-halloween-boo-mix-hacendado-paquete"
+    },
+    {
       "id": "8946",
       "name": "Golosinas Mini Mix con pica Hacendado",
       "packaging": "Paquete",
@@ -7063,6 +7133,26 @@
       "reference_price": "12.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/16362/golosinas-llaves-super-acidas-hacendado-paquete"
+    },
+    {
+      "id": "17805",
+      "name": "Golosinas ojos rellenos Halloween Trolli Spooky Balls",
+      "packaging": "Paquete",
+      "category": "Azúcar, caramelos y chocolate · Golosinas",
+      "price": 1.6,
+      "reference_price": "21.33",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/17805/golosinas-ojos-rellenos-halloween-trolli-spooky-balls-paquete"
+    },
+    {
+      "id": "17806",
+      "name": "Golosinas calaveras Halloween super ácidas Hacendado",
+      "packaging": "Paquete",
+      "category": "Azúcar, caramelos y chocolate · Golosinas",
+      "price": 1.0,
+      "reference_price": "10.00",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/17806/golosinas-calaveras-halloween-super-acidas-hacendado-paquete"
     },
     {
       "id": "86755",
@@ -7243,6 +7333,56 @@
       "reference_price": "4.21",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/15094/confitura-melocoton-hacendado-0-azucares-anadidos-tarro"
+    },
+    {
+      "id": "67875",
+      "name": "Turrón de chocolate crujiente Hacendado",
+      "packaging": "Tableta",
+      "category": "Azúcar, caramelos y chocolate · Turrones",
+      "price": 2.25,
+      "reference_price": "9.00",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/67875/turron-chocolate-crujiente-hacendado-tableta"
+    },
+    {
+      "id": "36127",
+      "name": "Turrón de chocolate blanco crujiente Hacendado",
+      "packaging": "Tableta",
+      "category": "Azúcar, caramelos y chocolate · Turrones",
+      "price": 2.0,
+      "reference_price": "8.00",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/36127/turron-chocolate-blanco-crujiente-hacendado-tableta"
+    },
+    {
+      "id": "36143",
+      "name": "Turrón de pistacho Hacendado",
+      "packaging": "Tableta",
+      "category": "Azúcar, caramelos y chocolate · Turrones",
+      "price": 2.9,
+      "reference_price": "19.33",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/36143/turron-pistacho-hacendado-tableta"
+    },
+    {
+      "id": "52419",
+      "name": "Turrón de cheesecake Hacendado",
+      "packaging": "Tableta",
+      "category": "Azúcar, caramelos y chocolate · Turrones",
+      "price": 2.0,
+      "reference_price": "13.33",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/52419/turron-cheesecake-hacendado-tableta"
+    },
+    {
+      "id": "17701",
+      "name": "Turrón chocolate blanco Cookies & Cream Hacendado relleno de crema de galletas y cacao",
+      "packaging": "Tableta",
+      "category": "Azúcar, caramelos y chocolate · Turrones",
+      "price": 2.0,
+      "reference_price": "13.33",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/17701/turron-chocolate-blanco-cookies-cream-hacendado-relleno-crema-galletas-cacao-tableta"
     },
     {
       "id": "9280",
@@ -17395,6 +17535,16 @@
       "url": "https://tienda.mercadona.es/product/61302/arroz-precocido-hacendado-ultracongelado-paquete"
     },
     {
+      "id": "22720",
+      "name": "Risotto de setas para microondas Hacendado ultracongelado",
+      "packaging": "Paquete",
+      "category": "Congelados · Arroz y pasta",
+      "price": 2.0,
+      "reference_price": "5.71",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/22720/risotto-setas-hacendado-ultracongelados-paquete"
+    },
+    {
       "id": "35541",
       "name": "Arroz negro Hacendado ultracongelado",
       "packaging": "Paquete",
@@ -18383,16 +18533,6 @@
       "reference_price": "3.40",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/64221/helado-cucurucho-fresa-nata-caja"
-    },
-    {
-      "id": "64514",
-      "name": "Flash popitos Hacendado",
-      "packaging": "Paquete",
-      "category": "Congelados · Helados",
-      "price": 1.5,
-      "reference_price": "1.50",
-      "reference_unit": "L",
-      "url": "https://tienda.mercadona.es/product/64514/flash-popitos-hacendado-paquete"
     },
     {
       "id": "64087",
@@ -21263,16 +21403,6 @@
       "reference_price": "2.30",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/7024/caldo-pollo-casero-gallina-blanca-brick"
-    },
-    {
-      "id": "7032",
-      "name": "Caldo de verduras Hacendado",
-      "packaging": "Brik",
-      "category": "Conservas, caldos y cremas · Sopa y caldo",
-      "price": 0.95,
-      "reference_price": "0.95",
-      "reference_unit": "L",
-      "url": "https://tienda.mercadona.es/product/7032/caldo-verduras-hacendado-brick"
     },
     {
       "id": "22081",
@@ -28135,6 +28265,16 @@
       "url": "https://tienda.mercadona.es/product/23367/capsulas-valeriana-deliplus-elaborado-base-especies-vegetales-caja"
     },
     {
+      "id": "22233",
+      "name": "Spray oral Própolis Deliplus",
+      "packaging": "Spray",
+      "category": "Fitoterapia y parafarmacia · Fitoterapia",
+      "price": 3.6,
+      "reference_price": "180.00",
+      "reference_unit": "100 ml",
+      "url": "https://tienda.mercadona.es/product/22233/spray-oral-propolis-deliplus-contiene-equinacea-eucalipto-elaborado-base-especies-vegetales-liquen-islandia-spray"
+    },
+    {
       "id": "79655",
       "name": "Sticks Jalea Real y Própolis Deliplus",
       "packaging": "Caja",
@@ -28609,7 +28749,7 @@
       "name": "Banana",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.26,
+      "price": 0.28,
       "reference_price": "1.55",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3824/banana-pieza"
@@ -28689,7 +28829,7 @@
       "name": "Manzana roja dulce",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.4,
+      "price": 0.38,
       "reference_price": "2.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/8177/manzana-roja-dulce-pieza"
@@ -28749,7 +28889,7 @@
       "name": "Medio melón piel de sapo",
       "packaging": "1/2 Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 2.24,
+      "price": 2.25,
       "reference_price": "1.35",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3515/medio-melon-piel-sapo-12-pieza"
@@ -28759,7 +28899,7 @@
       "name": "Melón piel de sapo",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 2.97,
+      "price": 3.02,
       "reference_price": "0.90",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3506/melon-piel-sapo-pieza"
@@ -28819,7 +28959,7 @@
       "name": "Pomelo",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 1.12,
+      "price": 1.16,
       "reference_price": "3.30",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3202/pomelo-pieza"
@@ -28889,7 +29029,7 @@
       "name": "Piña",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 3.7,
+      "price": 3.8,
       "reference_price": "2.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3076/pina-pieza"
@@ -28939,7 +29079,7 @@
       "name": "Papaya",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 3.1,
+      "price": 2.99,
       "reference_price": "5.25",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3026/papaya-pieza"
@@ -28969,7 +29109,7 @@
       "name": "Ciruela roja",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.49,
+      "price": 0.46,
       "reference_price": "3.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3601/ciruela-roja-pieza"
@@ -29039,7 +29179,7 @@
       "name": "Melocotón amarillo",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.79,
+      "price": 0.76,
       "reference_price": "3.30",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3433/melocoton-amarillo-pieza"
@@ -29379,7 +29519,7 @@
       "name": "Patata",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.46,
+      "price": 0.44,
       "reference_price": "1.90",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69066/patata-pieza"
@@ -29449,7 +29589,7 @@
       "name": "Yuca",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 2.41,
+      "price": 2.48,
       "reference_price": "3.30",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69173/yuca-pieza"
@@ -29639,7 +29779,7 @@
       "name": "Rama de Tomates",
       "packaging": "Granel",
       "category": "Fruta y verdura · Verdura",
-      "price": 1.51,
+      "price": 1.49,
       "reference_price": "2.40",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69487/rama-tomates-granel"
@@ -29729,7 +29869,7 @@
       "name": "Calabacín verde",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.8,
+      "price": 0.82,
       "reference_price": "1.90",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69338/calabacin-verde-pieza"
@@ -29739,7 +29879,7 @@
       "name": "Pimiento verde freír",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.23,
+      "price": 0.2,
       "reference_price": "2.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69320/pimiento-verde-freir-pieza"
@@ -29779,7 +29919,7 @@
       "name": "Coliflor",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 3.1,
+      "price": 2.9,
       "reference_price": "2.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69220/coliflor-pieza"
@@ -31133,16 +31273,6 @@
       "reference_price": "2.13",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/60926/bebida-avena-con-chocolate-sin-azucares-anadidos-hacendado-pack-3"
-    },
-    {
-      "id": "14176",
-      "name": "Horchata de chufa sin azúcares añadidos Hacendado",
-      "packaging": "Brik",
-      "category": "Huevos, leche y mantequilla · Leche y bebidas vegetales",
-      "price": 1.6,
-      "reference_price": "1.60",
-      "reference_unit": "L",
-      "url": "https://tienda.mercadona.es/product/14176/horchata-chufa-sin-azucares-anadidos-hacendado-brick"
     },
     {
       "id": "10050",
@@ -35875,16 +36005,6 @@
       "url": "https://tienda.mercadona.es/product/77749/vaselina-hidratante-deliplus-tarro"
     },
     {
-      "id": "95730",
-      "name": "Vaselina perfumada para labios Deliplus frambuesa",
-      "packaging": "Tarro",
-      "category": "Maquillaje · Labios",
-      "price": 1.6,
-      "reference_price": "106.67",
-      "reference_unit": "100 g",
-      "url": "https://tienda.mercadona.es/product/95730/vaselina-perfumada-labios-deliplus-frambuesa-tarro"
-    },
-    {
       "id": "22804",
       "name": "Bálsamo reparador labios Deliplus",
       "packaging": "Tubo",
@@ -36373,16 +36493,6 @@
       "reference_price": "3.75",
       "reference_unit": "ud",
       "url": "https://tienda.mercadona.es/product/16447/perfilador-ojos-eyeliner-waterproof-deliplus-negro"
-    },
-    {
-      "id": "17800",
-      "name": "Delineador dúo para ojos y pecas Caramel Kiss Deliplus marrón",
-      "packaging": null,
-      "category": "Maquillaje · Ojos",
-      "price": 4.0,
-      "reference_price": "4.00",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/17800/delineador-duo-ojos-pecas-caramel-kiss-deliplus-marron"
     },
     {
       "id": "23199",
