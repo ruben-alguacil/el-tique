@@ -1,8 +1,8 @@
 {
   "store": "Mercadona",
   "region": "Madrid capital",
-  "updated_at": "2026-10-02T10:52:45Z",
-  "product_count": 4557,
+  "updated_at": "2026-10-03T10:12:22Z",
+  "product_count": 4549,
   "products": [
     {
       "id": "4241",
@@ -8165,6 +8165,16 @@
       "url": "https://tienda.mercadona.es/product/17787/panales-bebe-talla-2-deliplus-3-6-kg-paquete"
     },
     {
+      "id": "17786",
+      "name": "Pañales bebé talla 1 Deliplus de 2-4 kg",
+      "packaging": "Paquete",
+      "category": "Bebé · Toallitas y pañales",
+      "price": 7.9,
+      "reference_price": "0.16",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/17786/panales-bebe-talla-1-deliplus-2-4-kg-paquete"
+    },
+    {
       "id": "17791",
       "name": "Pañales bebé talla 4 Deliplus de 10-15 kg",
       "packaging": null,
@@ -9099,8 +9109,8 @@
       "name": "Ginebra London Dry Gin Larios",
       "packaging": "Botella",
       "category": "Bodega · Licores",
-      "price": 12.2,
-      "reference_price": "12.20",
+      "price": 10.95,
+      "reference_price": "10.95",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/28715/ginebra-london-dry-gin-larios-botella"
     },
@@ -9239,8 +9249,8 @@
       "name": "Whisky DYC",
       "packaging": "Botella",
       "category": "Bodega · Licores",
-      "price": 9.95,
-      "reference_price": "14.21",
+      "price": 8.95,
+      "reference_price": "12.79",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/28600/whisky-dyc-botella"
     },
@@ -10425,6 +10435,16 @@
       "url": "https://tienda.mercadona.es/product/19846/cacao-soluble-colacao-original-caja"
     },
     {
+      "id": "13006",
+      "name": "Cacao soluble cero ColaCao",
+      "packaging": "Bote",
+      "category": "Cacao, café e infusiones · Cacao soluble y chocolate a la taza",
+      "price": 5.4,
+      "reference_price": "16.62",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/13006/cacao-soluble-0-azucares-anadidos-colacao-bote"
+    },
+    {
       "id": "13021",
       "name": "Cacao soluble ColaCao original",
       "packaging": "Bote",
@@ -10929,8 +10949,8 @@
       "name": "Café molido Colombia Hacendado",
       "packaging": "Paquete",
       "category": "Cacao, café e infusiones · Café molido y en grano",
-      "price": 3.7,
-      "reference_price": "14.80",
+      "price": 3.6,
+      "reference_price": "14.40",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/11715/cafe-molido-colombia-hacendado-paquete"
     },
@@ -10959,8 +10979,8 @@
       "name": "Café en grano Brasil Hacendado",
       "packaging": "Paquete",
       "category": "Cacao, café e infusiones · Café molido y en grano",
-      "price": 7.0,
-      "reference_price": "14.00",
+      "price": 6.9,
+      "reference_price": "13.80",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/17670/cafe-grano-brasil-hacendado-paquete"
     },
@@ -10989,8 +11009,8 @@
       "name": "Café en grano Colombia Hacendado",
       "packaging": "Paquete",
       "category": "Cacao, café e infusiones · Café molido y en grano",
-      "price": 7.0,
-      "reference_price": "14.00",
+      "price": 6.9,
+      "reference_price": "13.80",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/14798/cafe-grano-colombia-hacendado-paquete"
     },
@@ -14195,16 +14215,6 @@
       "url": "https://tienda.mercadona.es/product/14054/galletas-digestive-choco-avena-hacendado-caja"
     },
     {
-      "id": "17731",
-      "name": "Barquillos de cacao rellenos con crema de leche y de avellanas Knoppers",
-      "packaging": null,
-      "category": "Cereales y galletas · Galletas",
-      "price": 1.25,
-      "reference_price": "10.00",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/17731/barquillos-rellenos-con-crema-leche-avellanas-knoppers"
-    },
-    {
       "id": "17929",
       "name": "Galletas rebuenas Hacendado rellenas de chocolate blanco",
       "packaging": "Paquete",
@@ -16163,16 +16173,6 @@
       "reference_price": "18.75",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/58154/paleta-cebo-iberica-hacienda-iberico-pieza"
-    },
-    {
-      "id": "19966",
-      "name": "Paleta de cerdo curada Incarlopsa",
-      "packaging": "Pieza",
-      "category": "Charcutería y quesos · Jamón serrano",
-      "price": 30.0,
-      "reference_price": "7.50",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/19966/paleta-cerdo-curada-incarlopsa-pieza"
     },
     {
       "id": "16272",
@@ -23865,56 +23865,6 @@
       "url": "https://tienda.mercadona.es/product/46831/aceite-corporal-rosa-mosqueta-deliplus-100-puro-natural-bote"
     },
     {
-      "id": "16431",
-      "name": "Crema corporal Africa oil Deliplus",
-      "packaging": "Tarro",
-      "category": "Cuidado facial y corporal · Cuidado corporal",
-      "price": 3.3,
-      "reference_price": "11.00",
-      "reference_unit": "100 ml",
-      "url": "https://tienda.mercadona.es/product/16431/crema-corporal-africa-oil-deliplus-tarro"
-    },
-    {
-      "id": "16374",
-      "name": "Lote corporal mujer Pistacho Cream Deliplus",
-      "packaging": null,
-      "category": "Cuidado facial y corporal · Cuidado corporal",
-      "price": 6.0,
-      "reference_price": "6.00",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/16374/lote-corporal-mujer-pistacho-cream-deliplus-contiene-fragancia-mist-250ml-leche-corporal-glitter-100ml"
-    },
-    {
-      "id": "16397",
-      "name": "Lote mujer Extratime Como tú",
-      "packaging": null,
-      "category": "Cuidado facial y corporal · Cuidado corporal",
-      "price": 10.0,
-      "reference_price": "10.00",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/16397/lote-mujer-extratime-contiene-eau-parfum-100-ml-gel-bano-100-ml-body-milk-100-ml"
-    },
-    {
-      "id": "16377",
-      "name": "Crema corporal anticelulítico reafirmante Deliplus",
-      "packaging": "Bote",
-      "category": "Cuidado facial y corporal · Cuidado corporal",
-      "price": 5.5,
-      "reference_price": "13.75",
-      "reference_unit": "100 ml",
-      "url": "https://tienda.mercadona.es/product/16377/crema-corporal-anticelulitico-reafirmante-deliplus-bote"
-    },
-    {
-      "id": "18135",
-      "name": "Exfoliante corporal Ámbar Deliplus",
-      "packaging": "Bote",
-      "category": "Cuidado facial y corporal · Cuidado corporal",
-      "price": 4.0,
-      "reference_price": "16.00",
-      "reference_unit": "100 ml",
-      "url": "https://tienda.mercadona.es/product/18135/exfoliante-corporal-ambar-deliplus-bote"
-    },
-    {
       "id": "52795",
       "name": "Loción corporal Hidrata Deliplus aloe vera y ácido hialurónico",
       "packaging": "Bote",
@@ -24065,6 +24015,56 @@
       "url": "https://tienda.mercadona.es/product/13971/manteca-corporal-murumuru-deliplus-tarro"
     },
     {
+      "id": "16431",
+      "name": "Crema corporal Africa oil Deliplus",
+      "packaging": "Tarro",
+      "category": "Cuidado facial y corporal · Cuidado corporal",
+      "price": 3.3,
+      "reference_price": "11.00",
+      "reference_unit": "100 ml",
+      "url": "https://tienda.mercadona.es/product/16431/crema-corporal-africa-oil-deliplus-tarro"
+    },
+    {
+      "id": "16374",
+      "name": "Lote corporal mujer Pistacho Cream Deliplus",
+      "packaging": null,
+      "category": "Cuidado facial y corporal · Cuidado corporal",
+      "price": 6.0,
+      "reference_price": "6.00",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/16374/lote-corporal-mujer-pistacho-cream-deliplus-contiene-fragancia-mist-250ml-leche-corporal-glitter-100ml"
+    },
+    {
+      "id": "16397",
+      "name": "Lote mujer Extratime Como tú",
+      "packaging": null,
+      "category": "Cuidado facial y corporal · Cuidado corporal",
+      "price": 10.0,
+      "reference_price": "10.00",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/16397/lote-mujer-extratime-contiene-eau-parfum-100-ml-gel-bano-100-ml-body-milk-100-ml"
+    },
+    {
+      "id": "16377",
+      "name": "Crema corporal anticelulítico reafirmante Deliplus",
+      "packaging": "Bote",
+      "category": "Cuidado facial y corporal · Cuidado corporal",
+      "price": 5.5,
+      "reference_price": "13.75",
+      "reference_unit": "100 ml",
+      "url": "https://tienda.mercadona.es/product/16377/crema-corporal-anticelulitico-reafirmante-deliplus-bote"
+    },
+    {
+      "id": "18135",
+      "name": "Exfoliante corporal Ámbar Deliplus",
+      "packaging": "Bote",
+      "category": "Cuidado facial y corporal · Cuidado corporal",
+      "price": 4.0,
+      "reference_price": "16.00",
+      "reference_unit": "100 ml",
+      "url": "https://tienda.mercadona.es/product/18135/exfoliante-corporal-ambar-deliplus-bote"
+    },
+    {
       "id": "46812",
       "name": "Crema de manos flor de Japón Deliplus Hidrata & Perfuma",
       "packaging": "Tubo",
@@ -24135,16 +24135,6 @@
       "url": "https://tienda.mercadona.es/product/18162/crema-manos-hidratante-con-aloe-vera-acido-hialuronico-deliplus-bote"
     },
     {
-      "id": "16386",
-      "name": "Stick antirozaduras Deliplus",
-      "packaging": "Bote",
-      "category": "Cuidado facial y corporal · Cuidado corporal",
-      "price": 4.0,
-      "reference_price": "333.33",
-      "reference_unit": "100 g",
-      "url": "https://tienda.mercadona.es/product/16386/stick-antirozaduras-deliplus-bote"
-    },
-    {
       "id": "46771",
       "name": "Crema para pies 10% urea pura Deliplus",
       "packaging": "Bote",
@@ -24163,6 +24153,16 @@
       "reference_price": "8.80",
       "reference_unit": "100 ml",
       "url": "https://tienda.mercadona.es/product/46833/crema-hidratante-pies-deliplus-anti-sequedad-bote"
+    },
+    {
+      "id": "16386",
+      "name": "Stick antirozaduras Deliplus",
+      "packaging": "Bote",
+      "category": "Cuidado facial y corporal · Cuidado corporal",
+      "price": 4.0,
+      "reference_price": "333.33",
+      "reference_unit": "100 g",
+      "url": "https://tienda.mercadona.es/product/16386/stick-antirozaduras-deliplus-bote"
     },
     {
       "id": "47291",
@@ -24253,36 +24253,6 @@
       "reference_price": "0.10",
       "reference_unit": "ud",
       "url": "https://tienda.mercadona.es/product/60561/toallitas-refrescantes-deliplus-monodosis-caja"
-    },
-    {
-      "id": "16472",
-      "name": "Parches faciales Hidrocoloides Oil Free",
-      "packaging": "Caja",
-      "category": "Cuidado facial y corporal · Cuidado e higiene facial",
-      "price": 4.5,
-      "reference_price": "0.19",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/16472/parches-faciales-hidrocoloides-deliplus-oil-free-caja"
-    },
-    {
-      "id": "17733",
-      "name": "Mascarilla facial Exosome Mask Deliplus con xilitol y vitamina B3",
-      "packaging": "Paquete",
-      "category": "Cuidado facial y corporal · Cuidado e higiene facial",
-      "price": 1.75,
-      "reference_price": "1.75",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/17733/mascarilla-facial-exosome-mask-deliplus-con-xilitol-vitamina-b3-paquete"
-    },
-    {
-      "id": "18339",
-      "name": "Parches hidrogel para ojos y rostro Hidratantes Deliplus con microagujas de ácido hialurónico",
-      "packaging": "Paquete",
-      "category": "Cuidado facial y corporal · Cuidado e higiene facial",
-      "price": 2.3,
-      "reference_price": "1.15",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/18339/parches-hidrogel-ojos-rostro-hidratantes-deliplus-con-microagujas-acido-hialuronico-paquete"
     },
     {
       "id": "18398",
@@ -24465,6 +24435,16 @@
       "url": "https://tienda.mercadona.es/product/21567/mascarilla-facial-mask-stick-facial-clean-deliplus-iluminador-detox-tipo-pieles-tubo"
     },
     {
+      "id": "16472",
+      "name": "Parches faciales Hidrocoloides Oil Free",
+      "packaging": "Caja",
+      "category": "Cuidado facial y corporal · Cuidado e higiene facial",
+      "price": 4.5,
+      "reference_price": "0.19",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/16472/parches-faciales-hidrocoloides-deliplus-oil-free-caja"
+    },
+    {
       "id": "21969",
       "name": "Desmaquillador de ojos y labios bifásico Waterproof Facial Clean",
       "packaging": "Bote",
@@ -24475,14 +24455,14 @@
       "url": "https://tienda.mercadona.es/product/21969/desmaquillador-ojos-labios-bifasico-waterproof-facial-clean-tipo-piel-deliplus-bote"
     },
     {
-      "id": "16383",
-      "name": "Gel facial seborregulador antimarcas Oil Free",
-      "packaging": "Bote",
+      "id": "17733",
+      "name": "Mascarilla facial Exosome Mask Deliplus con xilitol y vitamina B3",
+      "packaging": "Paquete",
       "category": "Cuidado facial y corporal · Cuidado e higiene facial",
-      "price": 5.0,
-      "reference_price": "100.00",
-      "reference_unit": "100 ml",
-      "url": "https://tienda.mercadona.es/product/16383/gel-facial-seborregulador-antimarcas-deliplus-oil-free-pieles-grasas-con-tendencia-acneica-bote"
+      "price": 1.75,
+      "reference_price": "1.75",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/17733/mascarilla-facial-exosome-mask-deliplus-con-xilitol-vitamina-b3-paquete"
     },
     {
       "id": "50170",
@@ -24635,14 +24615,14 @@
       "url": "https://tienda.mercadona.es/product/21881/crema-facial-dia-antiarrugas-regen-skin-deliplus-con-exosomas-spf-30-piel-normal-seca-muy-seca-tarro"
     },
     {
-      "id": "18339",
-      "name": "Parches hidrogel para ojos y rostro Hidratantes Deliplus con microagujas de ácido hialurónico",
-      "packaging": "Paquete",
+      "id": "16383",
+      "name": "Gel facial seborregulador antimarcas Oil Free",
+      "packaging": "Bote",
       "category": "Cuidado facial y corporal · Cuidado e higiene facial",
-      "price": 2.3,
-      "reference_price": "1.15",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/18339/parches-hidrogel-ojos-rostro-hidratantes-deliplus-con-microagujas-acido-hialuronico-paquete"
+      "price": 5.0,
+      "reference_price": "100.00",
+      "reference_unit": "100 ml",
+      "url": "https://tienda.mercadona.es/product/16383/gel-facial-seborregulador-antimarcas-deliplus-oil-free-pieles-grasas-con-tendencia-acneica-bote"
     },
     {
       "id": "18419",
@@ -24693,26 +24673,6 @@
       "reference_price": "0.17",
       "reference_unit": "ud",
       "url": "https://tienda.mercadona.es/product/7914/capsulas-ojos-regen-skin-deliplus-tipo-piel-caja"
-    },
-    {
-      "id": "21599",
-      "name": "Sérum facial iluminador Anti Ox con 15% vitamina C",
-      "packaging": "Bote",
-      "category": "Cuidado facial y corporal · Cuidado e higiene facial",
-      "price": 6.0,
-      "reference_price": "200.00",
-      "reference_unit": "100 ml",
-      "url": "https://tienda.mercadona.es/product/21599/serum-facial-iluminador-deliplus-con-15-vitamina-c-anti-ox-bote"
-    },
-    {
-      "id": "21884",
-      "name": "Lote facial mujer Deliplus Glow",
-      "packaging": "Caja",
-      "category": "Cuidado facial y corporal · Cuidado e higiene facial",
-      "price": 6.0,
-      "reference_price": "6.00",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/21884/lote-facial-mujer-deliplus-glow-contiene-serum-luminoso-parches-ojos-hidrogel-con-peptidos-caja"
     },
     {
       "id": "18125",
@@ -24793,6 +24753,26 @@
       "reference_price": "98.33",
       "reference_unit": "100 ml",
       "url": "https://tienda.mercadona.es/product/52590/aceite-ricino-deliplus-nutre-fortalece-contiene-aplicador-bote"
+    },
+    {
+      "id": "21599",
+      "name": "Sérum facial iluminador Anti Ox con 15% vitamina C",
+      "packaging": "Bote",
+      "category": "Cuidado facial y corporal · Cuidado e higiene facial",
+      "price": 6.0,
+      "reference_price": "200.00",
+      "reference_unit": "100 ml",
+      "url": "https://tienda.mercadona.es/product/21599/serum-facial-iluminador-deliplus-con-15-vitamina-c-anti-ox-bote"
+    },
+    {
+      "id": "21884",
+      "name": "Lote facial mujer Deliplus Glow",
+      "packaging": "Caja",
+      "category": "Cuidado facial y corporal · Cuidado e higiene facial",
+      "price": 6.0,
+      "reference_price": "6.00",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/21884/lote-facial-mujer-deliplus-glow-contiene-serum-luminoso-parches-ojos-hidrogel-con-peptidos-caja"
     },
     {
       "id": "74079",
@@ -25105,6 +25085,16 @@
       "url": "https://tienda.mercadona.es/product/13057/desodorante-crema-piel-delicada-deliplus-antitranspirante-0-alcohol"
     },
     {
+      "id": "45483",
+      "name": "Desodorante en crema original Dove antitranspirante",
+      "packaging": null,
+      "category": "Cuidado facial y corporal · Desodorante",
+      "price": 2.55,
+      "reference_price": "51.00",
+      "reference_unit": "100 ml",
+      "url": "https://tienda.mercadona.es/product/45483/desodorante-crema-original-dove-antitranspirante-0-alcohol"
+    },
+    {
       "id": "46989",
       "name": "Desodorante piedra de alumbre mineral Deonat",
       "packaging": null,
@@ -25405,16 +25395,6 @@
       "url": "https://tienda.mercadona.es/product/46999/desodorante-pies-fresh-dry-deliplus-antitranspirante-spray"
     },
     {
-      "id": "20930",
-      "name": "Gel de baño Frutal Deliplus piel normal",
-      "packaging": "Botella",
-      "category": "Cuidado facial y corporal · Gel y jabón de manos",
-      "price": 1.2,
-      "reference_price": "1.20",
-      "reference_unit": "100 ml",
-      "url": "https://tienda.mercadona.es/product/20930/gel-bano-frutal-deliplus-piel-normal-botella"
-    },
-    {
       "id": "46578",
       "name": "Gel de baño oliva Deliplus piel seca",
       "packaging": "Botella",
@@ -25623,6 +25603,16 @@
       "reference_price": "2.13",
       "reference_unit": "100 ml",
       "url": "https://tienda.mercadona.es/product/12866/gel-bano-tiernos-recuerdos-deliplus-piel-normal-botella"
+    },
+    {
+      "id": "20930",
+      "name": "Gel de baño Frutal Deliplus piel normal",
+      "packaging": "Botella",
+      "category": "Cuidado facial y corporal · Gel y jabón de manos",
+      "price": 1.2,
+      "reference_price": "1.20",
+      "reference_unit": "100 ml",
+      "url": "https://tienda.mercadona.es/product/20930/gel-bano-frutal-deliplus-piel-normal-botella"
     },
     {
       "id": "67908",
@@ -25835,26 +25825,6 @@
       "url": "https://tienda.mercadona.es/product/14966/esponja-bano-vegetal-100-fibras-naturales-deliplus-paquete"
     },
     {
-      "id": "17607",
-      "name": "Dentífrico Kids +6 años Deliplus sabor cereza",
-      "packaging": "Tubo",
-      "category": "Cuidado facial y corporal · Higiene bucal",
-      "price": 0.95,
-      "reference_price": "12.67",
-      "reference_unit": "100 ml",
-      "url": "https://tienda.mercadona.es/product/17607/dentifrico-kids-6-anos-deliplus-sabor-cereza-tubo"
-    },
-    {
-      "id": "17677",
-      "name": "Kit de blanqueamiento dental Deliplus",
-      "packaging": "Caja",
-      "category": "Cuidado facial y corporal · Higiene bucal",
-      "price": 7.0,
-      "reference_price": "7.00",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/17677/kit-blanqueamiento-dental-deliplus-contiene-ferula-silicona-tubo-gel-blanqueador-30-ml-caja"
-    },
-    {
       "id": "73978",
       "name": "Dentífrico Triple Acción Colgate menta intensa",
       "packaging": "Tubo",
@@ -26045,6 +26015,16 @@
       "url": "https://tienda.mercadona.es/product/23674/dentifrico-infantil-6-anos-deliplus-menta-suave-tubo"
     },
     {
+      "id": "17607",
+      "name": "Dentífrico Kids +6 años Deliplus sabor cereza",
+      "packaging": "Tubo",
+      "category": "Cuidado facial y corporal · Higiene bucal",
+      "price": 0.95,
+      "reference_price": "12.67",
+      "reference_unit": "100 ml",
+      "url": "https://tienda.mercadona.es/product/17607/dentifrico-kids-6-anos-deliplus-sabor-cereza-tubo"
+    },
+    {
       "id": "35654",
       "name": "Dentífrico reparación activa de encías Parodontax menta fresca",
       "packaging": "Tubo",
@@ -26083,6 +26063,16 @@
       "reference_price": "17.00",
       "reference_unit": "100 ml",
       "url": "https://tienda.mercadona.es/product/15348/dentifrico-total-expert-deliplus-con-paraprobiotico-tubo"
+    },
+    {
+      "id": "17677",
+      "name": "Kit de blanqueamiento dental Deliplus",
+      "packaging": "Caja",
+      "category": "Cuidado facial y corporal · Higiene bucal",
+      "price": 7.0,
+      "reference_price": "7.00",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/17677/kit-blanqueamiento-dental-deliplus-contiene-ferula-silicona-tubo-gel-blanqueador-30-ml-caja"
     },
     {
       "id": "21569",
@@ -26915,76 +26905,6 @@
       "url": "https://tienda.mercadona.es/product/44913/gel-higiene-intima-hidratante-deliplus-bote"
     },
     {
-      "id": "21860",
-      "name": "Tratamiento para uñas base blanqueante cálcio Deliplus 58",
-      "packaging": null,
-      "category": "Cuidado facial y corporal · Manicura y pedicura",
-      "price": 3.5,
-      "reference_price": "3.50",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/21860/tratamiento-unas-base-blanqueante-calcio-deliplus-58"
-    },
-    {
-      "id": "21941",
-      "name": "Laca de uñas alto brillo Deliplus 144 verde pastel",
-      "packaging": null,
-      "category": "Cuidado facial y corporal · Manicura y pedicura",
-      "price": 2.0,
-      "reference_price": "2.00",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/21941/laca-unas-alto-brillo-deliplus-144-verde-pastel"
-    },
-    {
-      "id": "21948",
-      "name": "Laca de uñas alto brillo Deliplus 149 rosa medio",
-      "packaging": null,
-      "category": "Cuidado facial y corporal · Manicura y pedicura",
-      "price": 2.0,
-      "reference_price": "2.00",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/21948/laca-unas-alto-brillo-deliplus-149-rosa-medio"
-    },
-    {
-      "id": "21949",
-      "name": "Laca de uñas alto brillo Deliplus 150 coral",
-      "packaging": null,
-      "category": "Cuidado facial y corporal · Manicura y pedicura",
-      "price": 2.0,
-      "reference_price": "2.00",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/21949/laca-unas-alto-brillo-deliplus-150-coral"
-    },
-    {
-      "id": "21950",
-      "name": "Laca de uñas alto brillo Deliplus 151 verde medio",
-      "packaging": null,
-      "category": "Cuidado facial y corporal · Manicura y pedicura",
-      "price": 2.0,
-      "reference_price": "2.00",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/21950/laca-unas-alto-brillo-deliplus-151-verde-medio"
-    },
-    {
-      "id": "21951",
-      "name": "Laca de uñas alto brillo Deliplus 152 azul medio",
-      "packaging": null,
-      "category": "Cuidado facial y corporal · Manicura y pedicura",
-      "price": 2.0,
-      "reference_price": "2.00",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/21951/laca-unas-alto-brillo-deliplus-152-azul-medio"
-    },
-    {
-      "id": "21952",
-      "name": "Laca de uñas alto brillo Deliplus 153 magenta",
-      "packaging": null,
-      "category": "Cuidado facial y corporal · Manicura y pedicura",
-      "price": 2.0,
-      "reference_price": "2.00",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/21952/laca-unas-alto-brillo-deliplus-153-magenta"
-    },
-    {
       "id": "17583",
       "name": "Laca de uñas alto brillo Deliplus 155 burdeos",
       "packaging": null,
@@ -27053,6 +26973,16 @@
       "reference_price": "3.50",
       "reference_unit": "100 ml",
       "url": "https://tienda.mercadona.es/product/42286/tratamiento-unas-gel-brillo-top-coat-deliplus-secado-rapido"
+    },
+    {
+      "id": "21860",
+      "name": "Tratamiento para uñas base blanqueante cálcio Deliplus 58",
+      "packaging": null,
+      "category": "Cuidado facial y corporal · Manicura y pedicura",
+      "price": 3.5,
+      "reference_price": "3.50",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/21860/tratamiento-unas-base-blanqueante-calcio-deliplus-58"
     },
     {
       "id": "41692",
@@ -27303,66 +27233,6 @@
       "reference_price": "120.00",
       "reference_unit": "100 ml",
       "url": "https://tienda.mercadona.es/product/18123/eau-parfum-mujer-soiree-my-soul-frasco"
-    },
-    {
-      "id": "21764",
-      "name": "Eau de toilette mujer Amber Aqua Royale",
-      "packaging": "Frasco",
-      "category": "Cuidado facial y corporal · Perfume y colonia",
-      "price": 7.5,
-      "reference_price": "37.50",
-      "reference_unit": "100 ml",
-      "url": "https://tienda.mercadona.es/product/21764/eau-toilette-mujer-aqua-royale-amber-frasco"
-    },
-    {
-      "id": "21763",
-      "name": "Eau de toilette mujer Verdant Aqua Royale",
-      "packaging": "Frasco",
-      "category": "Cuidado facial y corporal · Perfume y colonia",
-      "price": 7.5,
-      "reference_price": "37.50",
-      "reference_unit": "100 ml",
-      "url": "https://tienda.mercadona.es/product/21763/eau-toilette-hombre-aqua-royale-verdant-frasco"
-    },
-    {
-      "id": "17687",
-      "name": "Eau de toilette mujer Wonder Aqua Royale",
-      "packaging": "Frasco",
-      "category": "Cuidado facial y corporal · Perfume y colonia",
-      "price": 7.5,
-      "reference_price": "37.50",
-      "reference_unit": "100 ml",
-      "url": "https://tienda.mercadona.es/product/17687/eau-toilette-mujer-aqua-royale-wonder-frasco"
-    },
-    {
-      "id": "16391",
-      "name": "Eau de parfum mujer Alma Como Tú",
-      "packaging": "Frasco",
-      "category": "Cuidado facial y corporal · Perfume y colonia",
-      "price": 8.0,
-      "reference_price": "80.00",
-      "reference_unit": "100 ml",
-      "url": "https://tienda.mercadona.es/product/16391/eau-parfum-mujer-alma-frasco"
-    },
-    {
-      "id": "24063",
-      "name": "Eau de parfum mujer Rubis My Soul",
-      "packaging": "Frasco",
-      "category": "Cuidado facial y corporal · Perfume y colonia",
-      "price": 13.0,
-      "reference_price": "130.00",
-      "reference_unit": "100 ml",
-      "url": "https://tienda.mercadona.es/product/24063/eau-parfum-mujer-rubis-my-soul-frasco"
-    },
-    {
-      "id": "23994",
-      "name": "Fragancia Mist Peach Bloom Deliplus",
-      "packaging": "Frasco",
-      "category": "Cuidado facial y corporal · Perfume y colonia",
-      "price": 3.9,
-      "reference_price": "15.60",
-      "reference_unit": "100 ml",
-      "url": "https://tienda.mercadona.es/product/23994/fragancia-mist-peach-bloom-deliplus-pelo-cuerpo-frasco"
     },
     {
       "id": "17989",
@@ -27695,6 +27565,66 @@
       "url": "https://tienda.mercadona.es/product/19954/eau-parfum-mujer-my-soul-celestial-night-frasco"
     },
     {
+      "id": "21764",
+      "name": "Eau de toilette mujer Amber Aqua Royale",
+      "packaging": "Frasco",
+      "category": "Cuidado facial y corporal · Perfume y colonia",
+      "price": 7.5,
+      "reference_price": "37.50",
+      "reference_unit": "100 ml",
+      "url": "https://tienda.mercadona.es/product/21764/eau-toilette-mujer-aqua-royale-amber-frasco"
+    },
+    {
+      "id": "21763",
+      "name": "Eau de toilette mujer Verdant Aqua Royale",
+      "packaging": "Frasco",
+      "category": "Cuidado facial y corporal · Perfume y colonia",
+      "price": 7.5,
+      "reference_price": "37.50",
+      "reference_unit": "100 ml",
+      "url": "https://tienda.mercadona.es/product/21763/eau-toilette-hombre-aqua-royale-verdant-frasco"
+    },
+    {
+      "id": "17687",
+      "name": "Eau de toilette mujer Wonder Aqua Royale",
+      "packaging": "Frasco",
+      "category": "Cuidado facial y corporal · Perfume y colonia",
+      "price": 7.5,
+      "reference_price": "37.50",
+      "reference_unit": "100 ml",
+      "url": "https://tienda.mercadona.es/product/17687/eau-toilette-mujer-aqua-royale-wonder-frasco"
+    },
+    {
+      "id": "16391",
+      "name": "Eau de parfum mujer Alma Como Tú",
+      "packaging": "Frasco",
+      "category": "Cuidado facial y corporal · Perfume y colonia",
+      "price": 8.0,
+      "reference_price": "80.00",
+      "reference_unit": "100 ml",
+      "url": "https://tienda.mercadona.es/product/16391/eau-parfum-mujer-alma-frasco"
+    },
+    {
+      "id": "24063",
+      "name": "Eau de parfum mujer Rubis My Soul",
+      "packaging": "Frasco",
+      "category": "Cuidado facial y corporal · Perfume y colonia",
+      "price": 13.0,
+      "reference_price": "130.00",
+      "reference_unit": "100 ml",
+      "url": "https://tienda.mercadona.es/product/24063/eau-parfum-mujer-rubis-my-soul-frasco"
+    },
+    {
+      "id": "23994",
+      "name": "Fragancia Mist Peach Bloom Deliplus",
+      "packaging": "Frasco",
+      "category": "Cuidado facial y corporal · Perfume y colonia",
+      "price": 3.9,
+      "reference_price": "15.60",
+      "reference_unit": "100 ml",
+      "url": "https://tienda.mercadona.es/product/23994/fragancia-mist-peach-bloom-deliplus-pelo-cuerpo-frasco"
+    },
+    {
       "id": "17768",
       "name": "Eau de parfum mujer Bright My Soul",
       "packaging": "Frasco",
@@ -27703,6 +27633,16 @@
       "reference_price": "110.00",
       "reference_unit": "100 ml",
       "url": "https://tienda.mercadona.es/product/17768/eau-parfum-mujer-bright-my-soul-frasco"
+    },
+    {
+      "id": "15290",
+      "name": "Lote mujer Como tú Amor",
+      "packaging": "Caja",
+      "category": "Cuidado facial y corporal · Perfume y colonia",
+      "price": 10.0,
+      "reference_price": "10.00",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/15290/lote-mujer-soplo-amor-contiene-eau-parfum-100-ml-leche-corporal-100-ml-eau-parfum-15-ml-caja"
     },
     {
       "id": "16374",
@@ -27723,16 +27663,6 @@
       "reference_price": "10.00",
       "reference_unit": "ud",
       "url": "https://tienda.mercadona.es/product/16397/lote-mujer-extratime-contiene-eau-parfum-100-ml-gel-bano-100-ml-body-milk-100-ml"
-    },
-    {
-      "id": "15290",
-      "name": "Lote mujer Como tú Amor",
-      "packaging": "Caja",
-      "category": "Cuidado facial y corporal · Perfume y colonia",
-      "price": 10.0,
-      "reference_price": "10.00",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/15290/lote-mujer-soplo-amor-contiene-eau-parfum-100-ml-leche-corporal-100-ml-eau-parfum-15-ml-caja"
     },
     {
       "id": "17625",
@@ -27763,66 +27693,6 @@
       "reference_price": "120.00",
       "reference_unit": "100 ml",
       "url": "https://tienda.mercadona.es/product/18248/eau-parfum-hombre-my-soul-glacier-frasco"
-    },
-    {
-      "id": "16384",
-      "name": "Eau de parfum hombre Audaz Como tú",
-      "packaging": "Frasco",
-      "category": "Cuidado facial y corporal · Perfume y colonia",
-      "price": 8.0,
-      "reference_price": "80.00",
-      "reference_unit": "100 ml",
-      "url": "https://tienda.mercadona.es/product/16384/eau-parfum-hombre-audaz-frasco"
-    },
-    {
-      "id": "21765",
-      "name": "Eau de toilette hombre Woods Aqua Royale",
-      "packaging": "Frasco",
-      "category": "Cuidado facial y corporal · Perfume y colonia",
-      "price": 7.5,
-      "reference_price": "37.50",
-      "reference_unit": "100 ml",
-      "url": "https://tienda.mercadona.es/product/21765/eau-toilette-hombre-aqua-royale-woods-frasco"
-    },
-    {
-      "id": "21766",
-      "name": "Eau de toilette hombre Vitae Aqua Royale",
-      "packaging": "Frasco",
-      "category": "Cuidado facial y corporal · Perfume y colonia",
-      "price": 7.5,
-      "reference_price": "37.50",
-      "reference_unit": "100 ml",
-      "url": "https://tienda.mercadona.es/product/21766/eau-toilette-hombre-aqua-royale-vitae-frasco"
-    },
-    {
-      "id": "24062",
-      "name": "Eau de parfum hombre Virent My Soul",
-      "packaging": "Frasco",
-      "category": "Cuidado facial y corporal · Perfume y colonia",
-      "price": 13.0,
-      "reference_price": "130.00",
-      "reference_unit": "100 ml",
-      "url": "https://tienda.mercadona.es/product/24062/eau-parfum-hombre-virent-my-soul-frasco"
-    },
-    {
-      "id": "17688",
-      "name": "Eau de toilette hombre Faris Aqua Royale",
-      "packaging": "Frasco",
-      "category": "Cuidado facial y corporal · Perfume y colonia",
-      "price": 7.5,
-      "reference_price": "37.50",
-      "reference_unit": "100 ml",
-      "url": "https://tienda.mercadona.es/product/17688/eau-toilette-hombre-aqua-royale-faris-frasco"
-    },
-    {
-      "id": "17990",
-      "name": "Mini eau de parfum hombre Meilon Flor de Mayo",
-      "packaging": "Frasco",
-      "category": "Cuidado facial y corporal · Perfume y colonia",
-      "price": 1.85,
-      "reference_price": "77.08",
-      "reference_unit": "100 ml",
-      "url": "https://tienda.mercadona.es/product/17990/mini-eau-parfum-hombre-flor-mayo-meilon-frasco"
     },
     {
       "id": "18257",
@@ -28045,14 +27915,54 @@
       "url": "https://tienda.mercadona.es/product/19952/eau-parfum-hombre-my-soul-quartz-frasco"
     },
     {
-      "id": "18090",
-      "name": "Lote hombre Extratime Como tú",
-      "packaging": "Caja",
+      "id": "16384",
+      "name": "Eau de parfum hombre Audaz Como tú",
+      "packaging": "Frasco",
       "category": "Cuidado facial y corporal · Perfume y colonia",
-      "price": 10.0,
-      "reference_price": "10.00",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/18090/lote-hombre-extratime-contiene-eau-parfum-100-ml-gel-champu-100-ml-gel-fijador-100-ml-caja"
+      "price": 8.0,
+      "reference_price": "80.00",
+      "reference_unit": "100 ml",
+      "url": "https://tienda.mercadona.es/product/16384/eau-parfum-hombre-audaz-frasco"
+    },
+    {
+      "id": "21765",
+      "name": "Eau de toilette hombre Woods Aqua Royale",
+      "packaging": "Frasco",
+      "category": "Cuidado facial y corporal · Perfume y colonia",
+      "price": 7.5,
+      "reference_price": "37.50",
+      "reference_unit": "100 ml",
+      "url": "https://tienda.mercadona.es/product/21765/eau-toilette-hombre-aqua-royale-woods-frasco"
+    },
+    {
+      "id": "21766",
+      "name": "Eau de toilette hombre Vitae Aqua Royale",
+      "packaging": "Frasco",
+      "category": "Cuidado facial y corporal · Perfume y colonia",
+      "price": 7.5,
+      "reference_price": "37.50",
+      "reference_unit": "100 ml",
+      "url": "https://tienda.mercadona.es/product/21766/eau-toilette-hombre-aqua-royale-vitae-frasco"
+    },
+    {
+      "id": "24062",
+      "name": "Eau de parfum hombre Virent My Soul",
+      "packaging": "Frasco",
+      "category": "Cuidado facial y corporal · Perfume y colonia",
+      "price": 13.0,
+      "reference_price": "130.00",
+      "reference_unit": "100 ml",
+      "url": "https://tienda.mercadona.es/product/24062/eau-parfum-hombre-virent-my-soul-frasco"
+    },
+    {
+      "id": "17688",
+      "name": "Eau de toilette hombre Faris Aqua Royale",
+      "packaging": "Frasco",
+      "category": "Cuidado facial y corporal · Perfume y colonia",
+      "price": 7.5,
+      "reference_price": "37.50",
+      "reference_unit": "100 ml",
+      "url": "https://tienda.mercadona.es/product/17688/eau-toilette-hombre-aqua-royale-faris-frasco"
     },
     {
       "id": "60902",
@@ -28095,24 +28005,14 @@
       "url": "https://tienda.mercadona.es/product/15292/lote-hombre-960-accion-contiene-sport-water-200-ml-gel-champu-100-ml-gel-fijador-100-ml-caja"
     },
     {
-      "id": "12918",
-      "name": "Lote infantil Minecraft",
+      "id": "18090",
+      "name": "Lote hombre Extratime Como tú",
       "packaging": "Caja",
       "category": "Cuidado facial y corporal · Perfume y colonia",
       "price": 10.0,
       "reference_price": "10.00",
       "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/12918/lote-infantil-minecraft-contiene-eau-toilette-150ml-bandolera-caja"
-    },
-    {
-      "id": "17991",
-      "name": "Lote infantil maquillaje Glam Studio Color Up",
-      "packaging": "Caja",
-      "category": "Cuidado facial y corporal · Perfume y colonia",
-      "price": 7.5,
-      "reference_price": "7.50",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/17991/lote-infantil-maquillaje-color-up-glam-studio-contiene-1-brillo-labios-1-balsamo-labial-1-paleta-sombras-con-6-tonos-aplicador-2-esmaltes-unas-2-sets-pegatinas-1-separador-1-pinza-pelo-1-anillo-caja"
+      "url": "https://tienda.mercadona.es/product/18090/lote-hombre-extratime-contiene-eau-parfum-100-ml-gel-champu-100-ml-gel-fijador-100-ml-caja"
     },
     {
       "id": "17985",
@@ -28155,14 +28055,24 @@
       "url": "https://tienda.mercadona.es/product/52536/lote-infantil-peppa-pig-contiene-eau-toilette-150-ml-figuras-abuelita-peppa-pig-caja"
     },
     {
-      "id": "21643",
-      "name": "Fluido protección solar facial Deliplus FPS 50+",
-      "packaging": "Bote",
-      "category": "Cuidado facial y corporal · Protector solar y aftersun",
-      "price": 7.0,
-      "reference_price": "140.00",
-      "reference_unit": "100 ml",
-      "url": "https://tienda.mercadona.es/product/21643/fluido-proteccion-solar-facial-deliplus-fps-50-resistente-agua-bote"
+      "id": "12918",
+      "name": "Lote infantil Minecraft",
+      "packaging": "Caja",
+      "category": "Cuidado facial y corporal · Perfume y colonia",
+      "price": 10.0,
+      "reference_price": "10.00",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/12918/lote-infantil-minecraft-contiene-eau-toilette-150ml-bandolera-caja"
+    },
+    {
+      "id": "17991",
+      "name": "Lote infantil maquillaje Glam Studio Color Up",
+      "packaging": "Caja",
+      "category": "Cuidado facial y corporal · Perfume y colonia",
+      "price": 7.5,
+      "reference_price": "7.50",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/17991/lote-infantil-maquillaje-color-up-glam-studio-contiene-1-brillo-labios-1-balsamo-labial-1-paleta-sombras-con-6-tonos-aplicador-2-esmaltes-unas-2-sets-pegatinas-1-separador-1-pinza-pelo-1-anillo-caja"
     },
     {
       "id": "60607",
@@ -28183,6 +28093,16 @@
       "reference_price": "1.65",
       "reference_unit": "ud",
       "url": "https://tienda.mercadona.es/product/16339/protector-labial-deliplus-fps-30-caja"
+    },
+    {
+      "id": "21643",
+      "name": "Fluido protección solar facial Deliplus FPS 50+",
+      "packaging": "Bote",
+      "category": "Cuidado facial y corporal · Protector solar y aftersun",
+      "price": 7.0,
+      "reference_price": "140.00",
+      "reference_unit": "100 ml",
+      "url": "https://tienda.mercadona.es/product/21643/fluido-proteccion-solar-facial-deliplus-fps-50-resistente-agua-bote"
     },
     {
       "id": "23017",
@@ -28413,16 +28333,6 @@
       "reference_price": "98.33",
       "reference_unit": "100 ml",
       "url": "https://tienda.mercadona.es/product/52590/aceite-ricino-deliplus-nutre-fortalece-contiene-aplicador-bote"
-    },
-    {
-      "id": "16386",
-      "name": "Stick antirozaduras Deliplus",
-      "packaging": "Bote",
-      "category": "Fitoterapia y parafarmacia · Parafarmacia",
-      "price": 4.0,
-      "reference_price": "333.33",
-      "reference_unit": "100 g",
-      "url": "https://tienda.mercadona.es/product/16386/stick-antirozaduras-deliplus-bote"
     },
     {
       "id": "21848",
@@ -28695,6 +28605,16 @@
       "url": "https://tienda.mercadona.es/product/8945/mascarillas-quirurgicas-deliplus-reutilizables-paquete"
     },
     {
+      "id": "16386",
+      "name": "Stick antirozaduras Deliplus",
+      "packaging": "Bote",
+      "category": "Fitoterapia y parafarmacia · Parafarmacia",
+      "price": 4.0,
+      "reference_price": "333.33",
+      "reference_unit": "100 g",
+      "url": "https://tienda.mercadona.es/product/16386/stick-antirozaduras-deliplus-bote"
+    },
+    {
       "id": "77441",
       "name": "Preservativos sensitivo suave Durex",
       "packaging": "Caja",
@@ -28739,7 +28659,7 @@
       "name": "Plátano de Canarias IGP",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.4,
+      "price": 0.43,
       "reference_price": "2.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3819/platano-canarias-igp-pieza"
@@ -28789,7 +28709,7 @@
       "name": "Manzana Golden",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.44,
+      "price": 0.42,
       "reference_price": "2.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3028/manzana-golden-pieza"
@@ -28869,7 +28789,7 @@
       "name": "Pera Limonera",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.56,
+      "price": 1.01,
       "reference_price": "2.80",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3172/pera-limonera-pieza"
@@ -28959,7 +28879,7 @@
       "name": "Lima",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.26,
+      "price": 0.31,
       "reference_price": "4.40",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3897/lima-pieza"
@@ -29019,7 +28939,7 @@
       "name": "Piña",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 4.2,
+      "price": 4.16,
       "reference_price": "2.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3076/pina-pieza"
@@ -29059,7 +28979,7 @@
       "name": "Mango",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 1.22,
+      "price": 1.11,
       "reference_price": "2.70",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3050/mango-pieza"
@@ -29069,7 +28989,7 @@
       "name": "Papaya",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 2.84,
+      "price": 2.99,
       "reference_price": "5.25",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3026/papaya-pieza"
@@ -29089,7 +29009,7 @@
       "name": "Ciruela roja",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.49,
+      "price": 0.53,
       "reference_price": "3.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3601/ciruela-roja-pieza"
@@ -29149,7 +29069,7 @@
       "name": "Melocotón amarillo",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.83,
+      "price": 0.86,
       "reference_price": "3.30",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3433/melocoton-amarillo-pieza"
@@ -29529,7 +29449,7 @@
       "name": "Batata",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.99,
+      "price": 0.89,
       "reference_price": "2.55",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69239/batata-pieza"
@@ -29549,7 +29469,7 @@
       "name": "Yuca",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 2.34,
+      "price": 2.24,
       "reference_price": "3.30",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69173/yuca-pieza"
@@ -29639,7 +29559,7 @@
       "name": "Tomate ensalada",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.55,
+      "price": 0.53,
       "reference_price": "2.20",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69937/tomate-ensalada-pieza"
@@ -29649,7 +29569,7 @@
       "name": "Tomate canario",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.35,
+      "price": 0.37,
       "reference_price": "2.20",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69968/tomate-canario-pieza"
@@ -29739,7 +29659,7 @@
       "name": "Rama de Tomates",
       "packaging": "Granel",
       "category": "Fruta y verdura · Verdura",
-      "price": 1.49,
+      "price": 1.54,
       "reference_price": "2.40",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69487/rama-tomates-granel"
@@ -29819,7 +29739,7 @@
       "name": "Pimiento rojo",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.87,
+      "price": 0.84,
       "reference_price": "2.90",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69310/pimiento-rojo-pieza"
@@ -29829,7 +29749,7 @@
       "name": "Calabacín verde",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.76,
+      "price": 0.78,
       "reference_price": "1.90",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69338/calabacin-verde-pieza"
@@ -29839,7 +29759,7 @@
       "name": "Pimiento verde freír",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.2,
+      "price": 0.23,
       "reference_price": "2.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69320/pimiento-verde-freir-pieza"
@@ -30049,7 +29969,7 @@
       "name": "Berenjena",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.88,
+      "price": 0.9,
       "reference_price": "2.20",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69326/berenjena-pieza"
@@ -32225,6 +32145,16 @@
       "url": "https://tienda.mercadona.es/product/71377/estropajo-inox-bosque-verde-paquete"
     },
     {
+      "id": "71341",
+      "name": "Estropajo salvauñas limpieza delicada Bosque Verde",
+      "packaging": "Paquete",
+      "category": "Limpieza y hogar · Estropajo, bayeta y guantes",
+      "price": 0.75,
+      "reference_price": "0.25",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/71341/estropajo-limpieza-delicada-bosque-verde-paquete"
+    },
+    {
       "id": "71309",
       "name": "Estropajo baño Bosque Verde",
       "packaging": "Paquete",
@@ -32943,6 +32873,16 @@
       "reference_price": "1.85",
       "reference_unit": "100 ml",
       "url": "https://tienda.mercadona.es/product/79448/ambientador-coche-marine-bosque-verde-incluye-difusor-2-recambios-paquete"
+    },
+    {
+      "id": "18422",
+      "name": "Ambientador Azul armarios y cajones Bosque Verde",
+      "packaging": "Paquete",
+      "category": "Limpieza y hogar · Insecticida y ambientador",
+      "price": 1.75,
+      "reference_price": "0.58",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/18422/ambientador-azul-armarios-cajones-bosque-verde-paquete"
     },
     {
       "id": "13789",
@@ -34285,16 +34225,6 @@
       "url": "https://tienda.mercadona.es/product/86653/lavavajillas-power-essential-limon-finish-pastillas-lavado-maquina-caja"
     },
     {
-      "id": "86380",
-      "name": "Lavavajillas Ultra Todo en 1 Fairy en pastillas",
-      "packaging": "Paquete",
-      "category": "Limpieza y hogar · Limpieza vajilla",
-      "price": 3.95,
-      "reference_price": "0.20",
-      "reference_unit": "lv",
-      "url": "https://tienda.mercadona.es/product/86380/lavavajillas-ultra-1-fairy-pastillas-lavado-maquina-paquete"
-    },
-    {
       "id": "49867",
       "name": "Molde de aluminio cuadrado 2,7L Alibérico",
       "packaging": "Paquete",
@@ -34373,16 +34303,6 @@
       "reference_price": "4.70",
       "reference_unit": "ud",
       "url": "https://tienda.mercadona.es/product/60517/recipiente-hermetico-plastico-rectangular-3l-bosque-verde-paquete"
-    },
-    {
-      "id": "11681",
-      "name": "Molde de papel Bosque Verde para freidora de aire 20 cm",
-      "packaging": "Paquete",
-      "category": "Limpieza y hogar · Menaje y conservación de alimentos",
-      "price": 2.5,
-      "reference_price": "0.05",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/11681/molde-papel-pulpa-madera-silicona-bosque-verde-freidora-aire-20-cm-paquete"
     },
     {
       "id": "14388",
@@ -35545,36 +35465,6 @@
       "url": "https://tienda.mercadona.es/product/15285/maquillaje-mate-stick-multiusos-bronzer-deliplus-400-chocolate"
     },
     {
-      "id": "17571",
-      "name": "Bruma facial bifásica multifuncional Make Up Fixer Deliplus",
-      "packaging": null,
-      "category": "Maquillaje · Bases de maquillaje y corrector",
-      "price": 5.5,
-      "reference_price": "5.50",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/17571/bruma-facial-bifasica-multifuncional-make-up-fixer-deliplus-tipo-pieles"
-    },
-    {
-      "id": "21933",
-      "name": "Prebase de maquillaje Mate Deliplus efecto rellenador de poros",
-      "packaging": null,
-      "category": "Maquillaje · Bases de maquillaje y corrector",
-      "price": 5.5,
-      "reference_price": "5.50",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/21933/prebase-maquillaje-mate-deliplus-efecto-rellenador-poros-con-niacinamida"
-    },
-    {
-      "id": "21934",
-      "name": "Prebase de maquillaje Hydra Deliplus",
-      "packaging": null,
-      "category": "Maquillaje · Bases de maquillaje y corrector",
-      "price": 5.5,
-      "reference_price": "5.50",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/21934/prebase-maquillaje-hydra-deliplus-con-acido-hialuronico"
-    },
-    {
       "id": "15169",
       "name": "Corrector serum luminoso Deliplus 100 beige claro",
       "packaging": null,
@@ -35705,14 +35595,34 @@
       "url": "https://tienda.mercadona.es/product/8320/bronceador-facial-fluido-bronzer-luminoso-deliplus-01"
     },
     {
-      "id": "80421",
-      "name": "Colorete compacto Blush Luminoso Deliplus 02 coral",
+      "id": "17571",
+      "name": "Bruma facial bifásica multifuncional Make Up Fixer Deliplus",
       "packaging": null,
-      "category": "Maquillaje · Colorete y polvos",
-      "price": 5.0,
-      "reference_price": "5.00",
+      "category": "Maquillaje · Bases de maquillaje y corrector",
+      "price": 5.5,
+      "reference_price": "5.50",
       "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/80421/colorete-compacto-blush-luminoso-deliplus-02-coral"
+      "url": "https://tienda.mercadona.es/product/17571/bruma-facial-bifasica-multifuncional-make-up-fixer-deliplus-tipo-pieles"
+    },
+    {
+      "id": "21933",
+      "name": "Prebase de maquillaje Mate Deliplus efecto rellenador de poros",
+      "packaging": null,
+      "category": "Maquillaje · Bases de maquillaje y corrector",
+      "price": 5.5,
+      "reference_price": "5.50",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/21933/prebase-maquillaje-mate-deliplus-efecto-rellenador-poros-con-niacinamida"
+    },
+    {
+      "id": "21934",
+      "name": "Prebase de maquillaje Hydra Deliplus",
+      "packaging": null,
+      "category": "Maquillaje · Bases de maquillaje y corrector",
+      "price": 5.5,
+      "reference_price": "5.50",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/21934/prebase-maquillaje-hydra-deliplus-con-acido-hialuronico"
     },
     {
       "id": "80395",
@@ -35743,6 +35653,16 @@
       "reference_price": "5.00",
       "reference_unit": "ud",
       "url": "https://tienda.mercadona.es/product/80399/colorete-compacto-blush-luminoso-deliplus-01-rosa"
+    },
+    {
+      "id": "80421",
+      "name": "Colorete compacto Blush Luminoso Deliplus 02 coral",
+      "packaging": null,
+      "category": "Maquillaje · Colorete y polvos",
+      "price": 5.0,
+      "reference_price": "5.00",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/80421/colorete-compacto-blush-luminoso-deliplus-02-coral"
     },
     {
       "id": "80422",
@@ -35845,26 +35765,6 @@
       "url": "https://tienda.mercadona.es/product/12833/colorete-fluido-blush-mate-deliplus-04-rojo"
     },
     {
-      "id": "21637",
-      "name": "Polvo compacto matificante efecto seda Deliplus",
-      "packaging": null,
-      "category": "Maquillaje · Colorete y polvos",
-      "price": 6.0,
-      "reference_price": "6.00",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/21637/polvo-compacto-matificante-efecto-seda-deliplus-tipo-pieles"
-    },
-    {
-      "id": "21638",
-      "name": "Polvo suelto translúcido Deliplus ácido hialurónico",
-      "packaging": null,
-      "category": "Maquillaje · Colorete y polvos",
-      "price": 6.0,
-      "reference_price": "6.00",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/21638/polvo-suelto-translucido-deliplus-con-acido-hialuronico-contiene-esponja"
-    },
-    {
       "id": "17783",
       "name": "Polvo compacto Sol Deliplus claro",
       "packaging": null,
@@ -35953,6 +35853,26 @@
       "reference_price": "6.00",
       "reference_unit": "ud",
       "url": "https://tienda.mercadona.es/product/17573/polvo-compacto-perfeccionador-efecto-seda-deliplus-250-marron-medio"
+    },
+    {
+      "id": "21637",
+      "name": "Polvo compacto matificante efecto seda Deliplus",
+      "packaging": null,
+      "category": "Maquillaje · Colorete y polvos",
+      "price": 6.0,
+      "reference_price": "6.00",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/21637/polvo-compacto-matificante-efecto-seda-deliplus-tipo-pieles"
+    },
+    {
+      "id": "21638",
+      "name": "Polvo suelto translúcido Deliplus ácido hialurónico",
+      "packaging": null,
+      "category": "Maquillaje · Colorete y polvos",
+      "price": 6.0,
+      "reference_price": "6.00",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/21638/polvo-suelto-translucido-deliplus-con-acido-hialuronico-contiene-esponja"
     },
     {
       "id": "77749",
@@ -36085,6 +36005,66 @@
       "url": "https://tienda.mercadona.es/product/67888/perfilador-labios-deliplus-07-cereza"
     },
     {
+      "id": "17979",
+      "name": "Bálsamo labial Color Balm Deliplus 301 perlado",
+      "packaging": null,
+      "category": "Maquillaje · Labios",
+      "price": 4.5,
+      "reference_price": "4.50",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/17979/balsamo-labial-color-balm-deliplus-301-perlado"
+    },
+    {
+      "id": "17980",
+      "name": "Bálsamo labial Color Balm Deliplus 302 rosa",
+      "packaging": null,
+      "category": "Maquillaje · Labios",
+      "price": 4.5,
+      "reference_price": "4.50",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/17980/balsamo-labial-color-balm-deliplus-302-rosa"
+    },
+    {
+      "id": "17981",
+      "name": "Bálsamo labial Color Balm Deliplus 303 nude beige",
+      "packaging": null,
+      "category": "Maquillaje · Labios",
+      "price": 4.5,
+      "reference_price": "4.50",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/17981/balsamo-labial-color-balm-deliplus-303-nude-beige"
+    },
+    {
+      "id": "17982",
+      "name": "Bálsamo labial Color Balm Deliplus 304 nude rosa",
+      "packaging": null,
+      "category": "Maquillaje · Labios",
+      "price": 4.5,
+      "reference_price": "4.50",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/17982/balsamo-labial-color-balm-deliplus-304-nude-rosa"
+    },
+    {
+      "id": "17983",
+      "name": "Bálsamo labial Color Balm Deliplus 305 rojo",
+      "packaging": null,
+      "category": "Maquillaje · Labios",
+      "price": 4.5,
+      "reference_price": "4.50",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/17983/balsamo-labial-color-balm-deliplus-305-rojo"
+    },
+    {
+      "id": "17984",
+      "name": "Bálsamo labial Color Balm Deliplus 306 rosa perlado",
+      "packaging": null,
+      "category": "Maquillaje · Labios",
+      "price": 4.5,
+      "reference_price": "4.50",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/17984/balsamo-labial-color-balm-deliplus-306-rosa-perlado"
+    },
+    {
       "id": "22530",
       "name": "Pintalabios Creamy Deliplus 202 rosa cálido",
       "packaging": null,
@@ -36155,16 +36135,6 @@
       "url": "https://tienda.mercadona.es/product/35377/brillo-labios-volumizer-gloss-deliplus-01-transparente"
     },
     {
-      "id": "35379",
-      "name": "Brillo de labios Volumizer gloss Deliplus 03 nude rosa",
-      "packaging": null,
-      "category": "Maquillaje · Labios",
-      "price": 5.0,
-      "reference_price": "5.00",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/35379/brillo-labios-volumizer-gloss-deliplus-03-pink-nude"
-    },
-    {
       "id": "35381",
       "name": "Brillo de labios Volumizer gloss Deliplus 05 rosa",
       "packaging": null,
@@ -36193,66 +36163,6 @@
       "reference_price": "5.00",
       "reference_unit": "ud",
       "url": "https://tienda.mercadona.es/product/35383/brillo-labios-volumizer-gloss-deliplus-07-transparente-con-destellos"
-    },
-    {
-      "id": "17979",
-      "name": "Bálsamo labial Color Balm Deliplus 301 perlado",
-      "packaging": null,
-      "category": "Maquillaje · Labios",
-      "price": 4.5,
-      "reference_price": "4.50",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/17979/balsamo-labial-color-balm-deliplus-301-perlado"
-    },
-    {
-      "id": "17980",
-      "name": "Bálsamo labial Color Balm Deliplus 302 rosa",
-      "packaging": null,
-      "category": "Maquillaje · Labios",
-      "price": 4.5,
-      "reference_price": "4.50",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/17980/balsamo-labial-color-balm-deliplus-302-rosa"
-    },
-    {
-      "id": "17981",
-      "name": "Bálsamo labial Color Balm Deliplus 303 nude beige",
-      "packaging": null,
-      "category": "Maquillaje · Labios",
-      "price": 4.5,
-      "reference_price": "4.50",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/17981/balsamo-labial-color-balm-deliplus-303-nude-beige"
-    },
-    {
-      "id": "17982",
-      "name": "Bálsamo labial Color Balm Deliplus 304 nude rosa",
-      "packaging": null,
-      "category": "Maquillaje · Labios",
-      "price": 4.5,
-      "reference_price": "4.50",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/17982/balsamo-labial-color-balm-deliplus-304-nude-rosa"
-    },
-    {
-      "id": "17983",
-      "name": "Bálsamo labial Color Balm Deliplus 305 rojo",
-      "packaging": null,
-      "category": "Maquillaje · Labios",
-      "price": 4.5,
-      "reference_price": "4.50",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/17983/balsamo-labial-color-balm-deliplus-305-rojo"
-    },
-    {
-      "id": "17984",
-      "name": "Bálsamo labial Color Balm Deliplus 306 rosa perlado",
-      "packaging": null,
-      "category": "Maquillaje · Labios",
-      "price": 4.5,
-      "reference_price": "4.50",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/17984/balsamo-labial-color-balm-deliplus-306-rosa-perlado"
     },
     {
       "id": "23540",
@@ -36465,24 +36375,14 @@
       "url": "https://tienda.mercadona.es/product/12995/pintalabios-mate-12h-lasting-lips-deliplus-08-rojo"
     },
     {
-      "id": "16455",
-      "name": "Perfilador de ojos Eyeliner Precision Deliplus negro",
+      "id": "17800",
+      "name": "Delineador dúo para ojos y pecas Caramel Kiss Deliplus marrón",
       "packaging": null,
       "category": "Maquillaje · Ojos",
-      "price": 3.75,
-      "reference_price": "3.75",
+      "price": 4.0,
+      "reference_price": "4.00",
       "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/16455/perfilador-ojos-eyeliner-precision-deliplus-negro"
-    },
-    {
-      "id": "16447",
-      "name": "Perfilador de ojos Eyeliner Waterproof Deliplus negro",
-      "packaging": null,
-      "category": "Maquillaje · Ojos",
-      "price": 3.75,
-      "reference_price": "3.75",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/16447/perfilador-ojos-eyeliner-waterproof-deliplus-negro"
+      "url": "https://tienda.mercadona.es/product/17800/delineador-duo-ojos-pecas-caramel-kiss-deliplus-marron"
     },
     {
       "id": "23199",
@@ -36635,6 +36535,46 @@
       "url": "https://tienda.mercadona.es/product/15267/perfilador-ojos-waterproof-deliplus-109-burgundy"
     },
     {
+      "id": "16455",
+      "name": "Perfilador de ojos Eyeliner Precision Deliplus negro",
+      "packaging": null,
+      "category": "Maquillaje · Ojos",
+      "price": 3.75,
+      "reference_price": "3.75",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/16455/perfilador-ojos-eyeliner-precision-deliplus-negro"
+    },
+    {
+      "id": "16447",
+      "name": "Perfilador de ojos Eyeliner Waterproof Deliplus negro",
+      "packaging": null,
+      "category": "Maquillaje · Ojos",
+      "price": 3.75,
+      "reference_price": "3.75",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/16447/perfilador-ojos-eyeliner-waterproof-deliplus-negro"
+    },
+    {
+      "id": "23523",
+      "name": "Perfilador de cejas Long Lasting Deliplus 01 claro",
+      "packaging": null,
+      "category": "Maquillaje · Ojos",
+      "price": 2.75,
+      "reference_price": "2.75",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/23523/perfilador-cejas-long-lasting-deliplus-01-claro-con-cepillo"
+    },
+    {
+      "id": "67721",
+      "name": "Perfilador de cejas micro Deliplus 01 claro",
+      "packaging": null,
+      "category": "Maquillaje · Ojos",
+      "price": 3.5,
+      "reference_price": "3.50",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/67721/perfilador-cejas-micro-deliplus-01-claro-con-cepillo"
+    },
+    {
       "id": "21930",
       "name": "Máscara de cejas Fixing Gel Deliplus transparente",
       "packaging": null,
@@ -36665,24 +36605,14 @@
       "url": "https://tienda.mercadona.es/product/21932/mascara-cejas-deliplus-02-marron-medio"
     },
     {
-      "id": "23523",
-      "name": "Perfilador de cejas Long Lasting Deliplus 01 claro",
+      "id": "18004",
+      "name": "Máscara de pestañas Burgundy Xtrem efecto longitud infinita Deliplus borgoña",
       "packaging": null,
       "category": "Maquillaje · Ojos",
-      "price": 2.75,
-      "reference_price": "2.75",
+      "price": 4.5,
+      "reference_price": "4.50",
       "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/23523/perfilador-cejas-long-lasting-deliplus-01-claro-con-cepillo"
-    },
-    {
-      "id": "67721",
-      "name": "Perfilador de cejas micro Deliplus 01 claro",
-      "packaging": null,
-      "category": "Maquillaje · Ojos",
-      "price": 3.5,
-      "reference_price": "3.50",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/67721/perfilador-cejas-micro-deliplus-01-claro-con-cepillo"
+      "url": "https://tienda.mercadona.es/product/18004/mascara-pestanas-burgundy-xtrem-efecto-longitud-infinita-deliplus-borgona"
     },
     {
       "id": "21501",
@@ -36745,16 +36675,6 @@
       "url": "https://tienda.mercadona.es/product/21507/mascara-pestanas-curve-xl-efecto-lifting-deliplus-negro"
     },
     {
-      "id": "16368",
-      "name": "Máscara de pestañas Blue Xtrem efecto longitud infinita Deliplus azul",
-      "packaging": null,
-      "category": "Maquillaje · Ojos",
-      "price": 4.5,
-      "reference_price": "4.50",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/16368/mascara-pestanas-blue-xtrem-efecto-longitud-infinita-deliplus-azul"
-    },
-    {
       "id": "21508",
       "name": "Sérum de pestañas y cejas Revival cuida, nutre y fortalece Deliplus transparente",
       "packaging": null,
@@ -36765,14 +36685,14 @@
       "url": "https://tienda.mercadona.es/product/21508/serum-pestanas-cejas-revival-cuida-nutre-fortalece-deliplus-transparente-contiene-acido-hialuronico-peptidos"
     },
     {
-      "id": "18004",
-      "name": "Máscara de pestañas Burgundy Xtrem efecto longitud infinita Deliplus borgoña",
+      "id": "16368",
+      "name": "Máscara de pestañas Blue Xtrem efecto longitud infinita Deliplus azul",
       "packaging": null,
       "category": "Maquillaje · Ojos",
       "price": 4.5,
       "reference_price": "4.50",
       "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/18004/mascara-pestanas-burgundy-xtrem-efecto-longitud-infinita-deliplus-borgona"
+      "url": "https://tienda.mercadona.es/product/16368/mascara-pestanas-blue-xtrem-efecto-longitud-infinita-deliplus-azul"
     },
     {
       "id": "23963",
@@ -36785,16 +36705,6 @@
       "url": "https://tienda.mercadona.es/product/23963/rizador-pestanas-deliplus-incluye-2-almohadillas"
     },
     {
-      "id": "12087",
-      "name": "Paleta sombras de ojos Deliplus 07 marrones",
-      "packaging": null,
-      "category": "Maquillaje · Ojos",
-      "price": 4.0,
-      "reference_price": "4.00",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/12087/paleta-sombras-ojos-deliplus-07-marrones"
-    },
-    {
       "id": "12089",
       "name": "Paleta sombras de ojos Deliplus 09 borgoñas",
       "packaging": null,
@@ -36803,6 +36713,16 @@
       "reference_price": "4.00",
       "reference_unit": "ud",
       "url": "https://tienda.mercadona.es/product/12089/paleta-sombras-ojos-deliplus-09-borgonas"
+    },
+    {
+      "id": "12087",
+      "name": "Paleta sombras de ojos Deliplus 07 marrones",
+      "packaging": null,
+      "category": "Maquillaje · Ojos",
+      "price": 4.0,
+      "reference_price": "4.00",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/12087/paleta-sombras-ojos-deliplus-07-marrones"
     },
     {
       "id": "12091",
@@ -36855,26 +36775,6 @@
       "url": "https://tienda.mercadona.es/product/11643/sombra-ojos-long-lasting-deliplus-multi-stick-08-chocolate-puede-utilizar-delineador-iluminador-sombra-ojos"
     },
     {
-      "id": "21441",
-      "name": "Kit de pinceles rostro Deliplus",
-      "packaging": "Caja",
-      "category": "Maquillaje · Pinceles y brochas",
-      "price": 6.5,
-      "reference_price": "6.50",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/21441/kit-pinceles-rostro-deliplus-contiene-brocha-polvos-brocha-colorete-iluminador-pincel-maquillaje-corrector-caja"
-    },
-    {
-      "id": "21442",
-      "name": "Kit de pinceles ojos Deliplus",
-      "packaging": "Caja",
-      "category": "Maquillaje · Pinceles y brochas",
-      "price": 5.0,
-      "reference_price": "5.00",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/21442/kit-pinceles-ojos-deliplus-contiene-pincel-difuminador-pincel-sombra-pincel-precision-pincel-duo-caja"
-    },
-    {
       "id": "17555",
       "name": "Kit esponjas de maquillaje Deliplus",
       "packaging": "Caja",
@@ -36893,6 +36793,26 @@
       "reference_price": "2.50",
       "reference_unit": "ud",
       "url": "https://tienda.mercadona.es/product/77467/sacapuntas-doble-deliplus-lapiz-fino-grueso"
+    },
+    {
+      "id": "21441",
+      "name": "Kit de pinceles rostro Deliplus",
+      "packaging": "Caja",
+      "category": "Maquillaje · Pinceles y brochas",
+      "price": 6.5,
+      "reference_price": "6.50",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/21441/kit-pinceles-rostro-deliplus-contiene-brocha-polvos-brocha-colorete-iluminador-pincel-maquillaje-corrector-caja"
+    },
+    {
+      "id": "21442",
+      "name": "Kit de pinceles ojos Deliplus",
+      "packaging": "Caja",
+      "category": "Maquillaje · Pinceles y brochas",
+      "price": 5.0,
+      "reference_price": "5.00",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/21442/kit-pinceles-ojos-deliplus-contiene-pincel-difuminador-pincel-sombra-pincel-precision-pincel-duo-caja"
     },
     {
       "id": "62048",
@@ -37939,8 +37859,8 @@
       "name": "Sardina sin limpiar",
       "packaging": "Bandeja",
       "category": "Marisco y pescado · Pescado fresco",
-      "price": 2.0,
-      "reference_price": "5.00",
+      "price": 2.4,
+      "reference_price": "6.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/87916/sardina-sin-limpiar-bandeja"
     },
@@ -38563,6 +38483,16 @@
       "reference_price": "14.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/16459/snacks-gato-rellenos-con-salmon-malta-compy-paquete"
+    },
+    {
+      "id": "21970",
+      "name": "Snack gato aperitivo líquido Compy",
+      "packaging": "Caja",
+      "category": "Mascotas · Gato",
+      "price": 2.1,
+      "reference_price": "11.67",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/21970/snack-gato-aperitivo-liquido-compy-contine-6-con-pollo-higado-6-con-salmon-caja"
     },
     {
       "id": "22008",
@@ -41443,16 +41373,6 @@
       "reference_price": "4.20",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/82365/regana-hacendado-paquete"
-    },
-    {
-      "id": "22249",
-      "name": "Piquitos bajos en sal Hacendado con orégano y tomillo",
-      "packaging": "Paquete",
-      "category": "Panadería y pastelería · Picos, rosquilletas y picatostes",
-      "price": 1.23,
-      "reference_price": "4.92",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/22249/piquitos-bajos-sal-hacendado-paquete"
     },
     {
       "id": "82464",
