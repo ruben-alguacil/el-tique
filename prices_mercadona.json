@@ -1,8 +1,8 @@
 {
   "store": "Mercadona",
   "region": "Madrid capital",
-  "updated_at": "2026-10-03T10:12:22Z",
-  "product_count": 4549,
+  "updated_at": "2026-10-04T10:53:01Z",
+  "product_count": 4547,
   "products": [
     {
       "id": "4241",
@@ -15885,6 +15885,16 @@
       "url": "https://tienda.mercadona.es/product/58166/cana-lomo-cebo-iberico-hacienda-iberico-pieza"
     },
     {
+      "id": "5840",
+      "name": "Presa de bellota ibérica La Hacienda del Ibérico",
+      "packaging": "Pieza",
+      "category": "Charcutería y quesos · Embutido curado",
+      "price": 29.4,
+      "reference_price": "60.00",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/5840/presa-bellota-iberica-hacienda-iberico-pieza"
+    },
+    {
       "id": "17797",
       "name": "Jamón serrano Incarlopsa lonchas",
       "packaging": "Paquete",
@@ -18533,16 +18543,6 @@
       "reference_price": "3.40",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/64196/helado-cucurucho-nata-caja"
-    },
-    {
-      "id": "64247",
-      "name": "Mini helado cucurucho sabor nata Hacendado sin azúcares añadidos",
-      "packaging": "Caja",
-      "category": "Congelados · Helados",
-      "price": 3.75,
-      "reference_price": "8.45",
-      "reference_unit": "L",
-      "url": "https://tienda.mercadona.es/product/64247/helado-mini-cucurucho-nata-hacendado-sin-azucares-anadidos-caja"
     },
     {
       "id": "64251",
@@ -25125,16 +25125,6 @@
       "url": "https://tienda.mercadona.es/product/47252/desodorante-roll-on-zero-sanex-0-aluminio-alcohol"
     },
     {
-      "id": "52515",
-      "name": "Desodorante stick Deo Bambú Deliplus antimanchas",
-      "packaging": null,
-      "category": "Cuidado facial y corporal · Desodorante",
-      "price": 1.9,
-      "reference_price": "38.00",
-      "reference_unit": "100 ml",
-      "url": "https://tienda.mercadona.es/product/52515/desodorante-stick-deo-bambu-deliplus-antimanchas-0-aluminio-alcohol"
-    },
-    {
       "id": "11986",
       "name": "Desodorante roll-on Invisible Deliplus antitranspirante",
       "packaging": null,
@@ -28225,6 +28215,16 @@
       "url": "https://tienda.mercadona.es/product/79655/sticks-jalea-real-propolis-deliplus-contiene-manuka-hiedra-hinojo-vitamina-c-elaborado-base-miel-aceite-esencial-manuka-extractos-vegetales-caja"
     },
     {
+      "id": "13861",
+      "name": "Cápsulas Cola de caballo Deliplus",
+      "packaging": "Caja",
+      "category": "Fitoterapia y parafarmacia · Fitoterapia",
+      "price": 3.85,
+      "reference_price": "0.13",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/13861/capsulas-cola-caballo-deliplus-elaborado-base-especies-vegetales-caja"
+    },
+    {
       "id": "13796",
       "name": "Cápsulas Alcachofa Deliplus",
       "packaging": "Caja",
@@ -28789,7 +28789,7 @@
       "name": "Pera Limonera",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 1.01,
+      "price": 0.9,
       "reference_price": "2.80",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3172/pera-limonera-pieza"
@@ -28939,7 +28939,7 @@
       "name": "Piña",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 4.16,
+      "price": 4.08,
       "reference_price": "2.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3076/pina-pieza"
@@ -28989,7 +28989,7 @@
       "name": "Papaya",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 2.99,
+      "price": 3.15,
       "reference_price": "5.25",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3026/papaya-pieza"
@@ -29009,7 +29009,7 @@
       "name": "Ciruela roja",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.53,
+      "price": 0.49,
       "reference_price": "3.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3601/ciruela-roja-pieza"
@@ -29069,7 +29069,7 @@
       "name": "Melocotón amarillo",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.86,
+      "price": 0.92,
       "reference_price": "3.30",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3433/melocoton-amarillo-pieza"
@@ -29399,7 +29399,7 @@
       "name": "Patata",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.42,
+      "price": 0.44,
       "reference_price": "1.90",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69066/patata-pieza"
@@ -29449,7 +29449,7 @@
       "name": "Batata",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.89,
+      "price": 0.84,
       "reference_price": "2.55",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69239/batata-pieza"
@@ -29469,7 +29469,7 @@
       "name": "Yuca",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 2.24,
+      "price": 2.31,
       "reference_price": "3.30",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69173/yuca-pieza"
@@ -29559,7 +29559,7 @@
       "name": "Tomate ensalada",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.53,
+      "price": 0.51,
       "reference_price": "2.20",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69937/tomate-ensalada-pieza"
@@ -29579,7 +29579,7 @@
       "name": "Tomate pera",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.26,
+      "price": 0.24,
       "reference_price": "2.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69912/tomate-pera-pieza"
@@ -29659,7 +29659,7 @@
       "name": "Rama de Tomates",
       "packaging": "Granel",
       "category": "Fruta y verdura · Verdura",
-      "price": 1.54,
+      "price": 1.56,
       "reference_price": "2.40",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69487/rama-tomates-granel"
@@ -29749,7 +29749,7 @@
       "name": "Calabacín verde",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.78,
+      "price": 0.76,
       "reference_price": "1.90",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69338/calabacin-verde-pieza"
@@ -29769,7 +29769,7 @@
       "name": "Calabacín blanco",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.79,
+      "price": 0.77,
       "reference_price": "2.20",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69339/calabacin-blanco-pieza"
@@ -29799,7 +29799,7 @@
       "name": "Coliflor",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 3.0,
+      "price": 3.03,
       "reference_price": "2.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69220/coliflor-pieza"
@@ -32143,16 +32143,6 @@
       "reference_price": "1.20",
       "reference_unit": "ud",
       "url": "https://tienda.mercadona.es/product/71377/estropajo-inox-bosque-verde-paquete"
-    },
-    {
-      "id": "71341",
-      "name": "Estropajo salvauñas limpieza delicada Bosque Verde",
-      "packaging": "Paquete",
-      "category": "Limpieza y hogar · Estropajo, bayeta y guantes",
-      "price": 0.75,
-      "reference_price": "0.25",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/71341/estropajo-limpieza-delicada-bosque-verde-paquete"
     },
     {
       "id": "71309",
@@ -36065,16 +36055,6 @@
       "url": "https://tienda.mercadona.es/product/17984/balsamo-labial-color-balm-deliplus-306-rosa-perlado"
     },
     {
-      "id": "22530",
-      "name": "Pintalabios Creamy Deliplus 202 rosa cálido",
-      "packaging": null,
-      "category": "Maquillaje · Labios",
-      "price": 4.65,
-      "reference_price": "4.65",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/22530/pintalabios-creamy-deliplus-202-rosa-calido"
-    },
-    {
       "id": "22536",
       "name": "Pintalabios Creamy Deliplus 210 rojo",
       "packaging": null,
@@ -36373,16 +36353,6 @@
       "reference_price": "5.00",
       "reference_unit": "ud",
       "url": "https://tienda.mercadona.es/product/12995/pintalabios-mate-12h-lasting-lips-deliplus-08-rojo"
-    },
-    {
-      "id": "17800",
-      "name": "Delineador dúo para ojos y pecas Caramel Kiss Deliplus marrón",
-      "packaging": null,
-      "category": "Maquillaje · Ojos",
-      "price": 4.0,
-      "reference_price": "4.00",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/17800/delineador-duo-ojos-pecas-caramel-kiss-deliplus-marron"
     },
     {
       "id": "23199",
@@ -36773,6 +36743,26 @@
       "reference_price": "4.00",
       "reference_unit": "ud",
       "url": "https://tienda.mercadona.es/product/11643/sombra-ojos-long-lasting-deliplus-multi-stick-08-chocolate-puede-utilizar-delineador-iluminador-sombra-ojos"
+    },
+    {
+      "id": "17999",
+      "name": "Sombra de ojos mate Long Lasting Multi-Stick Deliplus 11 hueso",
+      "packaging": null,
+      "category": "Maquillaje · Ojos",
+      "price": 4.0,
+      "reference_price": "4.00",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/17999/sombra-ojos-mate-long-lasting-multi-stick-deliplus-11-hueso"
+    },
+    {
+      "id": "18001",
+      "name": "Sombra de ojos mate Long Lasting Multi-Stick Deliplus 12 marrón",
+      "packaging": null,
+      "category": "Maquillaje · Ojos",
+      "price": 4.0,
+      "reference_price": "4.00",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/18001/sombra-ojos-mate-long-lasting-multi-stick-deliplus-12-marron"
     },
     {
       "id": "17555",
@@ -44623,16 +44613,6 @@
       "reference_price": "3.13",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/22001/bebida-lactea-natural-cuidacol-0-azucares-anadidos-hacendado-pack-8"
-    },
-    {
-      "id": "15664",
-      "name": "Bebida Kéfir de coco Hacendado",
-      "packaging": "Botella",
-      "category": "Postres y yogures · Yogures líquidos",
-      "price": 1.1,
-      "reference_price": "4.40",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/15664/bebida-kefir-coco-hacendado-botella"
     },
     {
       "id": "15662",
