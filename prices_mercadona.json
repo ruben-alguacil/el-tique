@@ -1,8 +1,8 @@
 {
   "store": "Mercadona",
   "region": "Madrid capital",
-  "updated_at": "2026-10-04T10:53:01Z",
-  "product_count": 4547,
+  "updated_at": "2026-10-05T12:01:13Z",
+  "product_count": 4546,
   "products": [
     {
       "id": "4241",
@@ -1859,8 +1859,8 @@
       "name": "Gaseosa grande La Casera",
       "packaging": null,
       "category": "Agua y refrescos · Agua",
-      "price": 1.92,
-      "reference_price": "0.64",
+      "price": 2.5,
+      "reference_price": "0.83",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/27733/gaseosa-casera-grande-pack-2"
     },
@@ -1869,8 +1869,8 @@
       "name": "Gaseosa grande La Casera",
       "packaging": "Botella",
       "category": "Agua y refrescos · Agua",
-      "price": 1.0,
-      "reference_price": "0.67",
+      "price": 1.29,
+      "reference_price": "0.86",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/27735/gaseosa-casera-grande-botella"
     },
@@ -5045,6 +5045,16 @@
       "url": "https://tienda.mercadona.es/product/5020/arroz-vaporizado-hacendado-paquete"
     },
     {
+      "id": "9430",
+      "name": "Quinoa Hacendado",
+      "packaging": "Paquete",
+      "category": "Arroz, legumbres y pasta · Arroz",
+      "price": 2.65,
+      "reference_price": "5.30",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/9430/quinoa-hacendado-paquete"
+    },
+    {
       "id": "5024",
       "name": "Arroz redondo SOS",
       "packaging": "Paquete",
@@ -7749,8 +7759,8 @@
       "name": "Papilla 8 cereales con galleta María Nestlé +6 meses",
       "packaging": "Caja",
       "category": "Bebé · Alimentación infantil",
-      "price": 4.95,
-      "reference_price": "6.83",
+      "price": 5.75,
+      "reference_price": "7.93",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/35602/papilla-8-cereales-con-galleta-maria-nestle-6-meses-0-azucares-anadidos-caja"
     },
@@ -7759,8 +7769,8 @@
       "name": "Papilla 8 cereales con miel Nestlé +6 meses",
       "packaging": "Caja",
       "category": "Bebé · Alimentación infantil",
-      "price": 4.95,
-      "reference_price": "6.83",
+      "price": 5.75,
+      "reference_price": "7.93",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/35601/papilla-8-cereales-con-miel-nestle-6-meses-caja"
     },
@@ -8309,8 +8319,8 @@
       "name": "Cerveza especial Mahou",
       "packaging": null,
       "category": "Bodega · Cerveza",
-      "price": 6.7,
-      "reference_price": "2.03",
+      "price": 8.4,
+      "reference_price": "2.55",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/9826/cerveza-especial-mahou"
     },
@@ -8569,8 +8579,8 @@
       "name": "Cerveza clásica Mahou",
       "packaging": null,
       "category": "Bodega · Cerveza",
-      "price": 7.14,
-      "reference_price": "1.19",
+      "price": 10.92,
+      "reference_price": "1.82",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/66588/cerveza-clasica-mahou-pack-6"
     },
@@ -8579,8 +8589,8 @@
       "name": "Cerveza clásica Mahou",
       "packaging": "Botella",
       "category": "Bodega · Cerveza",
-      "price": 1.34,
-      "reference_price": "1.34",
+      "price": 1.82,
+      "reference_price": "1.82",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/27151/cerveza-clasica-mahou-botella"
     },
@@ -8589,8 +8599,8 @@
       "name": "Cerveza clásica Mahou",
       "packaging": "Pack-12",
       "category": "Bodega · Cerveza",
-      "price": 5.88,
-      "reference_price": "1.96",
+      "price": 7.32,
+      "reference_price": "2.44",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/66344/cerveza-clasica-mahou-pack-12"
     },
@@ -8969,8 +8979,8 @@
       "name": "Cerveza sin alcohol Mahou",
       "packaging": "Pack-12",
       "category": "Bodega · Cerveza sin alcohol",
-      "price": 6.0,
-      "reference_price": "1.52",
+      "price": 7.56,
+      "reference_price": "1.91",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/66560/cerveza-sin-alcohol-mahou-pack-12"
     },
@@ -9629,8 +9639,8 @@
       "name": "Tinto de verano zero limón Casón Histórico",
       "packaging": "Botella",
       "category": "Bodega · Tinto de verano y sangría",
-      "price": 0.95,
-      "reference_price": "0.63",
+      "price": 1.15,
+      "reference_price": "0.77",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/60748/tinto-verano-zero-limon-cason-historico-0-alcohol-0-azucar-botella"
     },
@@ -9669,8 +9679,8 @@
       "name": "Tinto de verano limón Casón Histórico",
       "packaging": "Botella",
       "category": "Bodega · Tinto de verano y sangría",
-      "price": 0.95,
-      "reference_price": "0.63",
+      "price": 1.15,
+      "reference_price": "0.77",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/67818/tinto-verano-limon-cason-historico-botella"
     },
@@ -12269,8 +12279,8 @@
       "name": "Pechugas de pollo enteras congeladas",
       "packaging": "Paquete",
       "category": "Carne · Carne congelada",
-      "price": 6.96,
-      "reference_price": "5.80",
+      "price": 7.32,
+      "reference_price": "6.10",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/30006/pechugas-pollo-enteras-congeladas-paquete"
     },
@@ -12729,8 +12739,8 @@
       "name": "Longaniza fresca sin tripa",
       "packaging": "Bandeja",
       "category": "Carne · Embutido",
-      "price": 3.15,
-      "reference_price": "5.63",
+      "price": 3.0,
+      "reference_price": "5.36",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/6043/longaniza-fresca-sin-tripa-bandeja"
     },
@@ -12769,8 +12779,8 @@
       "name": "Chistorra",
       "packaging": "Paquete",
       "category": "Carne · Embutido",
-      "price": 1.4,
-      "reference_price": "6.36",
+      "price": 1.35,
+      "reference_price": "6.14",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/2864/chistorra-paquete"
     },
@@ -13939,8 +13949,8 @@
       "name": "Barritas con proteínas sabor coco y chocolate Enervit Sport",
       "packaging": "Caja",
       "category": "Cereales y galletas · Cereales",
-      "price": 2.95,
-      "reference_price": "24.58",
+      "price": 3.6,
+      "reference_price": "30.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/9445/barritas-con-proteinas-enervit-sport-sabor-coco-chocolate-caja"
     },
@@ -13949,8 +13959,8 @@
       "name": "Barritas de avena y chocolate negro Crunchy Nature Valley",
       "packaging": "Caja",
       "category": "Cereales y galletas · Cereales",
-      "price": 1.95,
-      "reference_price": "9.29",
+      "price": 2.6,
+      "reference_price": "12.38",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/14713/barritas-avena-crunchy-nature-valley-con-chocolate-negro-caja"
     },
@@ -14806,7 +14816,7 @@
     },
     {
       "id": "11507",
-      "name": "Lomo asado La Carloteña lonchas",
+      "name": "Lomo cerdo 96% asado al horno La Carloteña con finas hierbas lonchas",
       "packaging": "Paquete",
       "category": "Charcutería y quesos · Aves y jamón cocido",
       "price": 2.5,
@@ -16815,16 +16825,6 @@
       "url": "https://tienda.mercadona.es/product/18440/snack-queso-madurado-vaca-hacendado-paquete"
     },
     {
-      "id": "16551",
-      "name": "Queso lonchas tierno de vaca Hacendado",
-      "packaging": "Paquete",
-      "category": "Charcutería y quesos · Queso lonchas, rallado y en porciones",
-      "price": 3.5,
-      "reference_price": "7.00",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/16551/queso-lonchas-tierno-vaca-hacendado-paquete"
-    },
-    {
       "id": "50545",
       "name": "Queso lonchas cremoso de vaca Hacendado",
       "packaging": "Paquete",
@@ -17789,8 +17789,8 @@
       "name": "Pechugas de pollo enteras congeladas",
       "packaging": "Paquete",
       "category": "Congelados · Carne",
-      "price": 6.96,
-      "reference_price": "5.80",
+      "price": 7.32,
+      "reference_price": "6.10",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/30006/pechugas-pollo-enteras-congeladas-paquete"
     },
@@ -19059,8 +19059,8 @@
       "name": "Preparado de paella y sopa Hacendado ultracongelado",
       "packaging": "Paquete",
       "category": "Congelados · Marisco",
-      "price": 4.25,
-      "reference_price": "6.20",
+      "price": 4.5,
+      "reference_price": "6.57",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/62048/preparado-paella-sopa-hacendado-ultracongelado-paquete"
     },
@@ -19083,16 +19083,6 @@
       "reference_price": "9.92",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/24712/langostino-crudo-ultracongelado-caja"
-    },
-    {
-      "id": "62750",
-      "name": "Gamba arrocera pequeña Hacendado congelada",
-      "packaging": "Caja",
-      "category": "Congelados · Marisco",
-      "price": 6.0,
-      "reference_price": "10.90",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/62750/gamba-arrocera-pequena-hacendado-congelada-caja"
     },
     {
       "id": "24477",
@@ -24429,8 +24419,8 @@
       "name": "Mascarilla facial stick Facial Clean detox & iluminador",
       "packaging": "Tubo",
       "category": "Cuidado facial y corporal · Cuidado e higiene facial",
-      "price": 3.5,
-      "reference_price": "87.50",
+      "price": 3.0,
+      "reference_price": "75.00",
       "reference_unit": "100 g",
       "url": "https://tienda.mercadona.es/product/21567/mascarilla-facial-mask-stick-facial-clean-deliplus-iluminador-detox-tipo-pieles-tubo"
     },
@@ -26325,16 +26315,6 @@
       "url": "https://tienda.mercadona.es/product/79113/tabletas-limpiadoras-protesis-dentales-benfix-ortodoncias-caja"
     },
     {
-      "id": "40583",
-      "name": "Arcos dentales para higiene interdental Deliplus",
-      "packaging": "Caja",
-      "category": "Cuidado facial y corporal · Higiene bucal",
-      "price": 1.8,
-      "reference_price": "0.03",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/40583/arcos-dentales-higiene-interdental-deliplus-caja"
-    },
-    {
       "id": "35703",
       "name": "Cepillos interdentales Micro Deliplus",
       "packaging": "Paquete",
@@ -28049,8 +28029,8 @@
       "name": "Lote infantil Minecraft",
       "packaging": "Caja",
       "category": "Cuidado facial y corporal · Perfume y colonia",
-      "price": 10.0,
-      "reference_price": "10.00",
+      "price": 6.5,
+      "reference_price": "6.50",
       "reference_unit": "ud",
       "url": "https://tienda.mercadona.es/product/12918/lote-infantil-minecraft-contiene-eau-toilette-150ml-bandolera-caja"
     },
@@ -28119,8 +28099,8 @@
       "name": "Barritas con proteínas sabor coco y chocolate Enervit Sport",
       "packaging": "Caja",
       "category": "Fitoterapia y parafarmacia · Fitoterapia",
-      "price": 2.95,
-      "reference_price": "24.58",
+      "price": 3.6,
+      "reference_price": "30.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/9445/barritas-con-proteinas-enervit-sport-sabor-coco-chocolate-caja"
     },
@@ -28213,16 +28193,6 @@
       "reference_price": "0.41",
       "reference_unit": "100 ml",
       "url": "https://tienda.mercadona.es/product/79655/sticks-jalea-real-propolis-deliplus-contiene-manuka-hiedra-hinojo-vitamina-c-elaborado-base-miel-aceite-esencial-manuka-extractos-vegetales-caja"
-    },
-    {
-      "id": "13861",
-      "name": "Cápsulas Cola de caballo Deliplus",
-      "packaging": "Caja",
-      "category": "Fitoterapia y parafarmacia · Fitoterapia",
-      "price": 3.85,
-      "reference_price": "0.13",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/13861/capsulas-cola-caballo-deliplus-elaborado-base-especies-vegetales-caja"
     },
     {
       "id": "13796",
@@ -28669,8 +28639,8 @@
       "name": "Banana",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.26,
-      "reference_price": "1.55",
+      "price": 0.21,
+      "reference_price": "1.25",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3824/banana-pieza"
     },
@@ -28689,8 +28659,8 @@
       "name": "Uva blanca sin semillas",
       "packaging": "Bandeja",
       "category": "Fruta y verdura · Fruta",
-      "price": 1.65,
-      "reference_price": "2.75",
+      "price": 1.95,
+      "reference_price": "3.25",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3313/uva-blanca-sin-semillas-bandeja"
     },
@@ -28729,8 +28699,8 @@
       "name": "Pera Conferencia",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.47,
-      "reference_price": "2.75",
+      "price": 0.43,
+      "reference_price": "2.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3119/pera-conferencia-pieza"
     },
@@ -28739,8 +28709,8 @@
       "name": "Peras Conferencia",
       "packaging": null,
       "category": "Fruta y verdura · Fruta",
-      "price": 2.65,
-      "reference_price": "2.50",
+      "price": 2.44,
+      "reference_price": "2.30",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/14470/peras-conferencia"
     },
@@ -28799,8 +28769,8 @@
       "name": "Manzana roja acidulce",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.73,
-      "reference_price": "2.90",
+      "price": 0.6,
+      "reference_price": "2.40",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/8175/manzana-roja-acidulce-pieza"
     },
@@ -28809,18 +28779,38 @@
       "name": "Manzanas rojas acidulces",
       "packaging": null,
       "category": "Fruta y verdura · Fruta",
-      "price": 4.19,
-      "reference_price": "2.60",
+      "price": 3.38,
+      "reference_price": "2.10",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/8268/manzanas-rojas-acidulces-bolsa"
+    },
+    {
+      "id": "3515",
+      "name": "Medio melón piel de sapo",
+      "packaging": "1/2 Pieza",
+      "category": "Fruta y verdura · Fruta",
+      "price": 3.01,
+      "reference_price": "1.80",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/3515/medio-melon-piel-sapo-12-pieza"
+    },
+    {
+      "id": "3506",
+      "name": "Melón piel de sapo",
+      "packaging": "Pieza",
+      "category": "Fruta y verdura · Fruta",
+      "price": 3.89,
+      "reference_price": "1.35",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/3506/melon-piel-sapo-pieza"
     },
     {
       "id": "3236",
       "name": "Limones",
       "packaging": "Malla",
       "category": "Fruta y verdura · Fruta",
-      "price": 2.65,
-      "reference_price": "2.65",
+      "price": 2.3,
+      "reference_price": "2.30",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3236/limones-malla"
     },
@@ -28829,8 +28819,8 @@
       "name": "Limón",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.51,
-      "reference_price": "2.85",
+      "price": 0.47,
+      "reference_price": "2.60",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3210/limon-pieza"
     },
@@ -29005,16 +28995,6 @@
       "url": "https://tienda.mercadona.es/product/3723/fresas-bandeja"
     },
     {
-      "id": "3601",
-      "name": "Ciruela roja",
-      "packaging": "Pieza",
-      "category": "Fruta y verdura · Fruta",
-      "price": 0.49,
-      "reference_price": "3.50",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/3601/ciruela-roja-pieza"
-    },
-    {
       "id": "5500",
       "name": "Frambuesas",
       "packaging": "Bandeja",
@@ -29159,8 +29139,8 @@
       "name": "Ensalada mezcla gourmet lavada",
       "packaging": "Paquete",
       "category": "Fruta y verdura · Lechuga y ensalada preparada",
-      "price": 1.2,
-      "reference_price": "6.86",
+      "price": 1.3,
+      "reference_price": "7.43",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69744/ensalada-mezcla-gourmet-compuesta-escarola-rizada-radicchio-canonigos-paquete"
     },
@@ -29219,8 +29199,8 @@
       "name": "Ensalada mezcla tierna lavada",
       "packaging": "Paquete",
       "category": "Fruta y verdura · Lechuga y ensalada preparada",
-      "price": 1.4,
-      "reference_price": "9.33",
+      "price": 1.45,
+      "reference_price": "9.67",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69840/ensalada-mezcla-tierna-compuesta-lechuga-hoja-roble-verde-brotes-lechuga-batavia-roja-lechuga-trocadero-paquete"
     },
@@ -29719,8 +29699,8 @@
       "name": "Palitos de zanahoria",
       "packaging": "Tarrina",
       "category": "Fruta y verdura · Verdura",
-      "price": 2.1,
-      "reference_price": "11.67",
+      "price": 2.25,
+      "reference_price": "12.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69877/palitos-zanahoria-tarrina"
     },
@@ -30419,8 +30399,8 @@
       "name": "Leche semidesnatada Asturiana",
       "packaging": "Pack-6",
       "category": "Huevos, leche y mantequilla · Leche y bebidas vegetales",
-      "price": 10.74,
-      "reference_price": "1.19",
+      "price": 10.02,
+      "reference_price": "1.11",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/10505/leche-semidesnatada-asturiana-pack-6"
     },
@@ -30429,8 +30409,8 @@
       "name": "Leche semidesnatada Asturiana",
       "packaging": "Botella",
       "category": "Huevos, leche y mantequilla · Leche y bebidas vegetales",
-      "price": 1.79,
-      "reference_price": "1.19",
+      "price": 1.67,
+      "reference_price": "1.11",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/10502/leche-semidesnatada-asturiana-botella"
     },
@@ -30629,8 +30609,8 @@
       "name": "Leche desnatada Asturiana",
       "packaging": "Pack-6",
       "category": "Huevos, leche y mantequilla · Leche y bebidas vegetales",
-      "price": 10.38,
-      "reference_price": "1.15",
+      "price": 9.72,
+      "reference_price": "1.08",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/10516/leche-desnatada-asturiana-pack-6"
     },
@@ -30639,8 +30619,8 @@
       "name": "Leche desnatada Asturiana",
       "packaging": "Botella",
       "category": "Huevos, leche y mantequilla · Leche y bebidas vegetales",
-      "price": 1.73,
-      "reference_price": "1.15",
+      "price": 1.62,
+      "reference_price": "1.08",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/10599/leche-desnatada-asturiana-botella"
     },
@@ -30779,8 +30759,8 @@
       "name": "Leche entera Asturiana",
       "packaging": "Pack-6",
       "category": "Huevos, leche y mantequilla · Leche y bebidas vegetales",
-      "price": 11.82,
-      "reference_price": "1.31",
+      "price": 11.34,
+      "reference_price": "1.26",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/10504/leche-entera-asturiana-pack-6"
     },
@@ -30789,8 +30769,8 @@
       "name": "Leche entera Asturiana",
       "packaging": "Botella",
       "category": "Huevos, leche y mantequilla · Leche y bebidas vegetales",
-      "price": 1.97,
-      "reference_price": "1.31",
+      "price": 1.89,
+      "reference_price": "1.26",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/10506/leche-entera-asturiana-botella"
     },
@@ -32143,6 +32123,16 @@
       "reference_price": "1.20",
       "reference_unit": "ud",
       "url": "https://tienda.mercadona.es/product/71377/estropajo-inox-bosque-verde-paquete"
+    },
+    {
+      "id": "71341",
+      "name": "Estropajo salvauñas limpieza delicada Bosque Verde",
+      "packaging": "Paquete",
+      "category": "Limpieza y hogar · Estropajo, bayeta y guantes",
+      "price": 0.75,
+      "reference_price": "0.25",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/71341/estropajo-limpieza-delicada-bosque-verde-paquete"
     },
     {
       "id": "71309",
@@ -34209,8 +34199,8 @@
       "name": "Lavavajillas Power Essential limón Finish en pastillas",
       "packaging": "Caja",
       "category": "Limpieza y hogar · Limpieza vajilla",
-      "price": 3.75,
-      "reference_price": "0.14",
+      "price": 3.25,
+      "reference_price": "0.13",
       "reference_unit": "lv",
       "url": "https://tienda.mercadona.es/product/86653/lavavajillas-power-essential-limon-finish-pastillas-lavado-maquina-caja"
     },
@@ -35775,6 +35765,16 @@
       "url": "https://tienda.mercadona.es/product/17784/polvo-compacto-sol-deliplus-oscuro"
     },
     {
+      "id": "17941",
+      "name": "Lote 12 Makeup Essentials Express Deliplus",
+      "packaging": null,
+      "category": "Maquillaje · Colorete y polvos",
+      "price": 14.0,
+      "reference_price": "14.00",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/17941/lote-12-makeup-essentials-express-deliplus"
+    },
+    {
       "id": "52974",
       "name": "Polvo Compacto 24H Long Lasting Deliplus 02 beige rosado",
       "packaging": null,
@@ -35985,16 +35985,6 @@
       "url": "https://tienda.mercadona.es/product/35407/perfilador-labios-deliplus-08-rojo"
     },
     {
-      "id": "67888",
-      "name": "Perfilador de labios Deliplus 07 cereza",
-      "packaging": null,
-      "category": "Maquillaje · Labios",
-      "price": 2.5,
-      "reference_price": "2.50",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/67888/perfilador-labios-deliplus-07-cereza"
-    },
-    {
       "id": "17979",
       "name": "Bálsamo labial Color Balm Deliplus 301 perlado",
       "packaging": null,
@@ -36053,6 +36043,26 @@
       "reference_price": "4.50",
       "reference_unit": "ud",
       "url": "https://tienda.mercadona.es/product/17984/balsamo-labial-color-balm-deliplus-306-rosa-perlado"
+    },
+    {
+      "id": "17941",
+      "name": "Lote 12 Makeup Essentials Express Deliplus",
+      "packaging": null,
+      "category": "Maquillaje · Labios",
+      "price": 14.0,
+      "reference_price": "14.00",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/17941/lote-12-makeup-essentials-express-deliplus"
+    },
+    {
+      "id": "17942",
+      "name": "Calendario Adviento 24 Makeup  Glam Secrets Deliplus",
+      "packaging": null,
+      "category": "Maquillaje · Labios",
+      "price": 25.0,
+      "reference_price": "25.00",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/17942/calendario-adviento-24-makeup-glam-secrets-deliplus"
     },
     {
       "id": "22536",
@@ -36115,16 +36125,6 @@
       "url": "https://tienda.mercadona.es/product/35377/brillo-labios-volumizer-gloss-deliplus-01-transparente"
     },
     {
-      "id": "35381",
-      "name": "Brillo de labios Volumizer gloss Deliplus 05 rosa",
-      "packaging": null,
-      "category": "Maquillaje · Labios",
-      "price": 5.0,
-      "reference_price": "5.00",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/35381/brillo-labios-volumizer-gloss-deliplus-05-rosa"
-    },
-    {
       "id": "35382",
       "name": "Brillo de labios Volumizer gloss Deliplus 06 morado",
       "packaging": null,
@@ -36143,16 +36143,6 @@
       "reference_price": "5.00",
       "reference_unit": "ud",
       "url": "https://tienda.mercadona.es/product/35383/brillo-labios-volumizer-gloss-deliplus-07-transparente-con-destellos"
-    },
-    {
-      "id": "23540",
-      "name": "Pintalabios mate Deliplus 101 nude",
-      "packaging": null,
-      "category": "Maquillaje · Labios",
-      "price": 4.5,
-      "reference_price": "4.50",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/23540/pintalabios-mate-deliplus-101-nude"
     },
     {
       "id": "23541",
@@ -36685,6 +36675,36 @@
       "url": "https://tienda.mercadona.es/product/12089/paleta-sombras-ojos-deliplus-09-borgonas"
     },
     {
+      "id": "17999",
+      "name": "Sombra de ojos mate Long Lasting Multi-Stick Deliplus 11 hueso",
+      "packaging": null,
+      "category": "Maquillaje · Ojos",
+      "price": 4.0,
+      "reference_price": "4.00",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/17999/sombra-ojos-mate-long-lasting-multi-stick-deliplus-11-hueso"
+    },
+    {
+      "id": "18001",
+      "name": "Sombra de ojos mate Long Lasting Multi-Stick Deliplus 12 marrón",
+      "packaging": null,
+      "category": "Maquillaje · Ojos",
+      "price": 4.0,
+      "reference_price": "4.00",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/18001/sombra-ojos-mate-long-lasting-multi-stick-deliplus-12-marron"
+    },
+    {
+      "id": "17942",
+      "name": "Calendario Adviento 24 Makeup  Glam Secrets Deliplus",
+      "packaging": null,
+      "category": "Maquillaje · Ojos",
+      "price": 25.0,
+      "reference_price": "25.00",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/17942/calendario-adviento-24-makeup-glam-secrets-deliplus"
+    },
+    {
       "id": "12087",
       "name": "Paleta sombras de ojos Deliplus 07 marrones",
       "packaging": null,
@@ -36745,26 +36765,6 @@
       "url": "https://tienda.mercadona.es/product/11643/sombra-ojos-long-lasting-deliplus-multi-stick-08-chocolate-puede-utilizar-delineador-iluminador-sombra-ojos"
     },
     {
-      "id": "17999",
-      "name": "Sombra de ojos mate Long Lasting Multi-Stick Deliplus 11 hueso",
-      "packaging": null,
-      "category": "Maquillaje · Ojos",
-      "price": 4.0,
-      "reference_price": "4.00",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/17999/sombra-ojos-mate-long-lasting-multi-stick-deliplus-11-hueso"
-    },
-    {
-      "id": "18001",
-      "name": "Sombra de ojos mate Long Lasting Multi-Stick Deliplus 12 marrón",
-      "packaging": null,
-      "category": "Maquillaje · Ojos",
-      "price": 4.0,
-      "reference_price": "4.00",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/18001/sombra-ojos-mate-long-lasting-multi-stick-deliplus-12-marron"
-    },
-    {
       "id": "17555",
       "name": "Kit esponjas de maquillaje Deliplus",
       "packaging": "Caja",
@@ -36809,8 +36809,8 @@
       "name": "Preparado de paella y sopa Hacendado ultracongelado",
       "packaging": "Paquete",
       "category": "Marisco y pescado · Marisco",
-      "price": 4.25,
-      "reference_price": "6.20",
+      "price": 4.5,
+      "reference_price": "6.57",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/62048/preparado-paella-sopa-hacendado-ultracongelado-paquete"
     },
@@ -36853,16 +36853,6 @@
       "reference_price": "9.92",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/24712/langostino-crudo-ultracongelado-caja"
-    },
-    {
-      "id": "62750",
-      "name": "Gamba arrocera pequeña Hacendado congelada",
-      "packaging": "Caja",
-      "category": "Marisco y pescado · Marisco",
-      "price": 6.0,
-      "reference_price": "10.90",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/62750/gamba-arrocera-pequena-hacendado-congelada-caja"
     },
     {
       "id": "87278",
@@ -37795,6 +37785,16 @@
       "url": "https://tienda.mercadona.es/product/87342/filetes-trucha-arco-iris-bandeja"
     },
     {
+      "id": "26981",
+      "name": "Boquerón sin limpiar",
+      "packaging": "Bandeja",
+      "category": "Marisco y pescado · Pescado fresco",
+      "price": 1.88,
+      "reference_price": "5.00",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/26981/boqueron-sin-limpiar-bandeja"
+    },
+    {
       "id": "87929",
       "name": "Boquerón limpio sin cabeza",
       "packaging": "Bandeja",
@@ -37813,16 +37813,6 @@
       "reference_price": "15.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/87930/boqueron-limpio-sin-espina-bandeja"
-    },
-    {
-      "id": "26981",
-      "name": "Boquerón sin limpiar",
-      "packaging": "Bandeja",
-      "category": "Marisco y pescado · Pescado fresco",
-      "price": 1.88,
-      "reference_price": "5.00",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/26981/boqueron-sin-limpiar-bandeja"
     },
     {
       "id": "87163",
@@ -37949,8 +37939,8 @@
       "name": "Bacaladilla limpia",
       "packaging": "Bandeja",
       "category": "Marisco y pescado · Pescado fresco",
-      "price": 4.2,
-      "reference_price": "10.00",
+      "price": 4.41,
+      "reference_price": "10.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/87996/bacaladilla-limpia-descongelada-bandeja"
     },
@@ -43119,8 +43109,8 @@
       "name": "Empanados vegetales con proteína de soja Tivall",
       "packaging": "Bandeja",
       "category": "Pizzas y platos preparados · Platos preparados calientes",
-      "price": 2.8,
-      "reference_price": "15.56",
+      "price": 2.4,
+      "reference_price": "13.33",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/23249/empanados-vegetales-con-proteina-soja-tivall-bandeja"
     },
@@ -43566,7 +43556,7 @@
     },
     {
       "id": "21377",
-      "name": "Bífidus cremoso natural edulcorado probióticos Hacendado 0% MG 0% azúcares añadidos",
+      "name": "Bífidus natural cremoso edulcorado probióticos Hacendado 0% MG 0% azúcares añadidos",
       "packaging": null,
       "category": "Postres y yogures · Bífidus",
       "price": 1.4,
@@ -44967,10 +44957,10 @@
     {
       "id": "10362",
       "name": "Fruta + leche tropical Bifrutas",
-      "packaging": "Pack-3",
+      "packaging": null,
       "category": "Zumos · Fruta variada",
-      "price": 2.19,
-      "reference_price": "2.21",
+      "price": 2.0,
+      "reference_price": "2.02",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/10362/fruta-leche-tropical-bifrutas-pascual-pack-3"
     },
