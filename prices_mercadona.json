@@ -1,8 +1,8 @@
 {
   "store": "Mercadona",
   "region": "Madrid capital",
-  "updated_at": "2026-10-09T11:39:12Z",
-  "product_count": 4556,
+  "updated_at": "2026-10-10T10:57:01Z",
+  "product_count": 4557,
   "products": [
     {
       "id": "4241",
@@ -6005,6 +6005,16 @@
       "url": "https://tienda.mercadona.es/product/67637/edulcorante-eritritol-sucralosa-hacendado-bote"
     },
     {
+      "id": "24535",
+      "name": "Chicles gragea hierbabuena sin azúcar Hacendado",
+      "packaging": null,
+      "category": "Azúcar, caramelos y chocolate · Chicles y caramelos",
+      "price": 1.35,
+      "reference_price": "25.23",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/24535/chicles-hierbabuena-gragea-hacendado"
+    },
+    {
       "id": "65235",
       "name": "Chicles gragea menta fuerte sin azúcar Hacendado",
       "packaging": "Paquete",
@@ -6809,8 +6819,8 @@
       "name": "Surtido bombones Senzza de chocolate",
       "packaging": "Paquete",
       "category": "Azúcar, caramelos y chocolate · Chocolate",
-      "price": 4.2,
-      "reference_price": "12.73",
+      "price": 3.5,
+      "reference_price": "10.61",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/14484/surtido-bombones-senzza-chocolate-con-avellana-fondant-praline-almendra-paquete"
     },
@@ -8155,6 +8165,16 @@
       "url": "https://tienda.mercadona.es/product/17787/panales-bebe-talla-2-deliplus-3-6-kg-paquete"
     },
     {
+      "id": "17788",
+      "name": "Pañales bebé talla 3 Deliplus de 5-10 kg",
+      "packaging": "Paquete",
+      "category": "Bebé · Toallitas y pañales",
+      "price": 6.2,
+      "reference_price": "0.16",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/17788/panales-bebe-talla-3-deliplus-5-10-kg-paquete"
+    },
+    {
       "id": "17786",
       "name": "Pañales bebé talla 1 Deliplus de 2-4 kg",
       "packaging": "Paquete",
@@ -9119,8 +9139,8 @@
       "name": "Ginebra Dry Gin Seagram's",
       "packaging": "Botella",
       "category": "Bodega · Licores",
-      "price": 16.5,
-      "reference_price": "23.57",
+      "price": 15.45,
+      "reference_price": "22.07",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/28032/ginebra-dry-gin-seagrams-botella"
     },
@@ -9199,8 +9219,8 @@
       "name": "Whisky escocés Ballantine's",
       "packaging": "Botella",
       "category": "Bodega · Licores",
-      "price": 13.95,
-      "reference_price": "19.93",
+      "price": 13.25,
+      "reference_price": "18.93",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/28604/whisky-escoces-ballantines-botella"
     },
@@ -10283,6 +10303,16 @@
       "reference_price": "4.93",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/22500/vino-tinto-do-ribera-duero-atardecer-roble-botella"
+    },
+    {
+      "id": "52785",
+      "name": "Vino tinto roble 13 Hectáreas DO Ribera del Duero",
+      "packaging": "Botella",
+      "category": "Bodega · Vino tinto",
+      "price": 4.5,
+      "reference_price": "6.00",
+      "reference_unit": "L",
+      "url": "https://tienda.mercadona.es/product/52785/vino-tinto-do-ribera-duero-13-hectareas-roble-botella"
     },
     {
       "id": "24529",
@@ -16815,16 +16845,6 @@
       "url": "https://tienda.mercadona.es/product/50478/queso-tierno-gouda-vaca-holland-pieza"
     },
     {
-      "id": "50935",
-      "name": "Queso tierno de vaca Hacendado",
-      "packaging": "Pieza",
-      "category": "Charcutería y quesos · Queso curado, semicurado y tierno",
-      "price": 6.0,
-      "reference_price": "5.71",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/50935/queso-tierno-vaca-hacendado-pieza"
-    },
-    {
       "id": "50927",
       "name": "Queso tierno de cabra Hacendado",
       "packaging": "Pieza",
@@ -19289,8 +19309,8 @@
       "name": "Filete de salmón rosado salvaje con piel Hacendado ultracongelado",
       "packaging": "Pieza",
       "category": "Congelados · Pescado",
-      "price": 4.99,
-      "reference_price": "13.50",
+      "price": 6.1,
+      "reference_price": "16.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/24350/filete-salmon-rosado-salvaje-con-piel-hacendado-ultracongelado-pieza"
     },
@@ -21323,16 +21343,6 @@
       "reference_price": "2.00",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/13499/crema-calabaza-hacendado-brick"
-    },
-    {
-      "id": "60308",
-      "name": "Crema de verduras Hacendado",
-      "packaging": "Brik",
-      "category": "Conservas, caldos y cremas · Gazpacho y cremas",
-      "price": 1.0,
-      "reference_price": "2.00",
-      "reference_unit": "L",
-      "url": "https://tienda.mercadona.es/product/60308/crema-verduras-hacendado-brick"
     },
     {
       "id": "23264",
@@ -23679,8 +23689,8 @@
       "name": "Maquinillas de afeitar desechables Gillette Sensor Comfort 3 hojas",
       "packaging": "Paquete",
       "category": "Cuidado facial y corporal · Afeitado y cuidado para hombre",
-      "price": 5.75,
-      "reference_price": "1.15",
+      "price": 5.6,
+      "reference_price": "1.12",
       "reference_unit": "ud",
       "url": "https://tienda.mercadona.es/product/73002/maquinillas-afeitar-desechables-gillette-sensor-comfort-3-hojas-paquete"
     },
@@ -23729,8 +23739,8 @@
       "name": "Maquinilla de afeitar recargable Gillette Fusion Sport 5 hojas",
       "packaging": "Caja",
       "category": "Cuidado facial y corporal · Afeitado y cuidado para hombre",
-      "price": 9.6,
-      "reference_price": "9.60",
+      "price": 9.0,
+      "reference_price": "9.00",
       "reference_unit": "ud",
       "url": "https://tienda.mercadona.es/product/52645/maquinilla-afeitar-recargable-gillette-fusion-sport-5-hojas-caja"
     },
@@ -23789,8 +23799,8 @@
       "name": "Recambios maquinilla de afeitar Gillette Fusion Sport 5 hojas",
       "packaging": "Caja",
       "category": "Cuidado facial y corporal · Afeitado y cuidado para hombre",
-      "price": 13.7,
-      "reference_price": "3.43",
+      "price": 13.45,
+      "reference_price": "3.36",
       "reference_unit": "ud",
       "url": "https://tienda.mercadona.es/product/52646/recambios-maquinilla-afeitar-gillette-fusion-sport-5-hojas-caja"
     },
@@ -24989,8 +24999,8 @@
       "name": "Recambios maquinilla depilación Gillette Venus 3 hojas Comfortglide",
       "packaging": "Caja",
       "category": "Cuidado facial y corporal · Depilación",
-      "price": 10.8,
-      "reference_price": "2.70",
+      "price": 10.6,
+      "reference_price": "2.65",
       "reference_unit": "ud",
       "url": "https://tienda.mercadona.es/product/35785/recambios-maquinilla-depilacion-gillette-venus-comfortglide-breeze-3-hojas-caja"
     },
@@ -28759,7 +28769,7 @@
       "name": "Manzana Golden",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.46,
+      "price": 0.5,
       "reference_price": "2.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3028/manzana-golden-pieza"
@@ -28839,7 +28849,7 @@
       "name": "Pera Limonera",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.64,
+      "price": 0.67,
       "reference_price": "2.80",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3172/pera-limonera-pieza"
@@ -28849,7 +28859,7 @@
       "name": "Manzana roja acidulce",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.55,
+      "price": 0.53,
       "reference_price": "2.40",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/8175/manzana-roja-acidulce-pieza"
@@ -28869,7 +28879,7 @@
       "name": "Medio melón piel de sapo",
       "packaging": "1/2 Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 4.34,
+      "price": 4.55,
       "reference_price": "2.60",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3515/medio-melon-piel-sapo-12-pieza"
@@ -28879,7 +28889,7 @@
       "name": "Melón piel de sapo",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 7.0,
+      "price": 7.3,
       "reference_price": "2.20",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3506/melon-piel-sapo-pieza"
@@ -29009,7 +29019,7 @@
       "name": "Piña",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 3.64,
+      "price": 3.6,
       "reference_price": "2.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3076/pina-pieza"
@@ -29049,7 +29059,7 @@
       "name": "Mango",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 1.05,
+      "price": 1.08,
       "reference_price": "2.70",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3050/mango-pieza"
@@ -29059,7 +29069,7 @@
       "name": "Papaya",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 3.41,
+      "price": 3.36,
       "reference_price": "5.25",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3026/papaya-pieza"
@@ -29099,7 +29109,7 @@
       "name": "Ciruela amarilla",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.42,
+      "price": 0.46,
       "reference_price": "3.80",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3649/ciruela-amarilla-pieza"
@@ -29469,7 +29479,7 @@
       "name": "Patata",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.46,
+      "price": 0.44,
       "reference_price": "1.90",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69066/patata-pieza"
@@ -29519,7 +29529,7 @@
       "name": "Batata",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.94,
+      "price": 0.97,
       "reference_price": "2.55",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69239/batata-pieza"
@@ -29539,7 +29549,7 @@
       "name": "Yuca",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 2.21,
+      "price": 2.24,
       "reference_price": "3.30",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69173/yuca-pieza"
@@ -29629,7 +29639,7 @@
       "name": "Tomate ensalada",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.52,
+      "price": 0.5,
       "reference_price": "2.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69937/tomate-ensalada-pieza"
@@ -29639,7 +29649,7 @@
       "name": "Tomate canario",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.4,
+      "price": 0.37,
       "reference_price": "2.20",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69968/tomate-canario-pieza"
@@ -29729,7 +29739,7 @@
       "name": "Rama de Tomates",
       "packaging": "Granel",
       "category": "Fruta y verdura · Verdura",
-      "price": 1.78,
+      "price": 1.81,
       "reference_price": "2.70",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69487/rama-tomates-granel"
@@ -29869,7 +29879,7 @@
       "name": "Coliflor",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 2.93,
+      "price": 2.95,
       "reference_price": "2.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69220/coliflor-pieza"
@@ -29995,6 +30005,16 @@
       "url": "https://tienda.mercadona.es/product/69287/albahaca-bandeja"
     },
     {
+      "id": "68037",
+      "name": "Hierbabuena",
+      "packaging": "Manojo",
+      "category": "Fruta y verdura · Verdura",
+      "price": 1.35,
+      "reference_price": "33.75",
+      "reference_unit": "100 g",
+      "url": "https://tienda.mercadona.es/product/68037/hierbabuena-paquete"
+    },
+    {
       "id": "69286",
       "name": "Cebollino",
       "packaging": "Bandeja",
@@ -30019,7 +30039,7 @@
       "name": "Brócoli",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 1.19,
+      "price": 1.24,
       "reference_price": "2.70",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69580/brocoli-pieza"
@@ -35775,6 +35795,16 @@
       "url": "https://tienda.mercadona.es/product/8318/colorete-fluido-blush-luminoso-deliplus-02"
     },
     {
+      "id": "12819",
+      "name": "Colorete fluido Blush mate Deliplus 01 rosa amarronado",
+      "packaging": null,
+      "category": "Maquillaje · Colorete y polvos",
+      "price": 4.75,
+      "reference_price": "4.75",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/12819/colorete-fluido-blush-mate-deliplus-01-rosa-amarronado"
+    },
+    {
       "id": "12825",
       "name": "Colorete fluido Blush mate Deliplus 02 coral",
       "packaging": null,
@@ -36215,16 +36245,6 @@
       "url": "https://tienda.mercadona.es/product/35382/brillo-labios-volumizer-gloss-deliplus-06-morado"
     },
     {
-      "id": "35383",
-      "name": "Brillo de labios Volumizer gloss Deliplus 07 transparente con destellos",
-      "packaging": null,
-      "category": "Maquillaje · Labios",
-      "price": 5.0,
-      "reference_price": "5.00",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/35383/brillo-labios-volumizer-gloss-deliplus-07-transparente-con-destellos"
-    },
-    {
       "id": "23541",
       "name": "Pintalabios Mate Deliplus 102 caramelo",
       "packaging": null,
@@ -36233,16 +36253,6 @@
       "reference_price": "4.50",
       "reference_unit": "ud",
       "url": "https://tienda.mercadona.es/product/23541/pintalabios-mate-deliplus-102-caramelo"
-    },
-    {
-      "id": "60929",
-      "name": "Pintalabios Mate Deliplus 107 caldera",
-      "packaging": null,
-      "category": "Maquillaje · Labios",
-      "price": 4.5,
-      "reference_price": "4.50",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/60929/pintalabios-mate-deliplus-107-caldera"
     },
     {
       "id": "60933",
@@ -37269,8 +37279,8 @@
       "name": "Filete de salmón rosado salvaje con piel Hacendado ultracongelado",
       "packaging": "Pieza",
       "category": "Marisco y pescado · Pescado congelado",
-      "price": 4.99,
-      "reference_price": "13.50",
+      "price": 6.1,
+      "reference_price": "16.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/24350/filete-salmon-rosado-salvaje-con-piel-hacendado-ultracongelado-pieza"
     },
@@ -37899,8 +37909,8 @@
       "name": "Boquerón sin limpiar",
       "packaging": "Bandeja",
       "category": "Marisco y pescado · Pescado fresco",
-      "price": 2.25,
-      "reference_price": "6.00",
+      "price": 1.88,
+      "reference_price": "5.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/26981/boqueron-sin-limpiar-bandeja"
     },
@@ -37909,8 +37919,8 @@
       "name": "Boquerón limpio sin cabeza",
       "packaging": "Bandeja",
       "category": "Marisco y pescado · Pescado fresco",
-      "price": 2.55,
-      "reference_price": "8.50",
+      "price": 2.1,
+      "reference_price": "7.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/87929/boqueron-limpio-sin-cabeza-sin-tripa-bandeja"
     },
@@ -37919,8 +37929,8 @@
       "name": "Boquerón limpio sin espina",
       "packaging": "Bandeja",
       "category": "Marisco y pescado · Pescado fresco",
-      "price": 3.3,
-      "reference_price": "16.50",
+      "price": 3.0,
+      "reference_price": "15.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/87930/boqueron-limpio-sin-espina-bandeja"
     },
@@ -38033,16 +38043,6 @@
       "reference_price": "35.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/87196/lenguado-rubio-bandeja"
-    },
-    {
-      "id": "87305",
-      "name": "Rodaja bonito del norte",
-      "packaging": "Bandeja",
-      "category": "Marisco y pescado · Pescado fresco",
-      "price": 7.48,
-      "reference_price": "14.95",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/87305/rodaja-bonito-norte-bandeja"
     },
     {
       "id": "87996",
@@ -44983,6 +44983,16 @@
       "reference_price": "9.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/22444/postre-lacteo-infantil-cereales-miel-12-meses"
+    },
+    {
+      "id": "18388",
+      "name": "Petit de bolsillo sabor galleta Hacendado",
+      "packaging": "Caja",
+      "category": "Postres y yogures · Yogures y postres infantiles",
+      "price": 1.7,
+      "reference_price": "4.72",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/18388/petit-bolsillo-sabor-galleta-hacendado-caja"
     },
     {
       "id": "86385",
