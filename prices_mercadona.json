@@ -1,8 +1,8 @@
 {
   "store": "Mercadona",
   "region": "Madrid capital",
-  "updated_at": "2026-10-11T11:11:34Z",
-  "product_count": 4550,
+  "updated_at": "2026-10-12T12:42:39Z",
+  "product_count": 4548,
   "products": [
     {
       "id": "4241",
@@ -7835,16 +7835,6 @@
       "url": "https://tienda.mercadona.es/product/79663/chupete-silicona-reversible-0-6-meses-deliplus-paquete"
     },
     {
-      "id": "79493",
-      "name": "Chupete silicona reversible Deliplus +6 a 18 meses luminiscente",
-      "packaging": "Paquete",
-      "category": "Bebé · Biberón y chupete",
-      "price": 2.5,
-      "reference_price": "2.50",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/79493/chupete-silicona-reversible-6-18-meses-deliplus-luminiscente-paquete"
-    },
-    {
       "id": "13064",
       "name": "Gel corporal infantil Deliplus",
       "packaging": "Bote",
@@ -14635,16 +14625,6 @@
       "url": "https://tienda.mercadona.es/product/14786/tortitas-maiz-campestre-hacendado-paquete"
     },
     {
-      "id": "17762",
-      "name": "Tiras de lomo 99% Hacendado asado",
-      "packaging": "Paquete",
-      "category": "Charcutería y quesos · Aves y jamón cocido",
-      "price": 2.0,
-      "reference_price": "14.29",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/17762/tiras-lomo-99-hacendado-asado-paquete"
-    },
-    {
       "id": "18106",
       "name": "Pechuga de pollo braseada Hacendado lonchas",
       "packaging": "Paquete",
@@ -14893,6 +14873,16 @@
       "reference_price": "6.56",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/21601/lomo-cerdo-cocido-hacendado-finas-lonchas"
+    },
+    {
+      "id": "17762",
+      "name": "Tiras de lomo 99% Hacendado asado",
+      "packaging": "Paquete",
+      "category": "Charcutería y quesos · Aves y jamón cocido",
+      "price": 2.0,
+      "reference_price": "14.29",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/17762/tiras-lomo-99-hacendado-asado-paquete"
     },
     {
       "id": "22428",
@@ -36405,16 +36395,6 @@
       "url": "https://tienda.mercadona.es/product/52804/perfilador-ojos-deliplus-01-negro"
     },
     {
-      "id": "52504",
-      "name": "Delineador de ojos Deliplus 02 marrón",
-      "packaging": null,
-      "category": "Maquillaje · Ojos",
-      "price": 3.75,
-      "reference_price": "3.75",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/52504/delineador-ojos-deliplus-02-marron"
-    },
-    {
       "id": "35346",
       "name": "Perfilador de ojos Waterproof Deliplus 07 verde turquesa",
       "packaging": null,
@@ -39635,16 +39615,6 @@
       "url": "https://tienda.mercadona.es/product/15165/bizcocho-hacendado-paquete"
     },
     {
-      "id": "17951",
-      "name": "Volcano con crema y coco",
-      "packaging": null,
-      "category": "Panadería y pastelería · Bollería envasada",
-      "price": 0.33,
-      "reference_price": "5.75",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/17951/volcano-con-crema-coco"
-    },
-    {
       "id": "85787",
       "name": "Espiral al cacao Hacendado",
       "packaging": null,
@@ -39763,6 +39733,16 @@
       "reference_price": "5.75",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/21472/rosquilla-cacao-caocream-hacendado"
+    },
+    {
+      "id": "17951",
+      "name": "Volcano con crema y coco",
+      "packaging": null,
+      "category": "Panadería y pastelería · Bollería envasada",
+      "price": 0.33,
+      "reference_price": "5.75",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/17951/volcano-con-crema-coco"
     },
     {
       "id": "29100",
@@ -40335,16 +40315,6 @@
       "url": "https://tienda.mercadona.es/product/21596.1/barra-pan-integral-espelta-100"
     },
     {
-      "id": "17813",
-      "name": "11 Panecillos integrales 100%",
-      "packaging": "Bolsa",
-      "category": "Panadería y pastelería · Pan de horno",
-      "price": 1.65,
-      "reference_price": "3.33",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/17813/11-panecillos-integrales-100-bolsa"
-    },
-    {
       "id": "9664",
       "name": "3 Bocadillos",
       "packaging": "Bolsa",
@@ -40483,6 +40453,16 @@
       "reference_price": "3.81",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/83908/3-panes-molletes-pack-3"
+    },
+    {
+      "id": "17813",
+      "name": "11 Panecillos integrales 100%",
+      "packaging": "Bolsa",
+      "category": "Panadería y pastelería · Pan de horno",
+      "price": 1.65,
+      "reference_price": "3.33",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/17813/11-panecillos-integrales-100-bolsa"
     },
     {
       "id": "5850",
