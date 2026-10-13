@@ -1,8 +1,8 @@
 {
   "store": "Mercadona",
   "region": "Madrid capital",
-  "updated_at": "2026-10-12T12:42:39Z",
-  "product_count": 4548,
+  "updated_at": "2026-10-13T12:27:22Z",
+  "product_count": 4541,
   "products": [
     {
       "id": "4241",
@@ -1579,8 +1579,8 @@
       "name": "Agua mineral grande Lanjarón",
       "packaging": null,
       "category": "Agua y refrescos · Agua",
-      "price": 3.6,
-      "reference_price": "0.40",
+      "price": 4.32,
+      "reference_price": "0.48",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/27291/agua-mineral-grande-lanjaron-mineralizacion-debil-pack-6"
     },
@@ -1589,8 +1589,8 @@
       "name": "Agua mineral grande Lanjarón",
       "packaging": "Botella",
       "category": "Agua y refrescos · Agua",
-      "price": 0.63,
-      "reference_price": "0.42",
+      "price": 0.75,
+      "reference_price": "0.50",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/27216/agua-mineral-grande-lanjaron-botella"
     },
@@ -1869,8 +1869,8 @@
       "name": "Bebida isotónica limón Aquarius",
       "packaging": "Botella",
       "category": "Agua y refrescos · Isotónico y energético",
-      "price": 1.91,
-      "reference_price": "1.27",
+      "price": 2.1,
+      "reference_price": "1.40",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/29608/bebida-isotonica-limon-aquarius-botella"
     },
@@ -1929,8 +1929,8 @@
       "name": "Bebida isotónica naranja Aquarius",
       "packaging": "Botella",
       "category": "Agua y refrescos · Isotónico y energético",
-      "price": 1.91,
-      "reference_price": "1.27",
+      "price": 2.1,
+      "reference_price": "1.40",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/29609/bebida-isotonica-naranja-aquarius-botella"
     },
@@ -1959,8 +1959,8 @@
       "name": "Bebida isotónica limón Aquarius zero azúcar",
       "packaging": "Botella",
       "category": "Agua y refrescos · Isotónico y energético",
-      "price": 1.69,
-      "reference_price": "1.13",
+      "price": 2.1,
+      "reference_price": "1.40",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/29612/bebida-isotonica-limon-aquarius-zero-azucar-botella"
     },
@@ -2029,8 +2029,8 @@
       "name": "Bebida isotónica melocotón rojo Aquarius",
       "packaging": "Botella",
       "category": "Agua y refrescos · Isotónico y energético",
-      "price": 1.69,
-      "reference_price": "1.13",
+      "price": 2.1,
+      "reference_price": "1.40",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/16438/bebida-isotonica-melocoton-rojo-aquarius-botella"
     },
@@ -2069,8 +2069,8 @@
       "name": "Bebida energética Monster Energy Ultra zero azúcar",
       "packaging": null,
       "category": "Agua y refrescos · Isotónico y energético",
-      "price": 5.28,
-      "reference_price": "2.64",
+      "price": 6.68,
+      "reference_price": "3.34",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/28670/bebida-energetica-energy-ultra-zero-monster-pack-4"
     },
@@ -2079,8 +2079,8 @@
       "name": "Bebida energética Monster Energy Ultra zero azúcar",
       "packaging": "Lata",
       "category": "Agua y refrescos · Isotónico y energético",
-      "price": 1.45,
-      "reference_price": "2.90",
+      "price": 1.79,
+      "reference_price": "3.58",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/28119/bebida-energetica-energy-ultra-zero-monster-lata"
     },
@@ -2089,8 +2089,8 @@
       "name": "Bebida energética Monster Energy",
       "packaging": null,
       "category": "Agua y refrescos · Isotónico y energético",
-      "price": 5.28,
-      "reference_price": "2.64",
+      "price": 6.68,
+      "reference_price": "3.34",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/28664/bebida-energetica-energy-monster-pack-4"
     },
@@ -2099,8 +2099,8 @@
       "name": "Bebida energética Monster Energy",
       "packaging": "Lata",
       "category": "Agua y refrescos · Isotónico y energético",
-      "price": 1.45,
-      "reference_price": "2.90",
+      "price": 1.79,
+      "reference_price": "3.58",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/28016/bebida-energetica-energy-monster-lata"
     },
@@ -2169,8 +2169,8 @@
       "name": "Bebida energética Mango Loco Juiced Monster Energy",
       "packaging": null,
       "category": "Agua y refrescos · Isotónico y energético",
-      "price": 5.28,
-      "reference_price": "2.64",
+      "price": 6.68,
+      "reference_price": "3.34",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/13815/bebida-energetica-mango-loco-monster-pack-4"
     },
@@ -2179,8 +2179,8 @@
       "name": "Bebida energética Mango Loco Juiced Monster Energy",
       "packaging": "Lata",
       "category": "Agua y refrescos · Isotónico y energético",
-      "price": 1.45,
-      "reference_price": "2.90",
+      "price": 1.79,
+      "reference_price": "3.58",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/13814/bebida-energetica-mango-loco-monster-lata"
     },
@@ -2249,8 +2249,8 @@
       "name": "Refresco Coca-Cola",
       "packaging": "Pack-2",
       "category": "Agua y refrescos · Refresco de cola",
-      "price": 3.8,
-      "reference_price": "0.95",
+      "price": 4.1,
+      "reference_price": "1.03",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/27348/refresco-coca-cola-pack-2"
     },
@@ -2379,8 +2379,8 @@
       "name": "Refresco Coca-Cola zero azúcar",
       "packaging": null,
       "category": "Agua y refrescos · Refresco de cola",
-      "price": 3.8,
-      "reference_price": "0.95",
+      "price": 4.1,
+      "reference_price": "1.03",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/27449/refresco-coca-cola-zero-azucar-pack-2"
     },
@@ -2479,8 +2479,8 @@
       "name": "Refresco Coca-Cola zero azúcar zero cafeína",
       "packaging": null,
       "category": "Agua y refrescos · Refresco de cola",
-      "price": 3.8,
-      "reference_price": "0.95",
+      "price": 4.1,
+      "reference_price": "1.03",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/28180/refresco-coca-cola-zero-zero-pack-2"
     },
@@ -2589,8 +2589,8 @@
       "name": "Refresco Coca-Cola zero azúcar zero cafeína",
       "packaging": null,
       "category": "Agua y refrescos · Refresco de cola",
-      "price": 3.8,
-      "reference_price": "0.95",
+      "price": 4.1,
+      "reference_price": "1.03",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/28180/refresco-coca-cola-zero-zero-pack-2"
     },
@@ -2849,8 +2849,8 @@
       "name": "Refresco Fanta naranja",
       "packaging": null,
       "category": "Agua y refrescos · Refresco de naranja y de limón",
-      "price": 2.98,
-      "reference_price": "0.75",
+      "price": 3.6,
+      "reference_price": "0.90",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/17542/refresco-fanta-naranja"
     },
@@ -3239,8 +3239,8 @@
       "name": "Refresco té sabor limón Fuze Tea",
       "packaging": "Botella",
       "category": "Agua y refrescos · Refresco de té y sin gas",
-      "price": 1.49,
-      "reference_price": "0.99",
+      "price": 1.99,
+      "reference_price": "1.33",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/11688/refresco-te-sabor-limon-fuze-tea-bajo-calorias-botella"
     },
@@ -4183,16 +4183,6 @@
       "reference_price": "6.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/23059/pipas-girasol-tostadas-hacendado-0-sal-anadida-paquete"
-    },
-    {
-      "id": "34236",
-      "name": "Nuez de Brasil natural Hacendado",
-      "packaging": "Paquete",
-      "category": "Aperitivos · Frutos secos y fruta desecada",
-      "price": 3.5,
-      "reference_price": "17.50",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/34236/nuez-brasil-natural-hacendado-paquete"
     },
     {
       "id": "34262",
@@ -6419,8 +6409,8 @@
       "name": "Chocolate con leche Milka",
       "packaging": "Tableta",
       "category": "Azúcar, caramelos y chocolate · Chocolate",
-      "price": 1.95,
-      "reference_price": "13.00",
+      "price": 1.25,
+      "reference_price": "8.33",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/12151/chocolate-con-leche-milka-tableta"
     },
@@ -6469,8 +6459,8 @@
       "name": "Chocolate con leche Milka galleta",
       "packaging": "Tableta",
       "category": "Azúcar, caramelos y chocolate · Chocolate",
-      "price": 2.95,
-      "reference_price": "9.83",
+      "price": 3.95,
+      "reference_price": "13.17",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/12016/chocolate-con-leche-milka-galleta-tableta"
     },
@@ -6563,16 +6553,6 @@
       "reference_price": "12.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/12526/barritas-barquillo-huesitos-banadas-chocolate-con-leche-valor-paquete"
-    },
-    {
-      "id": "17702",
-      "name": "Barritas de chocolate con leche Hacendado rellenas de leche",
-      "packaging": "Paquete",
-      "category": "Azúcar, caramelos y chocolate · Chocolate",
-      "price": 2.2,
-      "reference_price": "11.00",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/17702/barritas-chocolate-con-leche-hacendado-rellenas-leche-paquete"
     },
     {
       "id": "12509",
@@ -7835,6 +7815,16 @@
       "url": "https://tienda.mercadona.es/product/79663/chupete-silicona-reversible-0-6-meses-deliplus-paquete"
     },
     {
+      "id": "79493",
+      "name": "Chupete silicona reversible Deliplus +6 a 18 meses luminiscente",
+      "packaging": "Paquete",
+      "category": "Bebé · Biberón y chupete",
+      "price": 2.5,
+      "reference_price": "2.50",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/79493/chupete-silicona-reversible-6-18-meses-deliplus-luminiscente-paquete"
+    },
+    {
       "id": "13064",
       "name": "Gel corporal infantil Deliplus",
       "packaging": "Bote",
@@ -7893,16 +7883,6 @@
       "reference_price": "22.00",
       "reference_unit": "100 ml",
       "url": "https://tienda.mercadona.es/product/52760/balsamo-facial-corporal-infantil-pieles-atopicas-deliplus-bote"
-    },
-    {
-      "id": "35516",
-      "name": "Agua de colonia bebé Nenuco",
-      "packaging": "Botella",
-      "category": "Bebé · Higiene y cuidado",
-      "price": 2.85,
-      "reference_price": "5.70",
-      "reference_unit": "100 ml",
-      "url": "https://tienda.mercadona.es/product/35516/agua-colonia-bebe-nenuco-botella"
     },
     {
       "id": "46559",
@@ -9069,8 +9049,8 @@
       "name": "Vermouth blanco Martini",
       "packaging": "Botella",
       "category": "Bodega · Licores",
-      "price": 11.0,
-      "reference_price": "11.00",
+      "price": 11.9,
+      "reference_price": "11.90",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/28400/vermouth-bianco-martini-botella"
     },
@@ -9079,8 +9059,8 @@
       "name": "Vermouth rojo Martini",
       "packaging": "Botella",
       "category": "Bodega · Licores",
-      "price": 11.0,
-      "reference_price": "11.00",
+      "price": 11.9,
+      "reference_price": "11.90",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/28401/vermouth-rosso-martini-botella"
     },
@@ -10399,8 +10379,8 @@
       "name": "Cacao soluble ColaCao original",
       "packaging": "Caja",
       "category": "Cacao, café e infusiones · Cacao soluble y chocolate a la taza",
-      "price": 15.5,
-      "reference_price": "7.05",
+      "price": 17.0,
+      "reference_price": "7.73",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/19846/cacao-soluble-colacao-original-caja"
     },
@@ -11029,8 +11009,8 @@
       "name": "Café soluble natural Nescafé classic",
       "packaging": "Tarro",
       "category": "Cacao, café e infusiones · Café soluble y otras bebidas",
-      "price": 4.75,
-      "reference_price": "47.50",
+      "price": 5.4,
+      "reference_price": "54.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/11111/cafe-soluble-natural-nescafe-classic-tarro"
     },
@@ -11079,8 +11059,8 @@
       "name": "Café soluble descafeinado Nescafé classic",
       "packaging": "Tarro",
       "category": "Cacao, café e infusiones · Café soluble y otras bebidas",
-      "price": 4.75,
-      "reference_price": "47.50",
+      "price": 5.4,
+      "reference_price": "54.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/11104/cafe-soluble-descafeinado-nescafe-classic-tarro"
     },
@@ -12123,16 +12103,6 @@
       "reference_price": "14.17",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/19996/brochetas-pollo-yakitori-hacendado-ultracongeladas-caja"
-    },
-    {
-      "id": "25183",
-      "name": "Jamoncitos de pollo congelados",
-      "packaging": "Paquete",
-      "category": "Carne · Carne congelada",
-      "price": 3.5,
-      "reference_price": "3.50",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/25183/jamoncitos-pollo-congelados-paquete"
     },
     {
       "id": "25184",
@@ -13589,8 +13559,8 @@
       "name": "Cereales copos de maíz Corn Flakes Kellogg's",
       "packaging": "Caja",
       "category": "Cereales y galletas · Cereales",
-      "price": 2.5,
-      "reference_price": "5.00",
+      "price": 3.0,
+      "reference_price": "6.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/9210/cereales-copos-maiz-corn-flakes-kelloggs-caja"
     },
@@ -14339,8 +14309,8 @@
       "name": "Barritas de galleta bañadas en chocolate con leche Chips Ahoy",
       "packaging": "Caja",
       "category": "Cereales y galletas · Galletas",
-      "price": 1.5,
-      "reference_price": "10.71",
+      "price": 1.0,
+      "reference_price": "7.14",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/14133/barritas-galleta-banadas-chocolate-con-leche-chips-ahoy-caja"
     },
@@ -17095,16 +17065,6 @@
       "url": "https://tienda.mercadona.es/product/51232/queso-porciones-light-hacendado-caja"
     },
     {
-      "id": "51504",
-      "name": "Queso en porciones mini Babybel",
-      "packaging": "Malla",
-      "category": "Charcutería y quesos · Queso lonchas, rallado y en porciones",
-      "price": 3.9,
-      "reference_price": "24.38",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/51504/queso-porciones-mini-babybel-malla"
-    },
-    {
       "id": "51068",
       "name": "Queso fundido con palitos La vaca que ríe",
       "packaging": "Caja",
@@ -17683,16 +17643,6 @@
       "reference_price": "4.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/17816/costilla-cerdo-marinada-congelada-paquete"
-    },
-    {
-      "id": "25183",
-      "name": "Jamoncitos de pollo congelados",
-      "packaging": "Paquete",
-      "category": "Congelados · Carne",
-      "price": 3.5,
-      "reference_price": "3.50",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/25183/jamoncitos-pollo-congelados-paquete"
     },
     {
       "id": "25184",
@@ -18915,16 +18865,6 @@
       "url": "https://tienda.mercadona.es/product/64166/medios-cocos-helados-hacendado-caja"
     },
     {
-      "id": "60680",
-      "name": "Helado Biscuit Hacendado sabor galleta caramelizada",
-      "packaging": "Bote",
-      "category": "Congelados · Helados",
-      "price": 3.0,
-      "reference_price": "6.00",
-      "reference_unit": "L",
-      "url": "https://tienda.mercadona.es/product/60680/helado-biscuit-hacendado-sabor-galleta-caramelizada-bote"
-    },
-    {
       "id": "60683",
       "name": "Helado peanut butter cups Hacendado mantequilla de cacahuete con trocitos de tartaletas",
       "packaging": "Bote",
@@ -19546,7 +19486,7 @@
     },
     {
       "id": "23988",
-      "name": "Baguette jamón y queso Hacendado ultracongeladas",
+      "name": "Baguette jamón y queso Hacendado ultracongelada",
       "packaging": "Caja",
       "category": "Congelados · Pizzas",
       "price": 2.1,
@@ -19839,8 +19779,8 @@
       "name": "Rabas empanadas Hacendado ultracongeladas",
       "packaging": "Paquete",
       "category": "Congelados · Rebozados",
-      "price": 4.15,
-      "reference_price": "8.30",
+      "price": 4.05,
+      "reference_price": "8.10",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/63161/rabas-empanadas-hacendado-ultracongeladas-paquete"
     },
@@ -21293,6 +21233,16 @@
       "reference_price": "2.00",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/13499/crema-calabaza-hacendado-brick"
+    },
+    {
+      "id": "60308",
+      "name": "Crema de verduras Hacendado",
+      "packaging": "Brik",
+      "category": "Conservas, caldos y cremas · Gazpacho y cremas",
+      "price": 1.0,
+      "reference_price": "2.00",
+      "reference_unit": "L",
+      "url": "https://tienda.mercadona.es/product/60308/crema-verduras-hacendado-brick"
     },
     {
       "id": "23264",
@@ -24693,16 +24643,6 @@
       "reference_price": "0.17",
       "reference_unit": "ud",
       "url": "https://tienda.mercadona.es/product/7914/capsulas-ojos-regen-skin-deliplus-tipo-piel-caja"
-    },
-    {
-      "id": "18125",
-      "name": "Sérum facial tensor inmediato Gold Flash Deliplus con láminas de oro",
-      "packaging": "Caja",
-      "category": "Cuidado facial y corporal · Cuidado e higiene facial",
-      "price": 2.75,
-      "reference_price": "687.50",
-      "reference_unit": "100 ml",
-      "url": "https://tienda.mercadona.es/product/18125/serum-facial-tensor-inmediato-gold-flash-deliplus-con-laminas-oro-tipo-pieles-caja"
     },
     {
       "id": "18657",
@@ -28659,8 +28599,8 @@
       "name": "Plátano de Canarias IGP",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.4,
-      "reference_price": "2.50",
+      "price": 0.45,
+      "reference_price": "2.80",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3819/platano-canarias-igp-pieza"
     },
@@ -28689,8 +28629,8 @@
       "name": "Uva blanca sin semillas",
       "packaging": "Bandeja",
       "category": "Fruta y verdura · Fruta",
-      "price": 1.95,
-      "reference_price": "3.25",
+      "price": 2.16,
+      "reference_price": "3.60",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3313/uva-blanca-sin-semillas-bandeja"
     },
@@ -28699,8 +28639,8 @@
       "name": "Uva roja sin semillas",
       "packaging": "Bandeja",
       "category": "Fruta y verdura · Fruta",
-      "price": 2.25,
-      "reference_price": "3.75",
+      "price": 2.16,
+      "reference_price": "3.60",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3321/uva-roja-sin-semillas-bandeja"
     },
@@ -28709,7 +28649,7 @@
       "name": "Manzana Golden",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.5,
+      "price": 0.52,
       "reference_price": "2.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3028/manzana-golden-pieza"
@@ -28749,7 +28689,7 @@
       "name": "Manzana roja dulce",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.4,
+      "price": 0.38,
       "reference_price": "2.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/8177/manzana-roja-dulce-pieza"
@@ -28819,7 +28759,7 @@
       "name": "Medio melón piel de sapo",
       "packaging": "1/2 Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 4.5,
+      "price": 4.42,
       "reference_price": "2.60",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3515/medio-melon-piel-sapo-12-pieza"
@@ -28829,7 +28769,7 @@
       "name": "Melón piel de sapo",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 7.35,
+      "price": 7.37,
       "reference_price": "2.20",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3506/melon-piel-sapo-pieza"
@@ -28859,8 +28799,8 @@
       "name": "Mandarina",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.32,
-      "reference_price": "2.65",
+      "price": 0.31,
+      "reference_price": "2.55",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3238/mandarina-pieza"
     },
@@ -28939,8 +28879,8 @@
       "name": "Aguacate",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 1.65,
-      "reference_price": "5.00",
+      "price": 1.85,
+      "reference_price": "5.60",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3830/aguacate-pieza"
     },
@@ -28949,8 +28889,8 @@
       "name": "Aguacates",
       "packaging": null,
       "category": "Fruta y verdura · Fruta",
-      "price": 3.65,
-      "reference_price": "5.00",
+      "price": 3.87,
+      "reference_price": "5.30",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3858/aguacates-bandeja"
     },
@@ -28959,7 +28899,7 @@
       "name": "Piña",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 3.52,
+      "price": 3.62,
       "reference_price": "2.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3076/pina-pieza"
@@ -28999,7 +28939,7 @@
       "name": "Mango",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 1.11,
+      "price": 1.13,
       "reference_price": "2.70",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3050/mango-pieza"
@@ -29009,7 +28949,7 @@
       "name": "Papaya",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 3.36,
+      "price": 3.26,
       "reference_price": "5.25",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3026/papaya-pieza"
@@ -29469,7 +29409,7 @@
       "name": "Batata",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.99,
+      "price": 0.97,
       "reference_price": "2.55",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69239/batata-pieza"
@@ -29559,8 +29499,8 @@
       "name": "Ajo negro dientes pelados",
       "packaging": "Tarrina",
       "category": "Fruta y verdura · Verdura",
-      "price": 5.0,
-      "reference_price": "58.82",
+      "price": 5.5,
+      "reference_price": "64.71",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69695/ajo-negro-dientes-pelados-tarrina"
     },
@@ -29579,7 +29519,7 @@
       "name": "Tomate ensalada",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.48,
+      "price": 0.45,
       "reference_price": "2.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69937/tomate-ensalada-pieza"
@@ -29679,7 +29619,7 @@
       "name": "Rama de Tomates",
       "packaging": "Granel",
       "category": "Fruta y verdura · Verdura",
-      "price": 1.86,
+      "price": 1.81,
       "reference_price": "2.70",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69487/rama-tomates-granel"
@@ -29709,7 +29649,7 @@
       "name": "Pepino",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.36,
+      "price": 0.34,
       "reference_price": "1.70",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69584/pepino-pieza"
@@ -29789,7 +29729,7 @@
       "name": "Calabacín blanco",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.77,
+      "price": 0.81,
       "reference_price": "2.20",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69339/calabacin-blanco-pieza"
@@ -29819,7 +29759,7 @@
       "name": "Coliflor",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 2.98,
+      "price": 2.93,
       "reference_price": "2.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69220/coliflor-pieza"
@@ -29979,8 +29919,8 @@
       "name": "Brócoli",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 1.24,
-      "reference_price": "2.70",
+      "price": 1.08,
+      "reference_price": "2.30",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69580/brocoli-pieza"
     },
@@ -30069,8 +30009,8 @@
       "name": "Espárragos verdes finos",
       "packaging": "Manojo",
       "category": "Fruta y verdura · Verdura",
-      "price": 2.7,
-      "reference_price": "10.80",
+      "price": 2.95,
+      "reference_price": "11.80",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69656/esparrago-verde-fino-paquete"
     },
@@ -30119,8 +30059,8 @@
       "name": "Espárragos verdes gruesos",
       "packaging": "Manojo",
       "category": "Fruta y verdura · Verdura",
-      "price": 4.1,
-      "reference_price": "13.67",
+      "price": 4.6,
+      "reference_price": "15.33",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69643/esparrago-verde-grueso-paquete"
     },
@@ -33769,8 +33709,8 @@
       "name": "Quitagrasas KH-7",
       "packaging": "Botella",
       "category": "Limpieza y hogar · Limpieza cocina",
-      "price": 3.3,
-      "reference_price": "4.23",
+      "price": 3.7,
+      "reference_price": "4.74",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/23801/quitagrasas-kh-7-con-pistola-botella"
     },
@@ -36535,6 +36475,16 @@
       "url": "https://tienda.mercadona.es/product/23523/perfilador-cejas-long-lasting-deliplus-01-claro-con-cepillo"
     },
     {
+      "id": "23524",
+      "name": "Perfilador de cejas Deliplus 02 marrón medio",
+      "packaging": null,
+      "category": "Maquillaje · Ojos",
+      "price": 2.75,
+      "reference_price": "2.75",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/23524/perfilador-cejas-deliplus-02-medio-con-cepillo"
+    },
+    {
       "id": "67721",
       "name": "Perfilador de cejas micro Deliplus 01 claro",
       "packaging": null,
@@ -36543,16 +36493,6 @@
       "reference_price": "3.50",
       "reference_unit": "ud",
       "url": "https://tienda.mercadona.es/product/67721/perfilador-cejas-micro-deliplus-01-claro-con-cepillo"
-    },
-    {
-      "id": "21930",
-      "name": "Máscara de cejas Fixing Gel Deliplus transparente",
-      "packaging": null,
-      "category": "Maquillaje · Ojos",
-      "price": 4.25,
-      "reference_price": "4.25",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/21930/mascara-cejas-fixing-gel-deliplus-transparente"
     },
     {
       "id": "21931",
@@ -37479,8 +37419,8 @@
       "name": "Rabas empanadas Hacendado ultracongeladas",
       "packaging": "Paquete",
       "category": "Marisco y pescado · Pescado congelado",
-      "price": 4.15,
-      "reference_price": "8.30",
+      "price": 4.05,
+      "reference_price": "8.10",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/63161/rabas-empanadas-hacendado-ultracongeladas-paquete"
     },
@@ -37619,8 +37559,8 @@
       "name": "Filete de salmón",
       "packaging": "Bandeja",
       "category": "Marisco y pescado · Pescado fresco",
-      "price": 16.15,
-      "reference_price": "19.00",
+      "price": 17.85,
+      "reference_price": "21.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/87208/medio-salmon-bandeja"
     },
@@ -37629,8 +37569,8 @@
       "name": "Porción de  salmón",
       "packaging": "Bandeja",
       "category": "Marisco y pescado · Pescado fresco",
-      "price": 8.05,
-      "reference_price": "23.00",
+      "price": 8.22,
+      "reference_price": "23.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/87204/filete-salmon-bandeja"
     },
@@ -37639,8 +37579,8 @@
       "name": "Escalopín de salmón",
       "packaging": "Bandeja",
       "category": "Marisco y pescado · Pescado fresco",
-      "price": 8.4,
-      "reference_price": "24.00",
+      "price": 8.75,
+      "reference_price": "25.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/87203/escalopin-salmon-bandeja"
     },
@@ -37649,8 +37589,8 @@
       "name": "Rodaja de salmón",
       "packaging": "Bandeja",
       "category": "Marisco y pescado · Pescado fresco",
-      "price": 6.82,
-      "reference_price": "19.50",
+      "price": 7.0,
+      "reference_price": "20.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/87205/rodaja-salmon-bandeja"
     },
@@ -37939,8 +37879,8 @@
       "name": "Merluza rebozada",
       "packaging": "Bandeja",
       "category": "Marisco y pescado · Pescado fresco",
-      "price": 3.8,
-      "reference_price": "16.52",
+      "price": 3.9,
+      "reference_price": "16.96",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/87734/merluza-rebozada-bandeja"
     },
@@ -38583,16 +38523,6 @@
       "reference_price": "3.17",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/70733/pate-perro-adulto-delikuit-con-salmon-verduras-tarrina"
-    },
-    {
-      "id": "70735",
-      "name": "Trozos de salmón y verduras en salsa perro adulto Delikuit",
-      "packaging": "Tarrina",
-      "category": "Mascotas · Perro",
-      "price": 0.95,
-      "reference_price": "3.17",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/70735/trozos-salsa-perro-adulto-delikuit-con-salmon-verduras-tarrina"
     },
     {
       "id": "60552",
@@ -42999,8 +42929,8 @@
       "name": "Fabada asturiana Litoral",
       "packaging": "Bote",
       "category": "Pizzas y platos preparados · Platos preparados calientes",
-      "price": 2.25,
-      "reference_price": "5.36",
+      "price": 2.6,
+      "reference_price": "6.19",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/22726/fabada-asturiana-litoral-bote"
     },
