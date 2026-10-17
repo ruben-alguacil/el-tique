@@ -1,8 +1,8 @@
 {
   "store": "Mercadona",
   "region": "Madrid capital",
-  "updated_at": "2026-10-16T09:28:56Z",
-  "product_count": 4548,
+  "updated_at": "2026-10-17T09:00:15Z",
+  "product_count": 4553,
   "products": [
     {
       "id": "4241",
@@ -849,8 +849,8 @@
       "name": "Mayonesa Hacendado",
       "packaging": "Tarro",
       "category": "Aceite, especias y salsas · Mayonesa, ketchup y mostaza",
-      "price": 1.0,
-      "reference_price": "4.17",
+      "price": 1.05,
+      "reference_price": "4.38",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/52728/mayonesa-hacendado-tarro"
     },
@@ -859,8 +859,8 @@
       "name": "Mayonesa Hacendado",
       "packaging": "Bote",
       "category": "Aceite, especias y salsas · Mayonesa, ketchup y mostaza",
-      "price": 1.4,
-      "reference_price": "2.86",
+      "price": 1.45,
+      "reference_price": "2.96",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/11550/mayonesa-hacendado-bote"
     },
@@ -869,8 +869,8 @@
       "name": "Mayonesa en sobres individuales Hacendado",
       "packaging": "Caja",
       "category": "Aceite, especias y salsas · Mayonesa, ketchup y mostaza",
-      "price": 1.4,
-      "reference_price": "5.83",
+      "price": 1.5,
+      "reference_price": "6.25",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/23816/mayonesa-sobres-individuales-pack-12"
     },
@@ -1337,7 +1337,7 @@
     {
       "id": "17265",
       "name": "Aliño de aceite con perejil y ajo Hacendado",
-      "packaging": "Tarrina",
+      "packaging": null,
       "category": "Aceite, especias y salsas · Otras salsas",
       "price": 1.8,
       "reference_price": "12.00",
@@ -4063,6 +4063,16 @@
       "reference_price": "4.13",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/34016/cacahuete-tostado-con-sal-hacendado-paquete"
+    },
+    {
+      "id": "24561",
+      "name": "Semillas de chía Hacendado",
+      "packaging": "Paquete",
+      "category": "Aperitivos · Frutos secos y fruta desecada",
+      "price": 2.05,
+      "reference_price": "8.20",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/24561/semillas-chia-hacendado-paquete"
     },
     {
       "id": "34145",
@@ -8749,8 +8759,8 @@
       "name": "Cerveza Radler Steinburg con zumo natural de limón",
       "packaging": null,
       "category": "Bodega · Cerveza",
-      "price": 3.69,
-      "reference_price": "1.24",
+      "price": 3.87,
+      "reference_price": "1.30",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/21742/cerveza-radler-steinburg-con-zumo-natural-limon"
     },
@@ -8759,8 +8769,8 @@
       "name": "Cerveza Radler Steinburg con zumo natural de limón",
       "packaging": "Lata",
       "category": "Bodega · Cerveza",
-      "price": 0.41,
-      "reference_price": "1.24",
+      "price": 0.43,
+      "reference_price": "1.30",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/21743/cerveza-radler-steinburg-con-zumo-natural-limon-lata"
     },
@@ -8989,8 +8999,8 @@
       "name": "Cerveza 0,0% sin alcohol Falke",
       "packaging": null,
       "category": "Bodega · Cerveza sin alcohol",
-      "price": 3.48,
-      "reference_price": "0.88",
+      "price": 3.6,
+      "reference_price": "0.91",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/21746/cerveza-00-sin-alcohol-falke"
     },
@@ -8999,8 +9009,8 @@
       "name": "Cerveza 0,0% sin alcohol Falke",
       "packaging": "Lata",
       "category": "Bodega · Cerveza sin alcohol",
-      "price": 0.29,
-      "reference_price": "0.88",
+      "price": 0.3,
+      "reference_price": "0.91",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/21747/cerveza-00-sin-alcohol-falke-lata"
     },
@@ -9375,6 +9385,16 @@
       "url": "https://tienda.mercadona.es/product/28381/licor-anis-dulce-castellana-botella"
     },
     {
+      "id": "18734",
+      "name": "Licor de Roditas Royal Swan",
+      "packaging": "Botella",
+      "category": "Bodega · Licores",
+      "price": 6.35,
+      "reference_price": "9.07",
+      "reference_unit": "L",
+      "url": "https://tienda.mercadona.es/product/18734/licor-roditas-royal-swan-botella"
+    },
+    {
       "id": "28508",
       "name": "Licor de hierbas Puente Pazos",
       "packaging": "Botella",
@@ -9575,6 +9595,26 @@
       "url": "https://tienda.mercadona.es/product/24550/cava-semi-seco-jaume-serra-botella"
     },
     {
+      "id": "18698",
+      "name": "Tinto de verano limón Don Simón",
+      "packaging": null,
+      "category": "Bodega · Tinto de verano y sangría",
+      "price": 2.5,
+      "reference_price": "0.83",
+      "reference_unit": "L",
+      "url": "https://tienda.mercadona.es/product/18698/tinto-verano-limon-don-simon"
+    },
+    {
+      "id": "18699",
+      "name": "Tinto de verano sin alcohol limón Don Simón",
+      "packaging": null,
+      "category": "Bodega · Tinto de verano y sangría",
+      "price": 2.5,
+      "reference_price": "0.83",
+      "reference_unit": "L",
+      "url": "https://tienda.mercadona.es/product/18699/tinto-verano-sin-alcohol-limon-don-simon"
+    },
+    {
       "id": "66922",
       "name": "Sangría Casón Histórico",
       "packaging": "Botella",
@@ -9669,8 +9709,8 @@
       "name": "Tinto de verano limón La Casera",
       "packaging": null,
       "category": "Bodega · Tinto de verano y sangría",
-      "price": 4.78,
-      "reference_price": "1.59",
+      "price": 3.66,
+      "reference_price": "1.22",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/28059/tinto-verano-sabor-limon-casera-pack-2"
     },
@@ -21365,6 +21405,16 @@
       "url": "https://tienda.mercadona.es/product/18499/caldo-pescado-con-bogavante-gourmet-gallina-blanca-brik"
     },
     {
+      "id": "18151",
+      "name": "Caldo de pollo con jamón ibérico Gourmet Gallina blanca",
+      "packaging": "Brik",
+      "category": "Conservas, caldos y cremas · Sopa y caldo",
+      "price": 1.95,
+      "reference_price": "1.95",
+      "reference_unit": "L",
+      "url": "https://tienda.mercadona.es/product/18151/caldo-pollo-con-jamon-iberico-gourmet-gallina-blanca-brik"
+    },
+    {
       "id": "7313",
       "name": "Caldo de pollo Hacendado",
       "packaging": "Brik",
@@ -24413,6 +24463,16 @@
       "reference_price": "1.75",
       "reference_unit": "ud",
       "url": "https://tienda.mercadona.es/product/17733/mascarilla-facial-exosome-mask-deliplus-con-xilitol-vitamina-b3-paquete"
+    },
+    {
+      "id": "17770",
+      "name": "Discos ácido salicílico Facial Clean purificantes y seborreguladores",
+      "packaging": "Bote",
+      "category": "Cuidado facial y corporal · Cuidado e higiene facial",
+      "price": 4.0,
+      "reference_price": "0.08",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/17770/discos-acido-salicilico-deliplus-facial-clean-purificantes-seborreguladores-piel-grasa-acneica-bote"
     },
     {
       "id": "18627",
@@ -28619,7 +28679,7 @@
       "name": "Plátano macho",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.87,
+      "price": 0.81,
       "reference_price": "2.90",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3132/platano-macho-pieza"
@@ -28649,7 +28709,7 @@
       "name": "Manzana Golden",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.44,
+      "price": 0.4,
       "reference_price": "2.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3028/manzana-golden-pieza"
@@ -28669,7 +28729,7 @@
       "name": "Pera Conferencia",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.43,
+      "price": 0.4,
       "reference_price": "2.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3119/pera-conferencia-pieza"
@@ -28769,7 +28829,7 @@
       "name": "Melón piel de sapo",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 6.91,
+      "price": 7.11,
       "reference_price": "2.20",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3506/melon-piel-sapo-pieza"
@@ -28799,7 +28859,7 @@
       "name": "Mandarina",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.31,
+      "price": 0.28,
       "reference_price": "2.55",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3238/mandarina-pieza"
@@ -28829,7 +28889,7 @@
       "name": "Naranja de mesa",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.75,
+      "price": 0.78,
       "reference_price": "2.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3235/naranja-mesa-pieza"
@@ -28849,7 +28909,7 @@
       "name": "Pomelo",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.96,
+      "price": 0.92,
       "reference_price": "3.30",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3202/pomelo-pieza"
@@ -28899,7 +28959,7 @@
       "name": "Aguacate",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 1.85,
+      "price": 1.68,
       "reference_price": "5.60",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3830/aguacate-pieza"
@@ -28919,7 +28979,7 @@
       "name": "Piña",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 4.08,
+      "price": 4.18,
       "reference_price": "2.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3076/pina-pieza"
@@ -28969,7 +29029,7 @@
       "name": "Papaya",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 3.26,
+      "price": 2.99,
       "reference_price": "5.25",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3026/papaya-pieza"
@@ -28999,7 +29059,7 @@
       "name": "Ciruela amarilla",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.46,
+      "price": 0.42,
       "reference_price": "3.80",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3649/ciruela-amarilla-pieza"
@@ -29039,7 +29099,7 @@
       "name": "Melocotón amarillo",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.73,
+      "price": 0.69,
       "reference_price": "3.30",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3433/melocoton-amarillo-pieza"
@@ -29069,7 +29129,7 @@
       "name": "Kaki",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.78,
+      "price": 0.9,
       "reference_price": "3.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3914/caqui-persimon-pieza"
@@ -29539,7 +29599,7 @@
       "name": "Tomate ensalada",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.5,
+      "price": 0.53,
       "reference_price": "2.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69937/tomate-ensalada-pieza"
@@ -29639,7 +29699,7 @@
       "name": "Rama de Tomates",
       "packaging": "Granel",
       "category": "Fruta y verdura · Verdura",
-      "price": 1.84,
+      "price": 1.76,
       "reference_price": "2.70",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69487/rama-tomates-granel"
@@ -29719,7 +29779,7 @@
       "name": "Pimiento rojo",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.9,
+      "price": 0.84,
       "reference_price": "2.90",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69310/pimiento-rojo-pieza"
@@ -29729,7 +29789,7 @@
       "name": "Calabacín verde",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.76,
+      "price": 0.74,
       "reference_price": "1.90",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69338/calabacin-verde-pieza"
@@ -29749,7 +29809,7 @@
       "name": "Calabacín blanco",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.77,
+      "price": 0.75,
       "reference_price": "2.20",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69339/calabacin-blanco-pieza"
@@ -29779,7 +29839,7 @@
       "name": "Coliflor",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 2.65,
+      "price": 2.63,
       "reference_price": "2.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69220/coliflor-pieza"
@@ -29939,7 +29999,7 @@
       "name": "Brócoli",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 1.1,
+      "price": 1.08,
       "reference_price": "2.30",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69580/brocoli-pieza"
@@ -29949,7 +30009,7 @@
       "name": "Berenjena",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.81,
+      "price": 0.79,
       "reference_price": "2.20",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69326/berenjena-pieza"
@@ -34245,6 +34305,16 @@
       "url": "https://tienda.mercadona.es/product/60517/recipiente-hermetico-plastico-rectangular-3l-bosque-verde-paquete"
     },
     {
+      "id": "11681",
+      "name": "Molde de papel Bosque Verde para freidora de aire 20 cm",
+      "packaging": "Paquete",
+      "category": "Limpieza y hogar · Menaje y conservación de alimentos",
+      "price": 2.5,
+      "reference_price": "0.05",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/11681/molde-papel-pulpa-madera-silicona-bosque-verde-freidora-aire-20-cm-paquete"
+    },
+    {
       "id": "14388",
       "name": "Recipiente de plástico rectangular 1,1L Bosque Verde",
       "packaging": "Paquete",
@@ -36465,16 +36535,6 @@
       "url": "https://tienda.mercadona.es/product/14513/perfilador-ojos-waterproof-deliplus-108-beige"
     },
     {
-      "id": "15267",
-      "name": "Perfilador de ojos Waterproof Deliplus 109 burgundy",
-      "packaging": null,
-      "category": "Maquillaje · Ojos",
-      "price": 3.25,
-      "reference_price": "3.25",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/15267/perfilador-ojos-waterproof-deliplus-109-burgundy"
-    },
-    {
       "id": "16455",
       "name": "Delineador de ojos Eyeliner Precision Deliplus negro",
       "packaging": null,
@@ -38603,16 +38663,6 @@
       "reference_price": "5.63",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/60552/trozos-salsa-perros-adultos-quartett-con-pollo-verduras-paquete"
-    },
-    {
-      "id": "9832",
-      "name": "Bocaditos de ternera, hígado y verduras en salsa perro adulto Special Dog Excellence",
-      "packaging": "Bote",
-      "category": "Mascotas · Perro",
-      "price": 1.5,
-      "reference_price": "1.22",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/9832/bocaditos-salsa-perro-adulto-special-dog-excellence-con-ternera-higado-verduras-bote"
     },
     {
       "id": "9833",
