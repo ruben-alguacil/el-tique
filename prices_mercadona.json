@@ -1,8 +1,8 @@
 {
   "store": "Mercadona",
   "region": "Madrid capital",
-  "updated_at": "2026-10-18T09:19:30Z",
-  "product_count": 4551,
+  "updated_at": "2026-10-19T10:29:35Z",
+  "product_count": 4543,
   "products": [
     {
       "id": "4241",
@@ -889,8 +889,8 @@
       "name": "Salsa Original Ligeresa",
       "packaging": "Tarro",
       "category": "Aceite, especias y salsas · Mayonesa, ketchup y mostaza",
-      "price": 2.0,
-      "reference_price": "4.71",
+      "price": 2.5,
+      "reference_price": "5.88",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/35839/salsa-ligera-ligeresa-tarro"
     },
@@ -6375,16 +6375,6 @@
       "url": "https://tienda.mercadona.es/product/9820/chocolate-negro-72-cacao-hacendado-con-almendras-enteras-0-azucares-anadidos-tableta"
     },
     {
-      "id": "17996",
-      "name": "Chocolate con leche Fussion Hacendado relleno de galleta caramelizada",
-      "packaging": "Tableta",
-      "category": "Azúcar, caramelos y chocolate · Chocolate",
-      "price": 1.75,
-      "reference_price": "12.32",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/17996/chocolate-con-leche-fussion-hacendado-relleno-galleta-caramelizada-tableta"
-    },
-    {
       "id": "12562",
       "name": "Chocolate con leche extrafino Nestlé",
       "packaging": "Tableta",
@@ -6503,6 +6493,16 @@
       "reference_price": "14.21",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/17917/chocolate-con-leche-fussion-hacendado-relleno-caramelo-con-leche-aireado-paquete"
+    },
+    {
+      "id": "17996",
+      "name": "Chocolate con leche Fussion Hacendado relleno de galleta caramelizada",
+      "packaging": "Tableta",
+      "category": "Azúcar, caramelos y chocolate · Chocolate",
+      "price": 1.75,
+      "reference_price": "12.32",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/17996/chocolate-con-leche-fussion-hacendado-relleno-galleta-caramelizada-tableta"
     },
     {
       "id": "12476",
@@ -6749,8 +6749,8 @@
       "name": "Surtido bombones Caja Roja Nestlé",
       "packaging": "Caja",
       "category": "Azúcar, caramelos y chocolate · Chocolate",
-      "price": 5.25,
-      "reference_price": "26.52",
+      "price": 6.95,
+      "reference_price": "35.10",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/8920/surtido-bombones-caja-roja-nestle-caja"
     },
@@ -7715,16 +7715,6 @@
       "url": "https://tienda.mercadona.es/product/9408/leche-continuacion-polvo-2-nidina-nestle-6-meses-bote"
     },
     {
-      "id": "35602",
-      "name": "Papilla 8 cereales con galleta María Nestlé +6 meses",
-      "packaging": "Caja",
-      "category": "Bebé · Alimentación infantil",
-      "price": 5.75,
-      "reference_price": "7.93",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/35602/papilla-8-cereales-con-galleta-maria-nestle-6-meses-0-azucares-anadidos-caja"
-    },
-    {
       "id": "18498",
       "name": "Papilla 8 cereales con miel Nestlé +6 meses",
       "packaging": "Caja",
@@ -8309,8 +8299,8 @@
       "name": "Cerveza doble malta Voll-Damm",
       "packaging": "Pack-6",
       "category": "Bodega · Cerveza",
-      "price": 5.1,
-      "reference_price": "2.58",
+      "price": 6.24,
+      "reference_price": "3.15",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/28057/cerveza-doble-malta-voll-damm-pack-6"
     },
@@ -8319,8 +8309,8 @@
       "name": "Cerveza doble malta Voll-Damm",
       "packaging": "Lata",
       "category": "Bodega · Cerveza",
-      "price": 0.89,
-      "reference_price": "2.70",
+      "price": 1.04,
+      "reference_price": "3.15",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/27137/cerveza-doble-malta-voll-damm-lata"
     },
@@ -8409,8 +8399,8 @@
       "name": "Cerveza especial Estrella Galicia",
       "packaging": "Pack-10",
       "category": "Bodega · Cerveza",
-      "price": 7.6,
-      "reference_price": "2.30",
+      "price": 8.8,
+      "reference_price": "2.67",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/66586/cerveza-especial-estrella-galicia-pack-10"
     },
@@ -8579,8 +8569,8 @@
       "name": "Cerveza especial Mahou",
       "packaging": "Pack-12",
       "category": "Bodega · Cerveza",
-      "price": 6.48,
-      "reference_price": "2.16",
+      "price": 8.04,
+      "reference_price": "2.68",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/66028/cerveza-especial-mahou-pack-12"
     },
@@ -10489,8 +10479,8 @@
       "name": "Cacao soluble instantáneo Nesquik",
       "packaging": "Caja",
       "category": "Cacao, café e infusiones · Cacao soluble y chocolate a la taza",
-      "price": 15.85,
-      "reference_price": "6.34",
+      "price": 12.95,
+      "reference_price": "5.18",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/21985/cacao-soluble-instantaneo-nesquik-caja"
     },
@@ -10499,8 +10489,8 @@
       "name": "Cacao soluble instantáneo Nesquik",
       "packaging": "Paquete",
       "category": "Cacao, café e infusiones · Cacao soluble y chocolate a la taza",
-      "price": 5.95,
-      "reference_price": "6.61",
+      "price": 6.75,
+      "reference_price": "7.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/18235/cacao-soluble-instantaneo-paquete"
     },
@@ -11609,8 +11599,8 @@
       "name": "Filetes pechuga de pavo",
       "packaging": "Bandeja",
       "category": "Carne · Aves y pollo",
-      "price": 4.9,
-      "reference_price": "8.45",
+      "price": 5.07,
+      "reference_price": "8.75",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/2794/filetes-pechuga-pavo-bandeja"
     },
@@ -11629,8 +11619,8 @@
       "name": "Tacos de pavo",
       "packaging": "Bandeja",
       "category": "Carne · Aves y pollo",
-      "price": 4.33,
-      "reference_price": "7.60",
+      "price": 4.16,
+      "reference_price": "7.30",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/12874/tacos-pavo-bandeja"
     },
@@ -13639,8 +13629,8 @@
       "name": "Cereales copos de trigo integral y arroz Special K Classic",
       "packaging": "Caja",
       "category": "Cereales y galletas · Cereales",
-      "price": 3.25,
-      "reference_price": "7.22",
+      "price": 2.4,
+      "reference_price": "5.33",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/35707/cereales-copos-trigo-integral-arroz-special-k-classic-kelloggs-caja"
     },
@@ -13909,8 +13899,8 @@
       "name": "Barritas de avena y chocolate negro Crunchy Nature Valley",
       "packaging": "Caja",
       "category": "Cereales y galletas · Cereales",
-      "price": 2.6,
-      "reference_price": "12.38",
+      "price": 1.95,
+      "reference_price": "9.29",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/14713/barritas-avena-crunchy-nature-valley-con-chocolate-negro-caja"
     },
@@ -13979,8 +13969,8 @@
       "name": "Galletas tostadas Tosta Rica",
       "packaging": "Caja",
       "category": "Cereales y galletas · Galletas",
-      "price": 2.5,
-      "reference_price": "4.39",
+      "price": 2.95,
+      "reference_price": "5.18",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/14087/galletas-tostadas-tosta-rica-cuetara-caja"
     },
@@ -14069,8 +14059,8 @@
       "name": "Galletas caramelizadas Lotus Biscoff",
       "packaging": "Paquete",
       "category": "Cereales y galletas · Galletas",
-      "price": 1.3,
-      "reference_price": "6.99",
+      "price": 1.6,
+      "reference_price": "8.60",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/14140/galletas-caramelizadas-lotus-biscoff-paquete"
     },
@@ -15875,16 +15865,6 @@
       "url": "https://tienda.mercadona.es/product/5840/presa-bellota-iberica-hacienda-iberico-pieza"
     },
     {
-      "id": "24576",
-      "name": "Jamón de bellota ibérico 100% cortado a máquina",
-      "packaging": "Paquete",
-      "category": "Charcutería y quesos · Jamón serrano",
-      "price": 22.4,
-      "reference_price": "140.00",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/24576/jamon-bellota-iberico-100-cortado-maquina-envasado-vacio-paquete"
-    },
-    {
       "id": "59151",
       "name": "Jamón serrano Incarlopsa lonchas extrafinas",
       "packaging": "Paquete",
@@ -15983,6 +15963,16 @@
       "reference_price": "168.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/58324/jamon-bellota-iberico-100-cortado-cuchillo-envasado-vacio-paquete"
+    },
+    {
+      "id": "24576",
+      "name": "Jamón de bellota ibérico 100% cortado a máquina",
+      "packaging": "Paquete",
+      "category": "Charcutería y quesos · Jamón serrano",
+      "price": 22.4,
+      "reference_price": "140.00",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/24576/jamon-bellota-iberico-100-cortado-maquina-envasado-vacio-paquete"
     },
     {
       "id": "58228",
@@ -17879,8 +17869,8 @@
       "name": "Guisante fino Hacendado ultracongelado",
       "packaging": "Paquete",
       "category": "Congelados · Fruta y verdura",
-      "price": 1.5,
-      "reference_price": "1.50",
+      "price": 1.55,
+      "reference_price": "1.55",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/61215/guisante-fino-hacendado-ultracongelado-paquete"
     },
@@ -17939,8 +17929,8 @@
       "name": "Espinaca en porciones Hacendado ultracongelada",
       "packaging": "Paquete",
       "category": "Congelados · Fruta y verdura",
-      "price": 0.9,
-      "reference_price": "2.00",
+      "price": 0.95,
+      "reference_price": "2.11",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/61279/espinaca-porciones-hacendado-ultracongelada-paquete"
     },
@@ -17969,8 +17959,8 @@
       "name": "Relleno fajitas pollo, pimientos y cebolla Hacendado ultracongelado",
       "packaging": "Paquete",
       "category": "Congelados · Fruta y verdura",
-      "price": 1.9,
-      "reference_price": "6.33",
+      "price": 1.95,
+      "reference_price": "6.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/86820/relleno-fajitas-pollo-pimientos-cebolla-hacendado-ultracongelado-paquete"
     },
@@ -18285,16 +18275,6 @@
       "url": "https://tienda.mercadona.es/product/21537/salteado-rustico-hacendado-ultracongelado-patata-boniato-cebolla-asada-paquete"
     },
     {
-      "id": "17587",
-      "name": "Patatas prefritas Pepper Sticks Hacendado rebozadas con sal y pimienta",
-      "packaging": "Paquete",
-      "category": "Congelados · Fruta y verdura",
-      "price": 2.1,
-      "reference_price": "2.80",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/17587/patatas-prefritas-pepper-sticks-hacendado-rebozadas-con-sal-pimienta-ultracongeladas-paquete"
-    },
-    {
       "id": "61421",
       "name": "Patatas prefritas corte fino Hacendado ultracongeladas",
       "packaging": "Paquete",
@@ -18353,6 +18333,16 @@
       "reference_price": "3.07",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/19904/patatas-prefritas-crispy-pops-hacendado-congeladas-paquete"
+    },
+    {
+      "id": "17587",
+      "name": "Patatas prefritas Pepper Sticks Hacendado rebozadas con sal y pimienta",
+      "packaging": "Paquete",
+      "category": "Congelados · Fruta y verdura",
+      "price": 2.1,
+      "reference_price": "2.80",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/17587/patatas-prefritas-pepper-sticks-hacendado-rebozadas-con-sal-pimienta-ultracongeladas-paquete"
     },
     {
       "id": "64001",
@@ -19379,8 +19369,8 @@
       "name": "Migas de bacalao sin piel MareDeus ultracongeladas",
       "packaging": "Paquete",
       "category": "Congelados · Pescado",
-      "price": 6.1,
-      "reference_price": "20.33",
+      "price": 5.5,
+      "reference_price": "18.33",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/24023/migas-bacalao-sin-espinas-sin-piel-maredeus-ultra-congeladas-punto-sal-paquete"
     },
@@ -20063,16 +20053,6 @@
       "reference_price": "9.20",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/17626/tarta-infantil-deportes-hacendado-congelada-bandeja"
-    },
-    {
-      "id": "17627",
-      "name": "Tarta infantil cantantes Hacendado congelada",
-      "packaging": "Bandeja",
-      "category": "Congelados · Tartas y churros",
-      "price": 13.8,
-      "reference_price": "9.20",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/17627/tarta-infantil-cantantes-hacendado-congelada-bandeja"
     },
     {
       "id": "17628",
@@ -29759,8 +29739,8 @@
       "name": "Calabacín verde",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.74,
-      "reference_price": "1.90",
+      "price": 0.55,
+      "reference_price": "1.40",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69338/calabacin-verde-pieza"
     },
@@ -30419,8 +30399,8 @@
       "name": "Leche semidesnatada Asturiana",
       "packaging": "Pack-6",
       "category": "Huevos, leche y mantequilla · Leche y bebidas vegetales",
-      "price": 10.02,
-      "reference_price": "1.11",
+      "price": 10.74,
+      "reference_price": "1.19",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/10505/leche-semidesnatada-asturiana-pack-6"
     },
@@ -30429,8 +30409,8 @@
       "name": "Leche semidesnatada Asturiana",
       "packaging": "Botella",
       "category": "Huevos, leche y mantequilla · Leche y bebidas vegetales",
-      "price": 1.67,
-      "reference_price": "1.11",
+      "price": 1.79,
+      "reference_price": "1.19",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/10502/leche-semidesnatada-asturiana-botella"
     },
@@ -30629,8 +30609,8 @@
       "name": "Leche desnatada Asturiana",
       "packaging": "Pack-6",
       "category": "Huevos, leche y mantequilla · Leche y bebidas vegetales",
-      "price": 9.72,
-      "reference_price": "1.08",
+      "price": 10.38,
+      "reference_price": "1.15",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/10516/leche-desnatada-asturiana-pack-6"
     },
@@ -30639,8 +30619,8 @@
       "name": "Leche desnatada Asturiana",
       "packaging": "Botella",
       "category": "Huevos, leche y mantequilla · Leche y bebidas vegetales",
-      "price": 1.62,
-      "reference_price": "1.08",
+      "price": 1.73,
+      "reference_price": "1.15",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/10599/leche-desnatada-asturiana-botella"
     },
@@ -30779,8 +30759,8 @@
       "name": "Leche entera Asturiana",
       "packaging": "Pack-6",
       "category": "Huevos, leche y mantequilla · Leche y bebidas vegetales",
-      "price": 11.34,
-      "reference_price": "1.26",
+      "price": 11.82,
+      "reference_price": "1.31",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/10504/leche-entera-asturiana-pack-6"
     },
@@ -30789,8 +30769,8 @@
       "name": "Leche entera Asturiana",
       "packaging": "Botella",
       "category": "Huevos, leche y mantequilla · Leche y bebidas vegetales",
-      "price": 1.89,
-      "reference_price": "1.26",
+      "price": 1.97,
+      "reference_price": "1.31",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/10506/leche-entera-asturiana-botella"
     },
@@ -31209,8 +31189,8 @@
       "name": "Batido de chocolate ColaCao Energy",
       "packaging": "Pack-4",
       "category": "Huevos, leche y mantequilla · Leche y bebidas vegetales",
-      "price": 2.5,
-      "reference_price": "3.32",
+      "price": 2.85,
+      "reference_price": "3.79",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/10066/batido-chocolate-colacao-energy-pack-4"
     },
@@ -31579,8 +31559,8 @@
       "name": "Margarina Flora Original",
       "packaging": "Tarrina",
       "category": "Huevos, leche y mantequilla · Mantequilla y margarina",
-      "price": 2.69,
-      "reference_price": "6.73",
+      "price": 3.19,
+      "reference_price": "7.98",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/86503/margarina-flora-original-tarrina"
     },
@@ -35185,16 +35165,6 @@
       "url": "https://tienda.mercadona.es/product/8999/plumero-atrapa-polvo-bosque-verde-1-mango-3-recambios-paquete"
     },
     {
-      "id": "70028",
-      "name": "Crema de calzado marrón autobrillante Bosque Verde con aplicador",
-      "packaging": "Bote",
-      "category": "Limpieza y hogar · Utensilios de limpieza y calzado",
-      "price": 0.95,
-      "reference_price": "19.00",
-      "reference_unit": "L",
-      "url": "https://tienda.mercadona.es/product/70028/crema-calzado-marron-autobrillante-bosque-verde-con-aplicador-bote"
-    },
-    {
       "id": "70008",
       "name": "Esponja de calzado incoloro brillo y protección Yak",
       "packaging": null,
@@ -36165,16 +36135,6 @@
       "url": "https://tienda.mercadona.es/product/60933/pintalabios-mate-deliplus-111-marron"
     },
     {
-      "id": "8303",
-      "name": "Pintalabios Mate Deliplus 114 rosa medio",
-      "packaging": null,
-      "category": "Maquillaje · Labios",
-      "price": 4.5,
-      "reference_price": "4.50",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/8303/pintalabios-mate-deliplus-114-rosa-medio"
-    },
-    {
       "id": "8301",
       "name": "Pintalabios Mate Deliplus 116 rojo intenso",
       "packaging": null,
@@ -36553,16 +36513,6 @@
       "reference_price": "3.50",
       "reference_unit": "ud",
       "url": "https://tienda.mercadona.es/product/67721/perfilador-cejas-micro-deliplus-01-claro-con-cepillo"
-    },
-    {
-      "id": "21930",
-      "name": "Máscara de cejas Fixing Gel Deliplus transparente",
-      "packaging": null,
-      "category": "Maquillaje · Ojos",
-      "price": 4.25,
-      "reference_price": "4.25",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/21930/mascara-cejas-fixing-gel-deliplus-transparente"
     },
     {
       "id": "21931",
@@ -37299,8 +37249,8 @@
       "name": "Migas de bacalao sin piel MareDeus ultracongeladas",
       "packaging": "Paquete",
       "category": "Marisco y pescado · Pescado congelado",
-      "price": 6.1,
-      "reference_price": "20.33",
+      "price": 5.5,
+      "reference_price": "18.33",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/24023/migas-bacalao-sin-espinas-sin-piel-maredeus-ultra-congeladas-punto-sal-paquete"
     },
@@ -37785,16 +37735,6 @@
       "url": "https://tienda.mercadona.es/product/87189/sepia-troceada-faraonica-con-agua-anadida-bandeja"
     },
     {
-      "id": "82850",
-      "name": "Pulpo cocido",
-      "packaging": "Bandeja",
-      "category": "Marisco y pescado · Pescado fresco",
-      "price": 10.8,
-      "reference_price": "36.00",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/82850/pulpo-cocido-bandeja"
-    },
-    {
       "id": "87775",
       "name": "Patas de pulpo cocido",
       "packaging": "Bandeja",
@@ -37893,16 +37833,6 @@
       "reference_price": "11.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/87995/sardina-limpia-descongelada-bandeja"
-    },
-    {
-      "id": "87185",
-      "name": "Gallo limpio del norte",
-      "packaging": "Bandeja",
-      "category": "Marisco y pescado · Pescado fresco",
-      "price": 6.38,
-      "reference_price": "22.00",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/87185/gallo-limpio-norte-bandeja"
     },
     {
       "id": "87326",
@@ -38155,16 +38085,6 @@
       "url": "https://tienda.mercadona.es/product/22612/taquitos-salmon-ahumado-hacendado-paquete"
     },
     {
-      "id": "18165",
-      "name": "Bocaditos de carne y pescado en salsa gato adulto Delikuit",
-      "packaging": "Paquete",
-      "category": "Mascotas · Gato",
-      "price": 6.65,
-      "reference_price": "3.26",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/18165/bocaditos-salsa-gato-adulto-delikuit-contiene-6-con-ternera-6-con-pollo-6-con-salmon-6-con-trucha-caja"
-    },
-    {
       "id": "52710",
       "name": "Bocaditos con pollo, pavo y verduras en salsa gato adulto Lechat Excellence",
       "packaging": "Bote",
@@ -38259,8 +38179,8 @@
       "name": "Gelatina selección de aves gato adulto Quartett",
       "packaging": "Paquete",
       "category": "Mascotas · Gato",
-      "price": 1.85,
-      "reference_price": "5.44",
+      "price": 1.6,
+      "reference_price": "4.71",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/35266/gelatina-gato-adulto-seleccion-aves-quartett-paquete"
     },
@@ -38269,8 +38189,8 @@
       "name": "Gelatina selección de pescado gato adulto Quartett",
       "packaging": "Paquete",
       "category": "Mascotas · Gato",
-      "price": 1.85,
-      "reference_price": "5.44",
+      "price": 1.6,
+      "reference_price": "4.71",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/35267/gelatina-gato-adulto-seleccion-pescado-quartett-paquete"
     },
@@ -38333,6 +38253,16 @@
       "reference_price": "6.91",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/21356/delicias-salsa-gato-adulto-delikuit-contiene-2-con-atun-2-con-pavo-caja"
+    },
+    {
+      "id": "18165",
+      "name": "Bocaditos de carne y pescado en salsa gato adulto Delikuit",
+      "packaging": "Paquete",
+      "category": "Mascotas · Gato",
+      "price": 6.65,
+      "reference_price": "3.26",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/18165/bocaditos-salsa-gato-adulto-delikuit-contiene-6-con-ternera-6-con-pollo-6-con-salmon-6-con-trucha-caja"
     },
     {
       "id": "15640",
@@ -38619,8 +38549,8 @@
       "name": "Trozos de pollo y verduras en salsa perros adultos Quartett",
       "packaging": "Paquete",
       "category": "Mascotas · Perro",
-      "price": 2.25,
-      "reference_price": "5.63",
+      "price": 2.0,
+      "reference_price": "5.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/60552/trozos-salsa-perros-adultos-quartett-con-pollo-verduras-paquete"
     },
@@ -41685,16 +41615,6 @@
       "url": "https://tienda.mercadona.es/product/17626/tarta-infantil-deportes-hacendado-congelada-bandeja"
     },
     {
-      "id": "17627",
-      "name": "Tarta infantil cantantes Hacendado congelada",
-      "packaging": "Bandeja",
-      "category": "Panadería y pastelería · Tartas y pasteles",
-      "price": 13.8,
-      "reference_price": "9.20",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/17627/tarta-infantil-cantantes-hacendado-congelada-bandeja"
-    },
-    {
       "id": "17628",
       "name": "Tarta infantil Paw Patrol Hacendado congelada",
       "packaging": "Bandeja",
@@ -43139,8 +43059,8 @@
       "name": "Empanados vegetales con proteína de soja Tivall",
       "packaging": "Bandeja",
       "category": "Pizzas y platos preparados · Platos preparados calientes",
-      "price": 2.4,
-      "reference_price": "13.33",
+      "price": 2.8,
+      "reference_price": "15.56",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/23249/empanados-vegetales-con-proteina-soja-tivall-bandeja"
     },
