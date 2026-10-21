@@ -1,8 +1,8 @@
 {
   "store": "Mercadona",
   "region": "Madrid capital",
-  "updated_at": "2026-10-20T09:47:59Z",
-  "product_count": 4544,
+  "updated_at": "2026-10-21T09:49:17Z",
+  "product_count": 4549,
   "products": [
     {
       "id": "4241",
@@ -1403,6 +1403,16 @@
       "reference_price": "3.06",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/11552/salsa-cocktail-hacendado-bote"
+    },
+    {
+      "id": "34157",
+      "name": "Carne de pimiento choricero Hacendado",
+      "packaging": "Tarro",
+      "category": "Aceite, especias y salsas · Otras salsas",
+      "price": 1.6,
+      "reference_price": "11.43",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/34157/carne-pimiento-choricero-hacendado-tarro"
     },
     {
       "id": "17441",
@@ -7465,16 +7475,6 @@
       "url": "https://tienda.mercadona.es/product/22191/papilla-cuatro-frutas-con-avena-8-meses-hacendado-pack-4"
     },
     {
-      "id": "22186",
-      "name": "Papilla plátano, mandarina y pera Hacendado +4 meses",
-      "packaging": null,
-      "category": "Bebé · Alimentación infantil",
-      "price": 2.9,
-      "reference_price": "5.58",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/22186/papilla-platano-mandarina-pera-4-meses-hacendado-pack-4"
-    },
-    {
       "id": "22194",
       "name": "Papilla pera y manzana Hacendado +4 meses",
       "packaging": null,
@@ -7705,6 +7705,16 @@
       "url": "https://tienda.mercadona.es/product/9408/leche-continuacion-polvo-2-nidina-nestle-6-meses-bote"
     },
     {
+      "id": "18497",
+      "name": "Papilla 8 cereales con galleta María Nestlé +6 meses",
+      "packaging": "Caja",
+      "category": "Bebé · Alimentación infantil",
+      "price": 5.25,
+      "reference_price": "10.94",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/18497/papilla-8-cereales-con-galleta-maria-nestle-6-meses-0-azucares-anadidos-producidos-caja"
+    },
+    {
       "id": "18498",
       "name": "Papilla 8 cereales con miel Nestlé +6 meses",
       "packaging": "Caja",
@@ -7743,16 +7753,6 @@
       "reference_price": "3.30",
       "reference_unit": "ud",
       "url": "https://tienda.mercadona.es/product/79715/biberon-150-ml-tetina-silicona-flujo-lento-0-meses-deliplus"
-    },
-    {
-      "id": "79470",
-      "name": "Biberón 360 ml tetina silicona tres posiciones Deliplus +1 mes",
-      "packaging": null,
-      "category": "Bebé · Biberón y chupete",
-      "price": 3.8,
-      "reference_price": "3.80",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/79470/biberon-360-ml-tetina-silicona-tres-posiciones-1-mes-deliplus"
     },
     {
       "id": "79576",
@@ -8269,8 +8269,8 @@
       "name": "Cerveza clásica Mahou",
       "packaging": null,
       "category": "Bodega · Cerveza",
-      "price": 6.96,
-      "reference_price": "1.76",
+      "price": 9.24,
+      "reference_price": "2.33",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/66027/cerveza-clasica-mahou-pack-12"
     },
@@ -12095,16 +12095,6 @@
       "url": "https://tienda.mercadona.es/product/17564/taquitos-pollo-bandeja"
     },
     {
-      "id": "19996",
-      "name": "Brochetas de pollo Yakitori Hacendado ultracongeladas",
-      "packaging": "Caja",
-      "category": "Carne · Carne congelada",
-      "price": 3.4,
-      "reference_price": "14.17",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/19996/brochetas-pollo-yakitori-hacendado-ultracongeladas-caja"
-    },
-    {
       "id": "25183",
       "name": "Jamoncitos de pollo congelados",
       "packaging": "Paquete",
@@ -12233,6 +12223,16 @@
       "reference_price": "4.93",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/19852/bolitas-pollo-hacendado-congeladas-bolsa"
+    },
+    {
+      "id": "19996",
+      "name": "Brochetas de pollo Yakitori Hacendado ultracongeladas",
+      "packaging": "Caja",
+      "category": "Carne · Carne congelada",
+      "price": 3.4,
+      "reference_price": "14.17",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/19996/brochetas-pollo-yakitori-hacendado-ultracongeladas-caja"
     },
     {
       "id": "2811",
@@ -12699,8 +12699,8 @@
       "name": "Chorizo oreado",
       "packaging": "Bandeja",
       "category": "Carne · Embutido",
-      "price": 2.57,
-      "reference_price": "7.15",
+      "price": 2.48,
+      "reference_price": "6.90",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/6048/chorizo-oreado-bandeja"
     },
@@ -17625,16 +17625,6 @@
       "url": "https://tienda.mercadona.es/product/23155/gyozas-pollo-verduras-hacendado-congeladas-paquete"
     },
     {
-      "id": "19996",
-      "name": "Brochetas de pollo Yakitori Hacendado ultracongeladas",
-      "packaging": "Caja",
-      "category": "Congelados · Carne",
-      "price": 3.4,
-      "reference_price": "14.17",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/19996/brochetas-pollo-yakitori-hacendado-ultracongeladas-caja"
-    },
-    {
       "id": "25183",
       "name": "Jamoncitos de pollo congelados",
       "packaging": "Paquete",
@@ -17753,6 +17743,16 @@
       "reference_price": "12.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/4425/carrillada-cerdo-congelada-paquete"
+    },
+    {
+      "id": "19996",
+      "name": "Brochetas de pollo Yakitori Hacendado ultracongeladas",
+      "packaging": "Caja",
+      "category": "Congelados · Carne",
+      "price": 3.4,
+      "reference_price": "14.17",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/19996/brochetas-pollo-yakitori-hacendado-ultracongeladas-caja"
     },
     {
       "id": "19852",
@@ -18423,16 +18423,6 @@
       "reference_price": "10.31",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/23851/helado-vegetal-mini-triple-chocolate-base-anacardo-hacendado-caja"
-    },
-    {
-      "id": "60690",
-      "name": "Helado bombón mango blanco Hacendado con salsa de mango",
-      "packaging": "Caja",
-      "category": "Congelados · Helados",
-      "price": 3.9,
-      "reference_price": "7.22",
-      "reference_unit": "L",
-      "url": "https://tienda.mercadona.es/product/60690/helado-bombon-mango-blanco-hacendado-con-salsa-mango-cobertura-chocolate-blanco-con-trozos-coco-crujientes-caja"
     },
     {
       "id": "21604",
@@ -19705,6 +19695,16 @@
       "url": "https://tienda.mercadona.es/product/60306/pollo-marinado-rebozado-crispy-american-style-hacendado-ultracongeladas-paquete"
     },
     {
+      "id": "16433",
+      "name": "Rollitos crujientes Crispy Rolls de langostino Hacendado ultracongelados",
+      "packaging": "Caja",
+      "category": "Congelados · Rebozados",
+      "price": 2.7,
+      "reference_price": "12.50",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/16433/rollitos-crujientes-crispy-rolls-langostino-hacendado-ultracongelados-caja"
+    },
+    {
       "id": "63238",
       "name": "Aritos de surimi a la romana Hacendado ultracongelados",
       "packaging": "Paquete",
@@ -20023,6 +20023,16 @@
       "reference_price": "11.36",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/9641/tarta-queso-hacendado-congelada"
+    },
+    {
+      "id": "18316",
+      "name": "Tarta tres leches con dulce de leche Hacendado congelada",
+      "packaging": "Bandeja",
+      "category": "Congelados · Tartas y churros",
+      "price": 9.0,
+      "reference_price": "8.57",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/18316/tarta-tres-leches-con-dulce-leche-hacendado-congelada-bizcocho-con-base-liquida-bandeja"
     },
     {
       "id": "17626",
@@ -20993,16 +21003,6 @@
       "reference_price": "5.67",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/22191/papilla-cuatro-frutas-con-avena-8-meses-hacendado-pack-4"
-    },
-    {
-      "id": "22186",
-      "name": "Papilla plátano, mandarina y pera Hacendado +4 meses",
-      "packaging": null,
-      "category": "Conservas, caldos y cremas · Conservas de verdura y frutas",
-      "price": 2.9,
-      "reference_price": "5.58",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/22186/papilla-platano-mandarina-pera-4-meses-hacendado-pack-4"
     },
     {
       "id": "22194",
@@ -28719,7 +28719,7 @@
       "name": "Pera Ercolina",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.26,
+      "price": 0.29,
       "reference_price": "2.90",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3170/pera-ercolina-pieza"
@@ -28739,7 +28739,7 @@
       "name": "Pera Limonera",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.5,
+      "price": 0.59,
       "reference_price": "2.80",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3172/pera-limonera-pieza"
@@ -28749,7 +28749,7 @@
       "name": "Manzana roja acidulce",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.53,
+      "price": 0.5,
       "reference_price": "2.40",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/8175/manzana-roja-acidulce-pieza"
@@ -28769,7 +28769,7 @@
       "name": "Medio melón piel de sapo",
       "packaging": "1/2 Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 4.29,
+      "price": 4.11,
       "reference_price": "2.60",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3515/medio-melon-piel-sapo-12-pieza"
@@ -28779,7 +28779,7 @@
       "name": "Melón piel de sapo",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 7.26,
+      "price": 7.39,
       "reference_price": "2.20",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3506/melon-piel-sapo-pieza"
@@ -28809,7 +28809,7 @@
       "name": "Mandarina",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.28,
+      "price": 0.26,
       "reference_price": "2.55",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3238/mandarina-pieza"
@@ -28839,7 +28839,7 @@
       "name": "Naranja de mesa",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.75,
+      "price": 0.73,
       "reference_price": "2.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3235/naranja-mesa-pieza"
@@ -28859,7 +28859,7 @@
       "name": "Pomelo",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.92,
+      "price": 0.96,
       "reference_price": "3.30",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3202/pomelo-pieza"
@@ -28879,7 +28879,7 @@
       "name": "Kiwi verde",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.51,
+      "price": 0.56,
       "reference_price": "4.65",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3820/kiwi-verde-pieza"
@@ -28909,7 +28909,7 @@
       "name": "Aguacate",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 1.18,
+      "price": 1.12,
       "reference_price": "5.60",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3830/aguacate-pieza"
@@ -28929,7 +28929,7 @@
       "name": "Piña",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 4.26,
+      "price": 3.98,
       "reference_price": "2.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3076/pina-pieza"
@@ -28969,7 +28969,7 @@
       "name": "Mango",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 1.32,
+      "price": 1.35,
       "reference_price": "2.70",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3050/mango-pieza"
@@ -28979,7 +28979,7 @@
       "name": "Papaya",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 2.94,
+      "price": 2.89,
       "reference_price": "5.25",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3026/papaya-pieza"
@@ -29073,6 +29073,16 @@
       "reference_price": "3.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3914/caqui-persimon-pieza"
+    },
+    {
+      "id": "3928",
+      "name": "Kakis",
+      "packaging": null,
+      "category": "Fruta y verdura · Fruta",
+      "price": 2.7,
+      "reference_price": "2.70",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/3928/caquis-persimon-bandeja"
     },
     {
       "id": "68130",
@@ -29379,7 +29389,7 @@
       "name": "Patata",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.44,
+      "price": 0.42,
       "reference_price": "1.90",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69066/patata-pieza"
@@ -29429,7 +29439,7 @@
       "name": "Batata",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.89,
+      "price": 0.94,
       "reference_price": "2.55",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69239/batata-pieza"
@@ -29719,7 +29729,7 @@
       "name": "Pimiento rojo",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.78,
+      "price": 0.67,
       "reference_price": "2.90",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69310/pimiento-rojo-pieza"
@@ -29729,7 +29739,7 @@
       "name": "Calabacín verde",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.55,
+      "price": 0.53,
       "reference_price": "1.40",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69338/calabacin-verde-pieza"
@@ -29749,7 +29759,7 @@
       "name": "Calabacín blanco",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.73,
+      "price": 0.7,
       "reference_price": "2.20",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69339/calabacin-blanco-pieza"
@@ -29923,6 +29933,16 @@
       "reference_price": "90.00",
       "reference_unit": "100 g",
       "url": "https://tienda.mercadona.es/product/69286/cebollino-bandeja"
+    },
+    {
+      "id": "17818",
+      "name": "Preparado de verdura Tradicional cortado y lavado",
+      "packaging": "Paquete",
+      "category": "Fruta y verdura · Verdura",
+      "price": 2.4,
+      "reference_price": "6.00",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/17818/preparado-verdura-tradicional-cortado-lavado-paquete"
     },
     {
       "id": "69730",
@@ -32445,6 +32465,16 @@
       "url": "https://tienda.mercadona.es/product/52423/colgador-antipolillas-ropa-limpia-bosque-verde-paquete"
     },
     {
+      "id": "52466",
+      "name": "Bolsitas antipolillas Lavanda Bosque Verde",
+      "packaging": "Paquete",
+      "category": "Limpieza y hogar · Insecticida y ambientador",
+      "price": 1.55,
+      "reference_price": "0.06",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/52466/bolsitas-antipolillas-lavanda-bosque-verde-paquete"
+    },
+    {
       "id": "52422",
       "name": "Colgador antipolillas Lavanda Bosque Verde",
       "packaging": "Paquete",
@@ -33535,16 +33565,6 @@
       "url": "https://tienda.mercadona.es/product/24076/limpiahogar-elimina-olores-bosque-verde-con-bicarbonato-botella"
     },
     {
-      "id": "17652",
-      "name": "Colgador WC azul perfume Violets Bosque Verde",
-      "packaging": "Paquete",
-      "category": "Limpieza y hogar · Limpieza baño y WC",
-      "price": 1.25,
-      "reference_price": "15.63",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/17652/colgador-wc-azul-perfume-violets-bosque-verde-paquete"
-    },
-    {
       "id": "43113",
       "name": "Limpiador WC con lejía Bosque Verde en gel",
       "packaging": "Botella",
@@ -33703,6 +33723,16 @@
       "reference_price": "16.25",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/23982/colgador-wc-glow-oxi-active-bosque-verde-paquete"
+    },
+    {
+      "id": "17652",
+      "name": "Colgador WC azul perfume Violets Bosque Verde",
+      "packaging": "Paquete",
+      "category": "Limpieza y hogar · Limpieza baño y WC",
+      "price": 1.25,
+      "reference_price": "15.63",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/17652/colgador-wc-azul-perfume-violets-bosque-verde-paquete"
     },
     {
       "id": "43914",
@@ -36075,14 +36105,14 @@
       "url": "https://tienda.mercadona.es/product/40055/pintalabios-creamy-deliplus-213-marsala"
     },
     {
-      "id": "8300",
-      "name": "Pintalabios Creamy Deliplus 219 marrón chocolate",
+      "id": "35377",
+      "name": "Brillo de labios Volumizer gloss Deliplus 01 transparente",
       "packaging": null,
       "category": "Maquillaje · Labios",
-      "price": 4.65,
-      "reference_price": "4.65",
+      "price": 5.0,
+      "reference_price": "5.00",
       "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/8300/pintalabios-creamy-deliplus-219-marron-chocolate"
+      "url": "https://tienda.mercadona.es/product/35377/brillo-labios-volumizer-gloss-deliplus-01-transparente"
     },
     {
       "id": "35382",
@@ -37315,6 +37345,16 @@
       "url": "https://tienda.mercadona.es/product/26763/rodajas-merluza-cabo-hacendado-ultracongeladas-paquete"
     },
     {
+      "id": "16433",
+      "name": "Rollitos crujientes Crispy Rolls de langostino Hacendado ultracongelados",
+      "packaging": "Caja",
+      "category": "Marisco y pescado · Pescado congelado",
+      "price": 2.7,
+      "reference_price": "12.50",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/16433/rollitos-crujientes-crispy-rolls-langostino-hacendado-ultracongelados-caja"
+    },
+    {
       "id": "63238",
       "name": "Aritos de surimi a la romana Hacendado ultracongelados",
       "packaging": "Paquete",
@@ -38475,6 +38515,16 @@
       "url": "https://tienda.mercadona.es/product/16460/snacks-gato-rellenos-con-pollo-malta-compy-paquete"
     },
     {
+      "id": "17653",
+      "name": "Trozos de ternera, hígado y verduras en salsa perro adulto Delikuit",
+      "packaging": "Bote",
+      "category": "Mascotas · Perro",
+      "price": 1.5,
+      "reference_price": "1.21",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/17653/trozos-ternera-higado-verduras-salsa-perro-adulto-delikuit-bote"
+    },
+    {
       "id": "8956",
       "name": "Paté de carne perro junior Delikuit",
       "packaging": "Paquete",
@@ -38553,16 +38603,6 @@
       "reference_price": "5.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/60552/trozos-salsa-perros-adultos-quartett-con-pollo-verduras-paquete"
-    },
-    {
-      "id": "9833",
-      "name": "Bocaditos de salmón y verduras en salsa perro adulto Special Dog Excellence",
-      "packaging": "Bote",
-      "category": "Mascotas · Perro",
-      "price": 1.5,
-      "reference_price": "1.22",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/9833/bocaditos-salsa-perro-adulto-special-dog-excellence-con-salmon-verduras-bote"
     },
     {
       "id": "16554",
@@ -40336,7 +40376,7 @@
     },
     {
       "id": "83292",
-      "name": "6 Panes pulguitas sin aditivos",
+      "name": "6 Panes pulguitas",
       "packaging": "Bolsa",
       "category": "Panadería y pastelería · Pan de horno",
       "price": 1.05,
@@ -41583,6 +41623,16 @@
       "reference_price": "12.23",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/20356/tarta-delicia-fresa-hacendado-congelada"
+    },
+    {
+      "id": "18316",
+      "name": "Tarta tres leches con dulce de leche Hacendado congelada",
+      "packaging": "Bandeja",
+      "category": "Panadería y pastelería · Tartas y pasteles",
+      "price": 9.0,
+      "reference_price": "8.57",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/18316/tarta-tres-leches-con-dulce-leche-hacendado-congelada-bizcocho-con-base-liquida-bandeja"
     },
     {
       "id": "18417",
