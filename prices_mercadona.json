@@ -1,8 +1,8 @@
 {
   "store": "Mercadona",
   "region": "Madrid capital",
-  "updated_at": "2026-10-27T10:12:05Z",
-  "product_count": 4590,
+  "updated_at": "2026-10-28T10:58:17Z",
+  "product_count": 4571,
   "products": [
     {
       "id": "4241",
@@ -843,196 +843,6 @@
       "reference_price": "41.11",
       "reference_unit": "100 g",
       "url": "https://tienda.mercadona.es/product/13936/sazonador-topping-hacendado-bote"
-    },
-    {
-      "id": "13406",
-      "name": "Mayonesa Hacendado",
-      "packaging": "Tarro",
-      "category": "Aceite, especias y salsas · Mayonesa, ketchup y mostaza",
-      "price": 1.2,
-      "reference_price": "2.40",
-      "reference_unit": "L",
-      "url": "https://tienda.mercadona.es/product/13406/mayonesa-hacendado-tarro"
-    },
-    {
-      "id": "52728",
-      "name": "Mayonesa Hacendado",
-      "packaging": "Tarro",
-      "category": "Aceite, especias y salsas · Mayonesa, ketchup y mostaza",
-      "price": 1.05,
-      "reference_price": "4.38",
-      "reference_unit": "L",
-      "url": "https://tienda.mercadona.es/product/52728/mayonesa-hacendado-tarro"
-    },
-    {
-      "id": "11550",
-      "name": "Mayonesa Hacendado",
-      "packaging": "Bote",
-      "category": "Aceite, especias y salsas · Mayonesa, ketchup y mostaza",
-      "price": 1.45,
-      "reference_price": "2.96",
-      "reference_unit": "L",
-      "url": "https://tienda.mercadona.es/product/11550/mayonesa-hacendado-bote"
-    },
-    {
-      "id": "23816",
-      "name": "Mayonesa en sobres individuales Hacendado",
-      "packaging": "Caja",
-      "category": "Aceite, especias y salsas · Mayonesa, ketchup y mostaza",
-      "price": 1.5,
-      "reference_price": "6.25",
-      "reference_unit": "L",
-      "url": "https://tienda.mercadona.es/product/23816/mayonesa-sobres-individuales-pack-12"
-    },
-    {
-      "id": "35840",
-      "name": "Mayonesa Hellmann's",
-      "packaging": "Tarro",
-      "category": "Aceite, especias y salsas · Mayonesa, ketchup y mostaza",
-      "price": 2.95,
-      "reference_price": "6.56",
-      "reference_unit": "L",
-      "url": "https://tienda.mercadona.es/product/35840/mayonesa-hellmanns-tarro"
-    },
-    {
-      "id": "35839",
-      "name": "Salsa Original Ligeresa",
-      "packaging": "Tarro",
-      "category": "Aceite, especias y salsas · Mayonesa, ketchup y mostaza",
-      "price": 2.5,
-      "reference_price": "5.88",
-      "reference_unit": "L",
-      "url": "https://tienda.mercadona.es/product/35839/salsa-ligera-ligeresa-tarro"
-    },
-    {
-      "id": "17039",
-      "name": "Salsa Original Ligeresa",
-      "packaging": "Bote",
-      "category": "Aceite, especias y salsas · Mayonesa, ketchup y mostaza",
-      "price": 2.65,
-      "reference_price": "6.16",
-      "reference_unit": "L",
-      "url": "https://tienda.mercadona.es/product/17039/salsa-ligera-ligeresa-bote"
-    },
-    {
-      "id": "17038",
-      "name": "Mayonesa Ybarra",
-      "packaging": "Bote",
-      "category": "Aceite, especias y salsas · Mayonesa, ketchup y mostaza",
-      "price": 2.45,
-      "reference_price": "4.90",
-      "reference_unit": "L",
-      "url": "https://tienda.mercadona.es/product/17038/mayonesa-ybarra-bote"
-    },
-    {
-      "id": "15793",
-      "name": "Salsa Light Hacendado",
-      "packaging": "Tarro",
-      "category": "Aceite, especias y salsas · Mayonesa, ketchup y mostaza",
-      "price": 1.2,
-      "reference_price": "2.40",
-      "reference_unit": "L",
-      "url": "https://tienda.mercadona.es/product/15793/salsa-ligera-hacendado-60-menos-materia-grasa-tarro"
-    },
-    {
-      "id": "11551",
-      "name": "Salsa Light Hacendado",
-      "packaging": "Bote",
-      "category": "Aceite, especias y salsas · Mayonesa, ketchup y mostaza",
-      "price": 1.35,
-      "reference_price": "2.76",
-      "reference_unit": "L",
-      "url": "https://tienda.mercadona.es/product/11551/salsa-light-hacendado-bote"
-    },
-    {
-      "id": "23579",
-      "name": "Ketchup Hacendado",
-      "packaging": "Bote",
-      "category": "Aceite, especias y salsas · Mayonesa, ketchup y mostaza",
-      "price": 1.05,
-      "reference_price": "1.75",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/23579/ketchup-hacendado-bote"
-    },
-    {
-      "id": "67586",
-      "name": "Ketchup en sobres individuales Hacendado",
-      "packaging": "Paquete",
-      "category": "Aceite, especias y salsas · Mayonesa, ketchup y mostaza",
-      "price": 1.4,
-      "reference_price": "5.83",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/67586/ketchup-hacendado-sobres-individuales-paquete"
-    },
-    {
-      "id": "35343",
-      "name": "Salsa de tomate Zero sin azúcares añadidos Hacendado",
-      "packaging": "Bote",
-      "category": "Aceite, especias y salsas · Mayonesa, ketchup y mostaza",
-      "price": 1.6,
-      "reference_price": "2.67",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/35343/ketchup-zero-azucares-anadidos-hacendado-bote"
-    },
-    {
-      "id": "17228",
-      "name": "Mostaza de Dijon Hacendado",
-      "packaging": "Tarro",
-      "category": "Aceite, especias y salsas · Mayonesa, ketchup y mostaza",
-      "price": 1.25,
-      "reference_price": "6.25",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/17228/mostaza-dijon-hacendado-tarro"
-    },
-    {
-      "id": "23410",
-      "name": "Mostaza clásica Hacendado",
-      "packaging": "Bote",
-      "category": "Aceite, especias y salsas · Mayonesa, ketchup y mostaza",
-      "price": 1.25,
-      "reference_price": "3.22",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/23410/mostaza-clasica-hacendado-bote"
-    },
-    {
-      "id": "17150",
-      "name": "Allioli Chovi",
-      "packaging": "Tarrina",
-      "category": "Aceite, especias y salsas · Mayonesa, ketchup y mostaza",
-      "price": 1.55,
-      "reference_price": "8.61",
-      "reference_unit": "L",
-      "url": "https://tienda.mercadona.es/product/17150/allioli-chovi-tarrina"
-    },
-    {
-      "id": "17172",
-      "name": "Allioli Hacendado",
-      "packaging": "Tarrina",
-      "category": "Aceite, especias y salsas · Mayonesa, ketchup y mostaza",
-      "price": 1.1,
-      "reference_price": "5.50",
-      "reference_unit": "L",
-      "url": "https://tienda.mercadona.es/product/17172/allioli-hacendado-tarrina"
-    },
-    {
-      "id": "17173",
-      "name": "Allioli en sobres individuales Hacendado",
-      "packaging": "Paquete",
-      "category": "Aceite, especias y salsas · Mayonesa, ketchup y mostaza",
-      "price": 1.6,
-      "reference_price": "10.00",
-      "reference_unit": "L",
-      "url": "https://tienda.mercadona.es/product/17173/allioli-sobres-individuales-hacendado-paquete"
-    },
-    {
-      "id": "7973",
-      "name": "Alioli con perejil Hacendado",
-      "packaging": "Bote",
-      "category": "Aceite, especias y salsas · Mayonesa, ketchup y mostaza",
-      "price": 1.45,
-      "reference_price": "4.68",
-      "reference_unit": "L",
-      "url": "https://tienda.mercadona.es/product/7973/alioli-canario-hacendado-bote"
     },
     {
       "id": "17132",
@@ -2279,8 +2089,8 @@
       "name": "Refresco Coca-Cola",
       "packaging": "Pack-2",
       "category": "Agua y refrescos · Refresco de cola",
-      "price": 4.5,
-      "reference_price": "1.13",
+      "price": 4.18,
+      "reference_price": "1.05",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/27348/refresco-coca-cola-pack-2"
     },
@@ -2289,8 +2099,8 @@
       "name": "Refresco Coca-Cola",
       "packaging": "Botella",
       "category": "Agua y refrescos · Refresco de cola",
-      "price": 2.35,
-      "reference_price": "1.18",
+      "price": 2.19,
+      "reference_price": "1.10",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/27342/refresco-coca-cola-botella"
     },
@@ -2409,8 +2219,8 @@
       "name": "Refresco Coca-Cola zero azúcar",
       "packaging": null,
       "category": "Agua y refrescos · Refresco de cola",
-      "price": 4.5,
-      "reference_price": "1.13",
+      "price": 4.18,
+      "reference_price": "1.05",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/27449/refresco-coca-cola-zero-azucar-pack-2"
     },
@@ -2419,8 +2229,8 @@
       "name": "Refresco Coca-Cola zero azúcar",
       "packaging": "Botella",
       "category": "Agua y refrescos · Refresco de cola",
-      "price": 2.35,
-      "reference_price": "1.18",
+      "price": 2.19,
+      "reference_price": "1.10",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/27445/refresco-coca-cola-zero-azucar-botella"
     },
@@ -2509,8 +2319,8 @@
       "name": "Refresco Coca-Cola zero azúcar zero cafeína",
       "packaging": null,
       "category": "Agua y refrescos · Refresco de cola",
-      "price": 4.5,
-      "reference_price": "1.13",
+      "price": 4.18,
+      "reference_price": "1.05",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/28180/refresco-coca-cola-zero-zero-pack-2"
     },
@@ -2519,8 +2329,8 @@
       "name": "Refresco Coca-Cola zero azúcar zero cafeína",
       "packaging": "Botella",
       "category": "Agua y refrescos · Refresco de cola",
-      "price": 2.35,
-      "reference_price": "1.18",
+      "price": 2.19,
+      "reference_price": "1.10",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/27462/refresco-coca-cola-zero-zero-botella"
     },
@@ -2619,8 +2429,8 @@
       "name": "Refresco Coca-Cola zero azúcar zero cafeína",
       "packaging": null,
       "category": "Agua y refrescos · Refresco de cola",
-      "price": 4.5,
-      "reference_price": "1.13",
+      "price": 4.18,
+      "reference_price": "1.05",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/28180/refresco-coca-cola-zero-zero-pack-2"
     },
@@ -2629,8 +2439,8 @@
       "name": "Refresco Coca-Cola zero azúcar zero cafeína",
       "packaging": "Botella",
       "category": "Agua y refrescos · Refresco de cola",
-      "price": 2.35,
-      "reference_price": "1.18",
+      "price": 2.19,
+      "reference_price": "1.10",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/27462/refresco-coca-cola-zero-zero-botella"
     },
@@ -10835,6 +10645,16 @@
       "url": "https://tienda.mercadona.es/product/11609/cacao-polvo-taza-hacendado-paquete"
     },
     {
+      "id": "17671",
+      "name": "Café en cápsula sabor Biscuit Hacendado",
+      "packaging": "Caja",
+      "category": "Cacao, café e infusiones · Café cápsula y monodosis",
+      "price": 2.4,
+      "reference_price": "0.24",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/17671/cafe-capsula-sabor-biscuit-hacendado-compatibles-maquinas-nespresso-caja"
+    },
+    {
       "id": "10350",
       "name": "Café en cápsula extra fuerte Hacendado",
       "packaging": "Caja",
@@ -10893,16 +10713,6 @@
       "reference_price": "0.19",
       "reference_unit": "ud",
       "url": "https://tienda.mercadona.es/product/52774/cafe-capsulas-doble-espresso-hacendado-compatibles-maquinas-nespresso-caja"
-    },
-    {
-      "id": "14383",
-      "name": "Café en cápsula sabor Caramel Hacendado",
-      "packaging": "Caja",
-      "category": "Cacao, café e infusiones · Café cápsula y monodosis",
-      "price": 2.4,
-      "reference_price": "0.24",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/14383/cafe-capsula-sabor-caramel-hacendado-compatibles-maquinas-nespresso-caja"
     },
     {
       "id": "17674",
@@ -11233,6 +11043,16 @@
       "reference_price": "10.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/14799/cafe-grano-natural-hacendado-paquete"
+    },
+    {
+      "id": "11021",
+      "name": "Café en grano Hacendado descafeinado",
+      "packaging": "Paquete",
+      "category": "Cacao, café e infusiones · Café molido y en grano",
+      "price": 6.25,
+      "reference_price": "12.50",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/11021/cafe-grano-descafeinado-natural-hacendado-paquete"
     },
     {
       "id": "14798",
@@ -15705,16 +15525,6 @@
       "url": "https://tienda.mercadona.es/product/11973/mortadela-pavo-con-aceitunas-hacendado-finas-lonchas-paquete"
     },
     {
-      "id": "21435",
-      "name": "Longaniza de Pascua extra Hacendado",
-      "packaging": "Paquete",
-      "category": "Charcutería y quesos · Embutido curado",
-      "price": 2.8,
-      "reference_price": "15.56",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/21435/longaniza-pascua-extra-hacendado-paquete"
-    },
-    {
       "id": "55108",
       "name": "Fuet espetec Hacendado",
       "packaging": "Pieza",
@@ -15743,6 +15553,16 @@
       "reference_price": "22.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/59078/sticks-longaniza-extra-hacendado-paquete"
+    },
+    {
+      "id": "21435",
+      "name": "Longaniza de Pascua extra Hacendado",
+      "packaging": "Paquete",
+      "category": "Charcutería y quesos · Embutido curado",
+      "price": 2.8,
+      "reference_price": "15.56",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/21435/longaniza-pascua-extra-hacendado-paquete"
     },
     {
       "id": "12086",
@@ -15983,6 +15803,16 @@
       "reference_price": "10.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/12084/chorizo-picante-extra-hacendado-lonchas"
+    },
+    {
+      "id": "18424",
+      "name": "Chorizo extra pimienta Hacendado finas lonchas",
+      "packaging": "Paquete",
+      "category": "Charcutería y quesos · Embutido curado",
+      "price": 2.0,
+      "reference_price": "17.39",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/18424/chorizo-extra-pimienta-hacendado-finas-lonchas-paquete"
     },
     {
       "id": "15104",
@@ -17213,16 +17043,6 @@
       "reference_price": "14.40",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/50151/queso-lonchas-oveja-entrepinares-paquete"
-    },
-    {
-      "id": "51198",
-      "name": "Queso lonchas fundido burger mezcla Hacendado",
-      "packaging": "Paquete",
-      "category": "Charcutería y quesos · Queso lonchas, rallado y en porciones",
-      "price": 1.9,
-      "reference_price": "6.33",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/51198/queso-lonchas-fundido-burger-mezcla-hacendado-paquete"
     },
     {
       "id": "60927",
@@ -23655,16 +23475,6 @@
       "url": "https://tienda.mercadona.es/product/11933/polvos-voluminizador-cabello-volum-fix-deliplus-mate-fijacion-4-bote"
     },
     {
-      "id": "44276",
-      "name": "Gel fijador cabello Xtra Forte Deliplus fijación 4",
-      "packaging": "Bote",
-      "category": "Cuidado del cabello · Fijación cabello",
-      "price": 1.6,
-      "reference_price": "6.40",
-      "reference_unit": "100 ml",
-      "url": "https://tienda.mercadona.es/product/44276/gel-fijador-cabello-xtra-forte-deliplus-fijacion-4-profix-bote"
-    },
-    {
       "id": "44275",
       "name": "Gel fijador cabello Forte Deliplus fijación 3",
       "packaging": "Bote",
@@ -28889,7 +28699,7 @@
       "name": "Banana",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.21,
+      "price": 0.23,
       "reference_price": "1.25",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3824/banana-pieza"
@@ -28899,7 +28709,7 @@
       "name": "Plátano macho",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.84,
+      "price": 0.81,
       "reference_price": "2.90",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3132/platano-macho-pieza"
@@ -28969,7 +28779,7 @@
       "name": "Manzana roja dulce",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.42,
+      "price": 0.44,
       "reference_price": "2.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/8177/manzana-roja-dulce-pieza"
@@ -29019,7 +28829,7 @@
       "name": "Manzana roja acidulce",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.48,
+      "price": 0.5,
       "reference_price": "2.40",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/8175/manzana-roja-acidulce-pieza"
@@ -29039,7 +28849,7 @@
       "name": "Medio melón piel de sapo",
       "packaging": "1/2 Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 3.56,
+      "price": 3.28,
       "reference_price": "2.60",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3515/medio-melon-piel-sapo-12-pieza"
@@ -29049,7 +28859,7 @@
       "name": "Melón piel de sapo",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 5.98,
+      "price": 5.57,
       "reference_price": "2.20",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3506/melon-piel-sapo-pieza"
@@ -29079,7 +28889,7 @@
       "name": "Mandarina",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.26,
+      "price": 0.28,
       "reference_price": "2.55",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3238/mandarina-pieza"
@@ -29159,7 +28969,7 @@
       "name": "Aguacate",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 1.18,
+      "price": 1.01,
       "reference_price": "5.60",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3830/aguacate-pieza"
@@ -29179,7 +28989,7 @@
       "name": "Piña",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 4.14,
+      "price": 4.24,
       "reference_price": "2.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3076/pina-pieza"
@@ -29219,7 +29029,7 @@
       "name": "Mango",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 1.39,
+      "price": 1.25,
       "reference_price": "2.90",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3050/mango-pieza"
@@ -29229,7 +29039,7 @@
       "name": "Papaya",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 3.31,
+      "price": 3.57,
       "reference_price": "5.25",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3026/papaya-pieza"
@@ -29289,7 +29099,7 @@
       "name": "Kaki",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.67,
+      "price": 0.65,
       "reference_price": "2.15",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3914/caqui-persimon-pieza"
@@ -29659,7 +29469,7 @@
       "name": "Batata",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.89,
+      "price": 0.84,
       "reference_price": "2.55",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69239/batata-pieza"
@@ -29679,7 +29489,7 @@
       "name": "Yuca",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 2.34,
+      "price": 2.44,
       "reference_price": "3.30",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69173/yuca-pieza"
@@ -29769,7 +29579,7 @@
       "name": "Tomate ensalada",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.55,
+      "price": 0.58,
       "reference_price": "2.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69937/tomate-ensalada-pieza"
@@ -29779,7 +29589,7 @@
       "name": "Tomate canario",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.37,
+      "price": 0.35,
       "reference_price": "2.20",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69968/tomate-canario-pieza"
@@ -29899,7 +29709,7 @@
       "name": "Pepino",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.37,
+      "price": 0.39,
       "reference_price": "1.85",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69584/pepino-pieza"
@@ -29969,7 +29779,7 @@
       "name": "Pimiento verde freír",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.23,
+      "price": 0.25,
       "reference_price": "2.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69320/pimiento-verde-freir-pieza"
@@ -29979,7 +29789,7 @@
       "name": "Calabacín blanco",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.7,
+      "price": 0.75,
       "reference_price": "2.20",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69339/calabacin-blanco-pieza"
@@ -30009,7 +29819,7 @@
       "name": "Coliflor",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 2.78,
+      "price": 2.98,
       "reference_price": "2.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69220/coliflor-pieza"
@@ -30189,7 +29999,7 @@
       "name": "Berenjena",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.86,
+      "price": 0.88,
       "reference_price": "2.20",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69326/berenjena-pieza"
@@ -34495,6 +34305,16 @@
       "url": "https://tienda.mercadona.es/product/60517/recipiente-hermetico-plastico-rectangular-3l-bosque-verde-paquete"
     },
     {
+      "id": "11681",
+      "name": "Molde de papel Bosque Verde para freidora de aire 20 cm",
+      "packaging": "Paquete",
+      "category": "Limpieza y hogar · Menaje y conservación de alimentos",
+      "price": 2.5,
+      "reference_price": "0.05",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/11681/molde-papel-pulpa-madera-silicona-bosque-verde-freidora-aire-20-cm-paquete"
+    },
+    {
       "id": "14388",
       "name": "Recipiente de plástico rectangular 1,1L Bosque Verde",
       "packaging": "Paquete",
@@ -36755,16 +36575,6 @@
       "url": "https://tienda.mercadona.es/product/67721/perfilador-cejas-micro-deliplus-01-claro-con-cepillo"
     },
     {
-      "id": "21930",
-      "name": "Máscara de cejas Fixing Gel Deliplus transparente",
-      "packaging": null,
-      "category": "Maquillaje · Ojos",
-      "price": 4.25,
-      "reference_price": "4.25",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/21930/mascara-cejas-fixing-gel-deliplus-transparente"
-    },
-    {
       "id": "21931",
       "name": "Máscara de cejas Deliplus 01 marrón claro",
       "packaging": null,
@@ -38069,8 +37879,8 @@
       "name": "Sardina sin limpiar",
       "packaging": "Bandeja",
       "category": "Marisco y pescado · Pescado fresco",
-      "price": 2.4,
-      "reference_price": "6.00",
+      "price": 1.8,
+      "reference_price": "4.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/87916/sardina-sin-limpiar-bandeja"
     },
