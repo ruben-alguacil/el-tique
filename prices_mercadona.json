@@ -1,8 +1,8 @@
 {
   "store": "Mercadona",
   "region": "Madrid capital",
-  "updated_at": "2026-10-31T10:44:11Z",
-  "product_count": 4611,
+  "updated_at": "2026-11-01T11:39:12Z",
+  "product_count": 4624,
   "products": [
     {
       "id": "4241",
@@ -4295,6 +4295,16 @@
       "url": "https://tienda.mercadona.es/product/17668/almendra-tostada-hacendado-0-sal-anadida-pelada-paquete"
     },
     {
+      "id": "18341",
+      "name": "Nuez troceada pelada Hacendado",
+      "packaging": "Paquete",
+      "category": "Aperitivos · Frutos secos y fruta desecada",
+      "price": 2.25,
+      "reference_price": "11.25",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/18341/nuez-troceada-pelada-hacendado-paquete"
+    },
+    {
       "id": "21928",
       "name": "Cocktail frutos secos tostados con sal Hacendado",
       "packaging": "Paquete",
@@ -6735,6 +6745,26 @@
       "url": "https://tienda.mercadona.es/product/52442/barritas-peanuts-banadas-chocolate-con-leche-rellenas-con-caramelo-cacahuetes-tostados-crema-azucarada-hacendado-paquete"
     },
     {
+      "id": "52455",
+      "name": "Piruleta de chocolate Navidad Hacendado",
+      "packaging": null,
+      "category": "Azúcar, caramelos y chocolate · Chocolate",
+      "price": 1.5,
+      "reference_price": "42.86",
+      "reference_unit": "100 g",
+      "url": "https://tienda.mercadona.es/product/52455/piruleta-chocolate-con-leche-hacendado-navidad"
+    },
+    {
+      "id": "65721",
+      "name": "Surtido figuras de chocolate Navidad Hacendado",
+      "packaging": "Paquete",
+      "category": "Azúcar, caramelos y chocolate · Chocolate",
+      "price": 2.8,
+      "reference_price": "18.67",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/65721/surtido-figuras-chocolate-hacendado-paquete"
+    },
+    {
       "id": "21491",
       "name": "Mix mini barritas de chocolate Hacendado",
       "packaging": "Caja",
@@ -6793,6 +6823,16 @@
       "reference_price": "19.57",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/17705/barritas-crujientes-crunchy-milk-hacendado-con-relleno-cereales-chocolate-con-leche-paquete"
+    },
+    {
+      "id": "18035",
+      "name": "Surtido bombones de chocolate con leche Navidad Hacendado",
+      "packaging": "Malla",
+      "category": "Azúcar, caramelos y chocolate · Chocolate",
+      "price": 1.25,
+      "reference_price": "13.89",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/18035/surtido-bombones-chocolate-con-leche-navidad-hacendado-malla"
     },
     {
       "id": "17947",
@@ -7253,6 +7293,16 @@
       "reference_price": "10.59",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/17719/golosinas-jelly-beans-acidas-hacendado-paquete"
+    },
+    {
+      "id": "18334",
+      "name": "Golosinas rellenas bolas de Navidad Trolli Jingle Balls",
+      "packaging": "Paquete",
+      "category": "Azúcar, caramelos y chocolate · Golosinas",
+      "price": 2.0,
+      "reference_price": "13.33",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/18334/golosinas-rellenas-bolas-navidad-trolli-jingle-balls-paquete"
     },
     {
       "id": "86755",
@@ -8465,14 +8515,14 @@
       "url": "https://tienda.mercadona.es/product/35390/panales-bebe-talla-4-9-14-kg-dodot-paquete"
     },
     {
-      "id": "13321",
+      "id": "17793",
       "name": "Pañales bebé talla 5 Deliplus de 14-18 kg",
       "packaging": null,
       "category": "Bebé · Toallitas y pañales",
-      "price": 17.5,
+      "price": 20.0,
       "reference_price": "0.19",
       "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/13321/panales-bebe-talla-5-13-18-kg-deliplus"
+      "url": "https://tienda.mercadona.es/product/17793/panales-bebe-talla-5-deliplus-14-18-kg"
     },
     {
       "id": "35391",
@@ -9895,16 +9945,6 @@
       "url": "https://tienda.mercadona.es/product/18699/tinto-verano-sin-alcohol-limon-don-simon"
     },
     {
-      "id": "66922",
-      "name": "Sangría Casón Histórico",
-      "packaging": "Botella",
-      "category": "Bodega · Tinto de verano y sangría",
-      "price": 1.55,
-      "reference_price": "1.03",
-      "reference_unit": "L",
-      "url": "https://tienda.mercadona.es/product/66922/sangria-cason-historico-botella"
-    },
-    {
       "id": "60748",
       "name": "Tinto de verano zero limón Casón Histórico",
       "packaging": "Botella",
@@ -10863,6 +10903,16 @@
       "reference_price": "0.19",
       "reference_unit": "ud",
       "url": "https://tienda.mercadona.es/product/52774/cafe-capsulas-doble-espresso-hacendado-compatibles-maquinas-nespresso-caja"
+    },
+    {
+      "id": "14383",
+      "name": "Café en cápsula sabor Caramel Hacendado",
+      "packaging": "Caja",
+      "category": "Cacao, café e infusiones · Café cápsula y monodosis",
+      "price": 2.4,
+      "reference_price": "0.24",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/14383/cafe-capsula-sabor-caramel-hacendado-compatibles-maquinas-nespresso-caja"
     },
     {
       "id": "17674",
@@ -14045,16 +14095,6 @@
       "url": "https://tienda.mercadona.es/product/17676/barritas-galleta-frutos-rojos-hacendado-caja"
     },
     {
-      "id": "24565",
-      "name": "Barritas de cereales avellana y cacao Hacendado",
-      "packaging": "Caja",
-      "category": "Cereales y galletas · Cereales",
-      "price": 1.55,
-      "reference_price": "12.92",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/24565/barritas-cereales-avellana-cacao-hacendado-caja"
-    },
-    {
       "id": "9350",
       "name": "Barritas de cereales y chocolate con leche Hacendado",
       "packaging": "Caja",
@@ -14143,6 +14183,16 @@
       "reference_price": "10.36",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/21760/barritas-cereales-avena-hacendado-con-cacao-caja"
+    },
+    {
+      "id": "24565",
+      "name": "Barritas de cereales avellana y cacao Hacendado",
+      "packaging": "Caja",
+      "category": "Cereales y galletas · Cereales",
+      "price": 1.55,
+      "reference_price": "12.92",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/24565/barritas-cereales-avellana-cacao-hacendado-caja"
     },
     {
       "id": "18145",
@@ -14645,6 +14695,16 @@
       "url": "https://tienda.mercadona.es/product/14241/barquillos-con-crema-avellanas-hacendado-paquete"
     },
     {
+      "id": "13656",
+      "name": "Rosquillas de chocolate con leche y coco Hacendado",
+      "packaging": "Caja",
+      "category": "Cereales y galletas · Galletas",
+      "price": 1.7,
+      "reference_price": "5.67",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/13656/rosquillas-chocolate-con-leche-coco-hacendado-caja"
+    },
+    {
       "id": "23064",
       "name": "Galletas Crunchy Choc Hacendado",
       "packaging": "Caja",
@@ -14733,6 +14793,16 @@
       "reference_price": "4.70",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/14587/surtido-pastas-artesanas-hacendado-caja"
+    },
+    {
+      "id": "14502",
+      "name": "Bollitos glaseados Hacendado",
+      "packaging": "Caja",
+      "category": "Cereales y galletas · Galletas",
+      "price": 2.2,
+      "reference_price": "5.37",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/14502/bollitos-glaseados-hacendado-caja"
     },
     {
       "id": "15953",
@@ -17785,14 +17855,14 @@
       "url": "https://tienda.mercadona.es/product/22720/risotto-setas-hacendado-ultracongelados-paquete"
     },
     {
-      "id": "35541",
+      "id": "21529",
       "name": "Arroz negro Hacendado ultracongelado",
       "packaging": "Paquete",
       "category": "Congelados · Arroz y pasta",
-      "price": 3.1,
-      "reference_price": "5.17",
+      "price": 2.0,
+      "reference_price": "5.71",
       "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/35541/arroz-negro-hacendado-ultracongelado-paquete"
+      "url": "https://tienda.mercadona.es/product/21529/arroz-negro-hacendado-ultracongelado-paquete"
     },
     {
       "id": "12756",
@@ -20115,6 +20185,16 @@
       "url": "https://tienda.mercadona.es/product/60954/croquetas-merluza-hacendado-ultracongelados-paquete"
     },
     {
+      "id": "63373",
+      "name": "Torpedos de langostino Hacendado ultracongelados",
+      "packaging": "Paquete",
+      "category": "Congelados · Rebozados",
+      "price": 3.95,
+      "reference_price": "21.94",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/63373/torpedos-langostino-hacendado-ultracongelados-paquete"
+    },
+    {
       "id": "63739",
       "name": "Fingers de queso Hacendado ultracongelados",
       "packaging": "Paquete",
@@ -20163,6 +20243,16 @@
       "reference_price": "7.67",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/16590/bocaditos-queso-mozzarella-tomate-oregano-pizza-bites-hacendado-ultracongelados-paquete"
+    },
+    {
+      "id": "87027",
+      "name": "Roscón de Reyes relleno de preparado a base de nata Hacendado congelado",
+      "packaging": "Caja",
+      "category": "Congelados · Tartas y churros",
+      "price": 9.3,
+      "reference_price": "11.63",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/87027/roscon-reyes-relleno-preparado-base-nata-congelado-caja"
     },
     {
       "id": "87607",
@@ -26295,6 +26385,16 @@
       "url": "https://tienda.mercadona.es/product/17677/kit-blanqueamiento-dental-deliplus-contiene-ferula-silicona-tubo-gel-blanqueador-30-ml-caja"
     },
     {
+      "id": "20892",
+      "name": "Cepillo dental junior eléctrico Deliplus",
+      "packaging": "Paquete",
+      "category": "Cuidado facial y corporal · Higiene bucal",
+      "price": 6.0,
+      "reference_price": "6.00",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/20892/cepillo-dental-junior-electrico-deliplus-incluye-pilas-paquete"
+    },
+    {
       "id": "21569",
       "name": "Cepillo dental Medio Deliplus",
       "packaging": "Paquete",
@@ -28265,6 +28365,16 @@
       "url": "https://tienda.mercadona.es/product/18183/lote-hombre-faris-aqua-royale-caja"
     },
     {
+      "id": "18182",
+      "name": "Lote hombre Rebel Como Tú",
+      "packaging": "Caja",
+      "category": "Cuidado facial y corporal · Perfume y colonia",
+      "price": 11.0,
+      "reference_price": "11.00",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/18182/lote-hombre-rebel-caja"
+    },
+    {
       "id": "18185",
       "name": "Lote hombre Borealia My Soul",
       "packaging": null,
@@ -29109,7 +29219,7 @@
       "name": "Pera Limonera",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.53,
+      "price": 0.59,
       "reference_price": "2.80",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3172/pera-limonera-pieza"
@@ -29139,7 +29249,7 @@
       "name": "Medio melón piel de sapo",
       "packaging": "1/2 Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 3.59,
+      "price": 3.51,
       "reference_price": "2.60",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3515/medio-melon-piel-sapo-12-pieza"
@@ -29149,7 +29259,7 @@
       "name": "Melón piel de sapo",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 6.09,
+      "price": 5.87,
       "reference_price": "2.20",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3506/melon-piel-sapo-pieza"
@@ -29179,7 +29289,7 @@
       "name": "Mandarina",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.28,
+      "price": 0.31,
       "reference_price": "2.55",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3238/mandarina-pieza"
@@ -29199,7 +29309,7 @@
       "name": "Naranja de mesa",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.75,
+      "price": 0.73,
       "reference_price": "2.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3235/naranja-mesa-pieza"
@@ -29279,7 +29389,7 @@
       "name": "Piña",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 4.18,
+      "price": 4.12,
       "reference_price": "2.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3076/pina-pieza"
@@ -29319,7 +29429,7 @@
       "name": "Mango",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 1.31,
+      "price": 1.28,
       "reference_price": "2.90",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3050/mango-pieza"
@@ -29329,7 +29439,7 @@
       "name": "Papaya",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 3.73,
+      "price": 3.68,
       "reference_price": "5.25",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3026/papaya-pieza"
@@ -29389,7 +29499,7 @@
       "name": "Kaki",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.65,
+      "price": 0.67,
       "reference_price": "2.15",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3914/caqui-persimon-pieza"
@@ -29709,7 +29819,7 @@
       "name": "Patata",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.42,
+      "price": 0.44,
       "reference_price": "1.90",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69066/patata-pieza"
@@ -29759,7 +29869,7 @@
       "name": "Batata",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.84,
+      "price": 0.82,
       "reference_price": "2.55",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69239/batata-pieza"
@@ -29779,7 +29889,7 @@
       "name": "Yuca",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 2.31,
+      "price": 2.24,
       "reference_price": "3.30",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69173/yuca-pieza"
@@ -29869,7 +29979,7 @@
       "name": "Tomate ensalada",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.53,
+      "price": 0.5,
       "reference_price": "2.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69937/tomate-ensalada-pieza"
@@ -29879,7 +29989,7 @@
       "name": "Tomate canario",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.33,
+      "price": 0.31,
       "reference_price": "2.20",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69968/tomate-canario-pieza"
@@ -29969,7 +30079,7 @@
       "name": "Rama de Tomates",
       "packaging": "Granel",
       "category": "Fruta y verdura · Verdura",
-      "price": 1.73,
+      "price": 1.7,
       "reference_price": "2.70",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69487/rama-tomates-granel"
@@ -30059,7 +30169,7 @@
       "name": "Calabacín verde",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.55,
+      "price": 0.53,
       "reference_price": "1.40",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69338/calabacin-verde-pieza"
@@ -30079,7 +30189,7 @@
       "name": "Calabacín blanco",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.84,
+      "price": 0.86,
       "reference_price": "2.20",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69339/calabacin-blanco-pieza"
@@ -30109,7 +30219,7 @@
       "name": "Coliflor",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 3.3,
+      "price": 3.38,
       "reference_price": "2.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69220/coliflor-pieza"
@@ -30149,7 +30259,7 @@
       "name": "Col lombarda",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 2.42,
+      "price": 1.74,
       "reference_price": "2.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69251/col-lombarda-pieza"
@@ -30189,7 +30299,7 @@
       "name": "Champiñones Portobello",
       "packaging": "Bandeja",
       "category": "Fruta y verdura · Verdura",
-      "price": 2.21,
+      "price": 2.2,
       "reference_price": "7.35",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69664/champinon-portobello-bandeja"
@@ -30319,7 +30429,7 @@
       "name": "Berenjena",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.9,
+      "price": 0.88,
       "reference_price": "2.20",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69326/berenjena-pieza"
@@ -37875,6 +37985,16 @@
       "url": "https://tienda.mercadona.es/product/60954/croquetas-merluza-hacendado-ultracongelados-paquete"
     },
     {
+      "id": "63373",
+      "name": "Torpedos de langostino Hacendado ultracongelados",
+      "packaging": "Paquete",
+      "category": "Marisco y pescado · Pescado congelado",
+      "price": 3.95,
+      "reference_price": "21.94",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/63373/torpedos-langostino-hacendado-ultracongelados-paquete"
+    },
+    {
       "id": "24203",
       "name": "Tubo de pota Argentina limpio Hacendado congelado",
       "packaging": "Pieza",
@@ -42263,6 +42383,16 @@
       "reference_price": "9.20",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/17626/tarta-infantil-deportes-hacendado-congelada-bandeja"
+    },
+    {
+      "id": "87027",
+      "name": "Roscón de Reyes relleno de preparado a base de nata Hacendado congelado",
+      "packaging": "Caja",
+      "category": "Panadería y pastelería · Tartas y pasteles",
+      "price": 9.3,
+      "reference_price": "11.63",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/87027/roscon-reyes-relleno-preparado-base-nata-congelado-caja"
     },
     {
       "id": "11529",
