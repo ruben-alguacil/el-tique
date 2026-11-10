@@ -1,8 +1,8 @@
 {
   "store": "Mercadona",
   "region": "Madrid capital",
-  "updated_at": "2026-11-09T13:35:24Z",
-  "product_count": 4602,
+  "updated_at": "2026-11-10T13:14:01Z",
+  "product_count": 4596,
   "products": [
     {
       "id": "4241",
@@ -6955,6 +6955,16 @@
       "url": "https://tienda.mercadona.es/product/18787/crema-galleta-caramelizada-lotus-biscoff-tarro"
     },
     {
+      "id": "67416",
+      "name": "Crema al cacao con avellanas Hacendado",
+      "packaging": "Bote",
+      "category": "Azúcar, caramelos y chocolate · Chocolate",
+      "price": 1.95,
+      "reference_price": "3.90",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/67416/crema-cacao-con-avellanas-hacendado-bote"
+    },
+    {
       "id": "11630",
       "name": "Crema de avellanas y cacao Hacendado",
       "packaging": "Bote",
@@ -8539,8 +8549,8 @@
       "name": "Cerveza Heineken",
       "packaging": "Pack-8",
       "category": "Bodega · Cerveza",
-      "price": 5.12,
-      "reference_price": "1.94",
+      "price": 6.96,
+      "reference_price": "2.64",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/27679/cerveza-heineken-pack-8"
     },
@@ -8549,8 +8559,8 @@
       "name": "Cerveza Heineken",
       "packaging": "Lata",
       "category": "Bodega · Cerveza",
-      "price": 0.68,
-      "reference_price": "2.06",
+      "price": 0.88,
+      "reference_price": "2.67",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/27100/cerveza-heineken-lata"
     },
@@ -9559,8 +9569,8 @@
       "name": "Ron dominicano añejo Ron Barceló",
       "packaging": "Botella",
       "category": "Bodega · Licores",
-      "price": 15.15,
-      "reference_price": "21.64",
+      "price": 15.75,
+      "reference_price": "22.50",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/28757/ron-dominicano-anejo-ron-barcelo-botella"
     },
@@ -9909,8 +9919,8 @@
       "name": "Sangría Don Simón",
       "packaging": "Botella",
       "category": "Bodega · Tinto de verano y sangría",
-      "price": 1.95,
-      "reference_price": "1.30",
+      "price": 1.85,
+      "reference_price": "1.23",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/66944/sangria-don-simon-botella"
     },
@@ -11665,6 +11675,16 @@
       "url": "https://tienda.mercadona.es/product/60672/infusion-quema-grasas-hacendado-caja"
     },
     {
+      "id": "11468",
+      "name": "Infusión Hinojo Hacendado",
+      "packaging": "Caja",
+      "category": "Cacao, café e infusiones · Té e infusiones",
+      "price": 1.05,
+      "reference_price": "26.25",
+      "reference_unit": "100 g",
+      "url": "https://tienda.mercadona.es/product/11468/infusion-hinojo-hacendado-caja"
+    },
+    {
       "id": "52607",
       "name": "Infusión manzana y canela Hacendado",
       "packaging": "Caja",
@@ -11896,7 +11916,7 @@
     },
     {
       "id": "17556",
-      "name": "Magret de pato",
+      "name": "Medio magret de pato",
       "packaging": "Pieza",
       "category": "Carne · Aves y pollo",
       "price": 3.84,
@@ -13775,6 +13795,16 @@
       "url": "https://tienda.mercadona.es/product/9210/cereales-copos-maiz-corn-flakes-kelloggs-caja"
     },
     {
+      "id": "35987",
+      "name": "Cereales de arroz inflado Choco Krispies Kellogg's con chocolate",
+      "packaging": "Caja",
+      "category": "Cereales y galletas · Cereales",
+      "price": 3.65,
+      "reference_price": "8.69",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/35987/cereales-arroz-inflado-choco-krispies-kelloggs-con-chocolate-caja"
+    },
+    {
       "id": "9508",
       "name": "Cereales copos de trigo Chocodays Hacendado con chocolate",
       "packaging": "Caja",
@@ -15365,16 +15395,6 @@
       "url": "https://tienda.mercadona.es/product/21892/guanciale-cerdo-paquete"
     },
     {
-      "id": "18161",
-      "name": "Mini salchichas Bacon Cheese Hacendado con queso envueltas en bacón",
-      "packaging": "Paquete",
-      "category": "Charcutería y quesos · Bacón y salchichas",
-      "price": 2.5,
-      "reference_price": "10.00",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/18161/mini-salchichas-bacon-cheese-hacendado-con-queso-envueltas-bacon-paquete"
-    },
-    {
       "id": "53141",
       "name": "Salchichas cocidas estilo Frankfurt Hacendado de pollo y cerdo sabor ahumado",
       "packaging": null,
@@ -15543,6 +15563,16 @@
       "reference_price": "8.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/17578/salchichas-cocidas-cocktail-hacendado-cerdo-paquete"
+    },
+    {
+      "id": "18161",
+      "name": "Mini salchichas Bacon Cheese Hacendado con queso envueltas en bacón",
+      "packaging": "Paquete",
+      "category": "Charcutería y quesos · Bacón y salchichas",
+      "price": 2.5,
+      "reference_price": "10.00",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/18161/mini-salchichas-bacon-cheese-hacendado-con-queso-envueltas-bacon-paquete"
     },
     {
       "id": "59333",
@@ -18735,16 +18765,6 @@
       "url": "https://tienda.mercadona.es/product/64087/mini-helados-hacendado-caja"
     },
     {
-      "id": "64522",
-      "name": "Helado hielo sorbete con lima limón Hacendado",
-      "packaging": "Caja",
-      "category": "Congelados · Helados",
-      "price": 2.3,
-      "reference_price": "3.48",
-      "reference_unit": "L",
-      "url": "https://tienda.mercadona.es/product/64522/helado-lima-limon-hacendado-caja"
-    },
-    {
       "id": "64127",
       "name": "Granizado de limón Hacendado sin azúcares añadidos",
       "packaging": null,
@@ -18813,16 +18833,6 @@
       "reference_price": "2.80",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/64013/helado-limon-hacendado-caja"
-    },
-    {
-      "id": "64220",
-      "name": "Helado hielo sorbete con mango Hacendado",
-      "packaging": "Caja",
-      "category": "Congelados · Helados",
-      "price": 2.3,
-      "reference_price": "3.07",
-      "reference_unit": "L",
-      "url": "https://tienda.mercadona.es/product/64220/helado-sorbete-mango-hacendado-caja"
     },
     {
       "id": "35955",
@@ -25095,16 +25105,6 @@
       "url": "https://tienda.mercadona.es/product/12754/cuchillas-perfilar-cejas-vello-facial-deliplus-paquete"
     },
     {
-      "id": "21987",
-      "name": "Maquinilla depilación recargable Gillette Venus 3 hojas ComfortGlide",
-      "packaging": "Caja",
-      "category": "Cuidado facial y corporal · Depilación",
-      "price": 9.95,
-      "reference_price": "9.95",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/21987/maquinilla-depilacion-recargable-gillette-venus-3-hojas-comfortglide-contiene-recambio-soporte-ducha-caja"
-    },
-    {
       "id": "18470",
       "name": "Desodorante stick antibacteriano Rexona antitranspirante",
       "packaging": null,
@@ -27833,6 +27833,16 @@
       "reference_price": "11.00",
       "reference_unit": "ud",
       "url": "https://tienda.mercadona.es/product/18178/lote-mujer-gold"
+    },
+    {
+      "id": "18179",
+      "name": "Lote corporal mujer Dolce Latto Deliplus",
+      "packaging": null,
+      "category": "Cuidado facial y corporal · Perfume y colonia",
+      "price": 9.0,
+      "reference_price": "9.00",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/18179/lote-corporal-mujer-dolce-latto-deliplus"
     },
     {
       "id": "18176",
@@ -34555,16 +34565,6 @@
       "url": "https://tienda.mercadona.es/product/60294/film-transparente-bosque-verde-con-sierra-deslizante-caja"
     },
     {
-      "id": "23608",
-      "name": "Papel vegetal Bosque Verde",
-      "packaging": "Caja",
-      "category": "Limpieza y hogar · Menaje y conservación de alimentos",
-      "price": 1.7,
-      "reference_price": "0.06",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/23608/papel-vegetal-bosque-verde-38-x-42-cm-caja"
-    },
-    {
       "id": "49224",
       "name": "Bolsas congelación medianas Bosque Verde reutilizables",
       "packaging": "Caja",
@@ -35955,6 +35955,16 @@
       "url": "https://tienda.mercadona.es/product/8318/colorete-fluido-blush-luminoso-deliplus-02"
     },
     {
+      "id": "12819",
+      "name": "Colorete fluido Blush mate Deliplus 01 rosa amarronado",
+      "packaging": null,
+      "category": "Maquillaje · Colorete y polvos",
+      "price": 4.75,
+      "reference_price": "4.75",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/12819/colorete-fluido-blush-mate-deliplus-01-rosa-amarronado"
+    },
+    {
       "id": "12825",
       "name": "Colorete fluido Blush mate Deliplus 02 coral",
       "packaging": null,
@@ -36143,16 +36153,6 @@
       "reference_price": "2.50",
       "reference_unit": "ud",
       "url": "https://tienda.mercadona.es/product/35539/perfilador-labios-long-lasting-deliplus-01-rosa-nude"
-    },
-    {
-      "id": "35871",
-      "name": "Perfilador de labios Long Lasting Deliplus 06 fucsia",
-      "packaging": null,
-      "category": "Maquillaje · Labios",
-      "price": 2.5,
-      "reference_price": "2.50",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/35871/perfilador-labios-long-lasting-deliplus-06-fucsia"
     },
     {
       "id": "35872",
@@ -36483,16 +36483,6 @@
       "reference_price": "4.50",
       "reference_unit": "ud",
       "url": "https://tienda.mercadona.es/product/18272/pintalabios-mate-deliplus-108-rojo"
-    },
-    {
-      "id": "23541",
-      "name": "Pintalabios Mate Deliplus 102 caramelo",
-      "packaging": null,
-      "category": "Maquillaje · Labios",
-      "price": 4.5,
-      "reference_price": "4.50",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/23541/pintalabios-mate-deliplus-102-caramelo"
     },
     {
       "id": "8301",
@@ -36865,14 +36855,14 @@
       "url": "https://tienda.mercadona.es/product/23525/perfilador-cejas-long-lasting-deliplus-03-oscuro-con-cepillo"
     },
     {
-      "id": "67722",
-      "name": "Perfilador de cejas micro Deliplus 02 oscuro",
+      "id": "21930",
+      "name": "Máscara de cejas Fixing Gel Deliplus transparente",
       "packaging": null,
       "category": "Maquillaje · Ojos",
-      "price": 3.5,
-      "reference_price": "3.50",
+      "price": 4.25,
+      "reference_price": "4.25",
       "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/67722/perfilador-cejas-micro-deliplus-02-oscuro-con-cepillo"
+      "url": "https://tienda.mercadona.es/product/21930/mascara-cejas-fixing-gel-deliplus-transparente"
     },
     {
       "id": "21931",
@@ -38135,36 +38125,6 @@
       "url": "https://tienda.mercadona.es/product/87342/filetes-trucha-arco-iris-bandeja"
     },
     {
-      "id": "26981",
-      "name": "Boquerón sin limpiar",
-      "packaging": "Bandeja",
-      "category": "Marisco y pescado · Pescado fresco",
-      "price": 1.88,
-      "reference_price": "5.00",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/26981/boqueron-sin-limpiar-bandeja"
-    },
-    {
-      "id": "87929",
-      "name": "Boquerón limpio sin cabeza",
-      "packaging": "Bandeja",
-      "category": "Marisco y pescado · Pescado fresco",
-      "price": 2.1,
-      "reference_price": "7.00",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/87929/boqueron-limpio-sin-cabeza-sin-tripa-bandeja"
-    },
-    {
-      "id": "87930",
-      "name": "Boquerón limpio sin espina",
-      "packaging": "Bandeja",
-      "category": "Marisco y pescado · Pescado fresco",
-      "price": 3.0,
-      "reference_price": "15.00",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/87930/boqueron-limpio-sin-espina-bandeja"
-    },
-    {
       "id": "87163",
       "name": "Filete de rodaballo",
       "packaging": "Bandeja",
@@ -38183,26 +38143,6 @@
       "reference_price": "24.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/87186/tira-rodaballo-bandeja"
-    },
-    {
-      "id": "87916",
-      "name": "Sardina sin limpiar",
-      "packaging": "Bandeja",
-      "category": "Marisco y pescado · Pescado fresco",
-      "price": 2.0,
-      "reference_price": "5.00",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/87916/sardina-sin-limpiar-bandeja"
-    },
-    {
-      "id": "87995",
-      "name": "Sardina limpia descongelada",
-      "packaging": "Bandeja",
-      "category": "Marisco y pescado · Pescado fresco",
-      "price": 3.96,
-      "reference_price": "11.00",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/87995/sardina-limpia-descongelada-bandeja"
     },
     {
       "id": "87326",
@@ -39265,16 +39205,6 @@
       "url": "https://tienda.mercadona.es/product/38131/alimento-completo-periquitos-granzoo-paquete"
     },
     {
-      "id": "38145",
-      "name": "Barritas de fruta y miel para periquitos Natura",
-      "packaging": "Caja",
-      "category": "Mascotas · Otros",
-      "price": 2.3,
-      "reference_price": "25.56",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/38145/barritas-fruta-miel-periquitos-natura-caja"
-    },
-    {
       "id": "38130",
       "name": "Alimento completo para canarios y jilgueros Granzoo",
       "packaging": "Paquete",
@@ -39513,6 +39443,16 @@
       "reference_price": "10.95",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/21879/pepito-crema-bandeja"
+    },
+    {
+      "id": "17713",
+      "name": "Berlina rellena de crema de galleta con cobertura blanca y trozos de galleta",
+      "packaging": "Pieza",
+      "category": "Panadería y pastelería · Bollería de horno",
+      "price": 1.25,
+      "reference_price": "12.50",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/17713/berlina-con-cobertura-blanca-trozos-galleta-rellena-crema-con-galleta-pieza"
     },
     {
       "id": "17698",
@@ -42325,16 +42265,6 @@
       "url": "https://tienda.mercadona.es/product/20924/almendra-molida-hacendado-paquete"
     },
     {
-      "id": "34035",
-      "name": "Coco rallado Hacendado",
-      "packaging": "Paquete",
-      "category": "Panadería y pastelería · Velas y decoración",
-      "price": 1.3,
-      "reference_price": "10.40",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/34035/coco-rallado-hacendado-paquete"
-    },
-    {
       "id": "32316",
       "name": "Caramelo líquido Hacendado",
       "packaging": "Bote",
@@ -43503,6 +43433,16 @@
       "reference_price": "4.64",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/22726/fabada-asturiana-litoral-bote"
+    },
+    {
+      "id": "23138",
+      "name": "Albóndigas en salsa Hacendado",
+      "packaging": "Bote",
+      "category": "Pizzas y platos preparados · Platos preparados calientes",
+      "price": 1.8,
+      "reference_price": "4.29",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/23138/albondigas-salsa-hacendado-bote"
     },
     {
       "id": "26114",
