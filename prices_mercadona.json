@@ -1,8 +1,8 @@
 {
   "store": "Mercadona",
   "region": "Madrid capital",
-  "updated_at": "2026-11-10T13:14:01Z",
-  "product_count": 4596,
+  "updated_at": "2026-11-11T12:24:00Z",
+  "product_count": 4602,
   "products": [
     {
       "id": "4241",
@@ -1163,6 +1163,16 @@
       "reference_price": "11.11",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/35412/salsa-curry-tikka-masala-hacendado-picante-paquete"
+    },
+    {
+      "id": "35438",
+      "name": "Salsa Pesto con albahaca Hacendado",
+      "packaging": "Tarro",
+      "category": "Aceite, especias y salsas · Otras salsas",
+      "price": 1.95,
+      "reference_price": "10.26",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/35438/salsa-pesto-con-albahaca-hacendado-tarro"
     },
     {
       "id": "52859",
@@ -2649,8 +2659,8 @@
       "name": "Refresco Fanta limón",
       "packaging": "Botella",
       "category": "Agua y refrescos · Refresco de naranja y de limón",
-      "price": 1.85,
-      "reference_price": "0.93",
+      "price": 1.99,
+      "reference_price": "1.00",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/27610/refresco-fanta-limon-botella"
     },
@@ -2849,8 +2859,8 @@
       "name": "Refresco Fanta naranja",
       "packaging": null,
       "category": "Agua y refrescos · Refresco de naranja y de limón",
-      "price": 3.6,
-      "reference_price": "0.90",
+      "price": 3.9,
+      "reference_price": "0.98",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/17542/refresco-fanta-naranja"
     },
@@ -2859,8 +2869,8 @@
       "name": "Refresco Fanta naranja",
       "packaging": "Botella",
       "category": "Agua y refrescos · Refresco de naranja y de limón",
-      "price": 1.85,
-      "reference_price": "0.93",
+      "price": 1.99,
+      "reference_price": "1.00",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/27508/refresco-fanta-naranja-botella"
     },
@@ -2869,8 +2879,8 @@
       "name": "Refresco Fanta naranja",
       "packaging": "Botella",
       "category": "Agua y refrescos · Refresco de naranja y de limón",
-      "price": 1.55,
-      "reference_price": "1.24",
+      "price": 1.59,
+      "reference_price": "1.27",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/18234/refresco-fanta-naranja-botella"
     },
@@ -2899,8 +2909,8 @@
       "name": "Refresco Fanta naranja zero azúcares añadidos",
       "packaging": "Botella",
       "category": "Agua y refrescos · Refresco de naranja y de limón",
-      "price": 1.85,
-      "reference_price": "0.93",
+      "price": 1.99,
+      "reference_price": "1.00",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/27545/refresco-fanta-naranja-zero-azucares-anadidos-botella"
     },
@@ -5515,6 +5525,16 @@
       "url": "https://tienda.mercadona.es/product/17640/pasta-fusilloni-vegetal-hacendado-paquete"
     },
     {
+      "id": "21395",
+      "name": "Pasta fusilli 100% lentejas rojas Hacendado",
+      "packaging": "Paquete",
+      "category": "Arroz, legumbres y pasta · Pasta y fideos",
+      "price": 2.2,
+      "reference_price": "5.50",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/21395/pasta-fusilli-100-lentejas-rojas-hacendado-paquete"
+    },
+    {
       "id": "6246",
       "name": "Tallarines Hacendado",
       "packaging": "Paquete",
@@ -6595,16 +6615,6 @@
       "url": "https://tienda.mercadona.es/product/12526/barritas-barquillo-huesitos-banadas-chocolate-con-leche-valor-paquete"
     },
     {
-      "id": "17702",
-      "name": "Barritas de chocolate con leche Hacendado rellenas de leche",
-      "packaging": "Paquete",
-      "category": "Azúcar, caramelos y chocolate · Chocolate",
-      "price": 2.2,
-      "reference_price": "11.00",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/17702/barritas-chocolate-con-leche-hacendado-rellenas-leche-paquete"
-    },
-    {
       "id": "12509",
       "name": "Barritas de barquillo Tokke original",
       "packaging": "Paquete",
@@ -6753,6 +6763,16 @@
       "reference_price": "13.48",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/21491/mix-mini-barritas-hacendado-chocolate-contiene-barritas-biscuit-milk-creamy-caramel-coco-peanut-caja"
+    },
+    {
+      "id": "14352",
+      "name": "Calendario de Adviento Navidad Hacendado con chocolatinas de chocolate con leche",
+      "packaging": null,
+      "category": "Azúcar, caramelos y chocolate · Chocolate",
+      "price": 1.75,
+      "reference_price": "26.92",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/14352/calendario-adviento-navidad-hacendado-con-chocolatinas-chocolate-con-leche"
     },
     {
       "id": "20891",
@@ -10069,8 +10089,8 @@
       "name": "Vino blanco El Coto DO Rioja",
       "packaging": "Botella",
       "category": "Bodega · Vino blanco",
-      "price": 4.45,
-      "reference_price": "5.93",
+      "price": 3.95,
+      "reference_price": "5.27",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/66324/vino-blanco-do-rioja-coto-botella"
     },
@@ -10213,6 +10233,16 @@
       "reference_price": "2.27",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/24077/vino-blanco-semidulce-verdejo-finca-malcriada-botella"
+    },
+    {
+      "id": "12883",
+      "name": "Vino Pedro Ximénez Olivar DO Jerez",
+      "packaging": "Botella",
+      "category": "Bodega · Vino blanco",
+      "price": 6.85,
+      "reference_price": "9.13",
+      "reference_unit": "L",
+      "url": "https://tienda.mercadona.es/product/12883/vino-pedro-ximenez-olivar-do-jerez-botella"
     },
     {
       "id": "66907",
@@ -10379,8 +10409,8 @@
       "name": "Vino tinto crianza El Coto DO Rioja",
       "packaging": "Botella",
       "category": "Bodega · Vino tinto",
-      "price": 6.55,
-      "reference_price": "8.73",
+      "price": 5.95,
+      "reference_price": "7.93",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/66320/vino-tinto-do-rioja-coto-crianza-botella"
     },
@@ -10429,8 +10459,8 @@
       "name": "Vino tinto reserva Coto de Imaz DO Rioja",
       "packaging": "Botella",
       "category": "Bodega · Vino tinto",
-      "price": 8.8,
-      "reference_price": "11.73",
+      "price": 7.95,
+      "reference_price": "10.60",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/66346/vino-tinto-do-rioja-coto-imaz-reserva-botella"
     },
@@ -15455,6 +15485,16 @@
       "url": "https://tienda.mercadona.es/product/53015/salchichas-cocidas-hot-dog-bocadillo-oscar-mayer-classic-pollo-cerdo-sabor-ahumado-paquete"
     },
     {
+      "id": "53100",
+      "name": "Salchichas cocidas estilo Frankfurt con queso Hacendado de pollo y cerdo sabor ahumado",
+      "packaging": null,
+      "category": "Charcutería y quesos · Bacón y salchichas",
+      "price": 1.95,
+      "reference_price": "2.77",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/53100/salchichas-cocidas-estilo-frankfurt-con-queso-hacendado-pollo-cerdo-sabor-ahumado-pack-4"
+    },
+    {
       "id": "53059",
       "name": "Salchichas cocidas bocata Hacendado de pollo y pavo sabor ahumado",
       "packaging": null,
@@ -17135,6 +17175,16 @@
       "url": "https://tienda.mercadona.es/product/50371/queso-lonchas-fundido-sandwich-mezcla-hacendado-paquete"
     },
     {
+      "id": "86338",
+      "name": "Queso lonchas gouda de vaca Hacendado",
+      "packaging": "Paquete",
+      "category": "Charcutería y quesos · Queso lonchas, rallado y en porciones",
+      "price": 2.7,
+      "reference_price": "5.40",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/86338/queso-lonchas-gouda-vaca-hacendado-paquete"
+    },
+    {
       "id": "50654",
       "name": "Queso lonchas gouda de vaca Hacendado",
       "packaging": "Paquete",
@@ -17643,6 +17693,16 @@
       "reference_price": "3.60",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/51230/mozzarella-fresca-light-vaca-hacendado-paquete"
+    },
+    {
+      "id": "51218",
+      "name": "Burrata fresca Hacendado",
+      "packaging": "Tarrina",
+      "category": "Charcutería y quesos · Queso untable, fresco y especialidades",
+      "price": 2.2,
+      "reference_price": "8.80",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/51218/burrata-fresca-hacendado-tarrina"
     },
     {
       "id": "50395",
@@ -21435,16 +21495,6 @@
       "url": "https://tienda.mercadona.es/product/35662/crema-setas-starlux-con-champinones-knorr-brick"
     },
     {
-      "id": "14930",
-      "name": "Crema de calabacín Hacendado",
-      "packaging": "Brik",
-      "category": "Conservas, caldos y cremas · Gazpacho y cremas",
-      "price": 1.0,
-      "reference_price": "2.00",
-      "reference_unit": "L",
-      "url": "https://tienda.mercadona.es/product/14930/crema-calabacin-hacendado-brick"
-    },
-    {
       "id": "8447",
       "name": "Crema de marisco Hacendado",
       "packaging": "Brik",
@@ -22175,16 +22225,6 @@
       "url": "https://tienda.mercadona.es/product/60532/tratamiento-anti-frizz-deliplus-tipo-cabello-control-encrespamiento-spray"
     },
     {
-      "id": "8896",
-      "name": "Sérum Liss Frizz Control Deliplus iluminador",
-      "packaging": "Bote",
-      "category": "Cuidado del cabello · Acondicionador y mascarilla",
-      "price": 4.1,
-      "reference_price": "41.00",
-      "reference_unit": "100 ml",
-      "url": "https://tienda.mercadona.es/product/8896/serum-liss-frizz-control-deliplus-iluminador-con-proteccion-termica-bote"
-    },
-    {
       "id": "11586",
       "name": "Sérum Anticaída Fortificante Deliplus",
       "packaging": "Bote",
@@ -22263,16 +22303,6 @@
       "reference_price": "4.75",
       "reference_unit": "100 ml",
       "url": "https://tienda.mercadona.es/product/52931/champu-hydra-hyaluronic-deliplus-cabello-normal-seco-con-acido-hialuronico-niacinamida-provitamina-b5-bote"
-    },
-    {
-      "id": "44281",
-      "name": "Champú Liss Frizz Control Deliplus cabello rebelde",
-      "packaging": "Bote",
-      "category": "Cuidado del cabello · Champú",
-      "price": 1.9,
-      "reference_price": "4.75",
-      "reference_unit": "100 ml",
-      "url": "https://tienda.mercadona.es/product/44281/champu-liss-frizz-control-deliplus-cabello-rebelde-con-vitamina-queratina-bote"
     },
     {
       "id": "44335",
@@ -24225,6 +24255,16 @@
       "url": "https://tienda.mercadona.es/product/18135/exfoliante-corporal-ambar-deliplus-bote"
     },
     {
+      "id": "18340",
+      "name": "Crema de manos Velvet Deliplus con karité & vitamina E",
+      "packaging": "Tarro",
+      "category": "Cuidado facial y corporal · Cuidado corporal",
+      "price": 2.8,
+      "reference_price": "9.33",
+      "reference_unit": "100 ml",
+      "url": "https://tienda.mercadona.es/product/18340/crema-manos-velvet-deliplus-con-karite-vitamina-tarro"
+    },
+    {
       "id": "46812",
       "name": "Crema de manos flor de Japón Deliplus Hidrata & Perfuma",
       "packaging": "Tubo",
@@ -24233,16 +24273,6 @@
       "reference_price": "26.67",
       "reference_unit": "100 ml",
       "url": "https://tienda.mercadona.es/product/46812/crema-manos-flor-japon-deliplus-tubo"
-    },
-    {
-      "id": "35100",
-      "name": "Crema de manos reparadora Deliplus cica y dragon's blood",
-      "packaging": "Bote",
-      "category": "Cuidado facial y corporal · Cuidado corporal",
-      "price": 1.2,
-      "reference_price": "16.00",
-      "reference_unit": "100 ml",
-      "url": "https://tienda.mercadona.es/product/35100/crema-manos-reparadora-deliplus-bote"
     },
     {
       "id": "74102",
@@ -27085,6 +27115,26 @@
       "url": "https://tienda.mercadona.es/product/18390/laca-unas-color-queratina-deliplus-159-lavanda"
     },
     {
+      "id": "18391",
+      "name": "Laca de uñas Felin Deliplus 160 burdeos",
+      "packaging": null,
+      "category": "Cuidado facial y corporal · Manicura y pedicura",
+      "price": 3.5,
+      "reference_price": "3.50",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/18391/laca-unas-felin-deliplus-160-burdeos"
+    },
+    {
+      "id": "18392",
+      "name": "Tratamiento para uñas aceite Felin Deliplus 161",
+      "packaging": null,
+      "category": "Cuidado facial y corporal · Manicura y pedicura",
+      "price": 3.5,
+      "reference_price": "3.50",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/18392/tratamiento-unas-aceite-felin-deliplus-161"
+    },
+    {
       "id": "42222",
       "name": "Tratamiento para uñas base 9 en 1 Deliplus vitaminada y alisadora",
       "packaging": null,
@@ -27815,16 +27865,6 @@
       "url": "https://tienda.mercadona.es/product/18177/lote-mujer-rose-nude"
     },
     {
-      "id": "18181",
-      "name": "Lote mujer Ella My Soul",
-      "packaging": null,
-      "category": "Cuidado facial y corporal · Perfume y colonia",
-      "price": 15.0,
-      "reference_price": "15.00",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/18181/lote-mujer-my-soul"
-    },
-    {
       "id": "18178",
       "name": "Lote mujer Gold Como Tú",
       "packaging": null,
@@ -27833,16 +27873,6 @@
       "reference_price": "11.00",
       "reference_unit": "ud",
       "url": "https://tienda.mercadona.es/product/18178/lote-mujer-gold"
-    },
-    {
-      "id": "18179",
-      "name": "Lote corporal mujer Dolce Latto Deliplus",
-      "packaging": null,
-      "category": "Cuidado facial y corporal · Perfume y colonia",
-      "price": 9.0,
-      "reference_price": "9.00",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/18179/lote-corporal-mujer-dolce-latto-deliplus"
     },
     {
       "id": "18176",
@@ -28525,16 +28555,6 @@
       "url": "https://tienda.mercadona.es/product/79655/sticks-jalea-real-propolis-deliplus-contiene-manuka-hiedra-hinojo-vitamina-c-elaborado-base-miel-aceite-esencial-manuka-extractos-vegetales-caja"
     },
     {
-      "id": "13796",
-      "name": "Cápsulas Alcachofa Deliplus",
-      "packaging": "Caja",
-      "category": "Fitoterapia y parafarmacia · Fitoterapia",
-      "price": 3.95,
-      "reference_price": "0.13",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/13796/capsulas-alcachofa-deliplus-elaborado-base-especies-vegetales-caja"
-    },
-    {
       "id": "35945",
       "name": "Cápsulas Memory Forte Deliplus",
       "packaging": "Caja",
@@ -28979,7 +28999,7 @@
       "name": "Plátano macho",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.84,
+      "price": 0.87,
       "reference_price": "2.90",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3132/platano-macho-pieza"
@@ -29079,7 +29099,7 @@
       "name": "Manzana Granny Smith",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.43,
+      "price": 0.4,
       "reference_price": "2.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3021/manzana-granny-smith-pieza"
@@ -29099,7 +29119,7 @@
       "name": "Manzana roja acidulce",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.62,
+      "price": 0.65,
       "reference_price": "2.40",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/8175/manzana-roja-acidulce-pieza"
@@ -29119,7 +29139,7 @@
       "name": "Medio melón piel de sapo",
       "packaging": "1/2 Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 3.25,
+      "price": 3.17,
       "reference_price": "2.60",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3515/medio-melon-piel-sapo-12-pieza"
@@ -29129,7 +29149,7 @@
       "name": "Melón piel de sapo",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 5.54,
+      "price": 5.59,
       "reference_price": "2.20",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3506/melon-piel-sapo-pieza"
@@ -29149,7 +29169,7 @@
       "name": "Limón",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.37,
+      "price": 0.4,
       "reference_price": "2.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3210/limon-pieza"
@@ -29189,7 +29209,7 @@
       "name": "Naranja de mesa",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.65,
+      "price": 0.67,
       "reference_price": "2.15",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3235/naranja-mesa-pieza"
@@ -29279,7 +29299,7 @@
       "name": "Piña",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 4.14,
+      "price": 4.12,
       "reference_price": "2.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3076/pina-pieza"
@@ -29319,7 +29339,7 @@
       "name": "Mango",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 1.42,
+      "price": 1.39,
       "reference_price": "2.90",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3050/mango-pieza"
@@ -29379,7 +29399,7 @@
       "name": "Granada",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 1.17,
+      "price": 1.2,
       "reference_price": "3.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3915/granada-pieza"
@@ -29709,7 +29729,7 @@
       "name": "Patata",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.42,
+      "price": 0.4,
       "reference_price": "1.90",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69066/patata-pieza"
@@ -29759,7 +29779,7 @@
       "name": "Batata",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.71,
+      "price": 0.74,
       "reference_price": "2.55",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69239/batata-pieza"
@@ -29869,7 +29889,7 @@
       "name": "Tomate ensalada",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.5,
+      "price": 0.55,
       "reference_price": "2.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69937/tomate-ensalada-pieza"
@@ -29879,7 +29899,7 @@
       "name": "Tomate canario",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.31,
+      "price": 0.33,
       "reference_price": "2.20",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69968/tomate-canario-pieza"
@@ -30049,7 +30069,7 @@
       "name": "Pimiento rojo",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.73,
+      "price": 0.55,
       "reference_price": "2.90",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69310/pimiento-rojo-pieza"
@@ -30059,7 +30079,7 @@
       "name": "Calabacín verde",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.55,
+      "price": 0.56,
       "reference_price": "1.40",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69338/calabacin-verde-pieza"
@@ -30109,7 +30129,7 @@
       "name": "Coliflor",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 2.09,
+      "price": 2.21,
       "reference_price": "1.70",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69220/coliflor-pieza"
@@ -30309,7 +30329,7 @@
       "name": "Brócoli",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 1.24,
+      "price": 1.22,
       "reference_price": "2.70",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69580/brocoli-pieza"
@@ -33135,6 +33155,16 @@
       "url": "https://tienda.mercadona.es/product/79448/ambientador-coche-marine-bosque-verde-incluye-difusor-2-recambios-paquete"
     },
     {
+      "id": "17825",
+      "name": "Ambientador varitas Peonía Bosque Verde",
+      "packaging": "Caja",
+      "category": "Limpieza y hogar · Insecticida y ambientador",
+      "price": 2.1,
+      "reference_price": "52.50",
+      "reference_unit": "100 ml",
+      "url": "https://tienda.mercadona.es/product/17825/ambientador-varitas-peonia-bosque-verde-caja"
+    },
+    {
       "id": "17824",
       "name": "Ambientador varitas Chai Addiction Bosque Verde",
       "packaging": "Caja",
@@ -33165,6 +33195,16 @@
       "url": "https://tienda.mercadona.es/product/18455/vela-perfumada-red-elixir-bosque-verde-caja"
     },
     {
+      "id": "17822",
+      "name": "Ambientador varitas Frambuesa Bosque Verde",
+      "packaging": "Caja",
+      "category": "Limpieza y hogar · Insecticida y ambientador",
+      "price": 2.1,
+      "reference_price": "52.50",
+      "reference_unit": "100 ml",
+      "url": "https://tienda.mercadona.es/product/17822/ambientador-varitas-frambuesa-bosque-verde-caja"
+    },
+    {
       "id": "17819",
       "name": "Ambientador varitas Bambú Bosque Verde",
       "packaging": "Caja",
@@ -33173,6 +33213,16 @@
       "reference_price": "52.50",
       "reference_unit": "100 ml",
       "url": "https://tienda.mercadona.es/product/17819/ambientador-varitas-bambu-bosque-verde-caja"
+    },
+    {
+      "id": "17823",
+      "name": "Ambientador varitas Magnolia Bosque Verde",
+      "packaging": "Caja",
+      "category": "Limpieza y hogar · Insecticida y ambientador",
+      "price": 2.1,
+      "reference_price": "52.50",
+      "reference_unit": "100 ml",
+      "url": "https://tienda.mercadona.es/product/17823/ambientador-varitas-magnolia-bosque-verde-caja"
     },
     {
       "id": "72733",
@@ -33605,16 +33655,6 @@
       "url": "https://tienda.mercadona.es/product/67951/limpiagafas-spray-con-gamuza-bosque-verde-spray"
     },
     {
-      "id": "20960",
-      "name": "Friegasuelos Poetic Bosque Verde concentrado",
-      "packaging": "Botella",
-      "category": "Limpieza y hogar · Limpiahogar y friegasuelos",
-      "price": 1.7,
-      "reference_price": "1.70",
-      "reference_unit": "L",
-      "url": "https://tienda.mercadona.es/product/20960/friegasuelos-poetic-bosque-verde-concentrado-botella"
-    },
-    {
       "id": "43347",
       "name": "Friegasuelos Pino Bosque Verde líquido",
       "packaging": "Botella",
@@ -33703,6 +33743,16 @@
       "reference_price": "0.63",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/24049/friegasuelos-cotton-bosque-verde-liquido-botella"
+    },
+    {
+      "id": "20960",
+      "name": "Friegasuelos Poetic Bosque Verde concentrado",
+      "packaging": "Botella",
+      "category": "Limpieza y hogar · Limpiahogar y friegasuelos",
+      "price": 1.7,
+      "reference_price": "1.70",
+      "reference_unit": "L",
+      "url": "https://tienda.mercadona.es/product/20960/friegasuelos-poetic-bosque-verde-concentrado-botella"
     },
     {
       "id": "43315",
@@ -35953,16 +36003,6 @@
       "reference_price": "4.75",
       "reference_unit": "ud",
       "url": "https://tienda.mercadona.es/product/8318/colorete-fluido-blush-luminoso-deliplus-02"
-    },
-    {
-      "id": "12819",
-      "name": "Colorete fluido Blush mate Deliplus 01 rosa amarronado",
-      "packaging": null,
-      "category": "Maquillaje · Colorete y polvos",
-      "price": 4.75,
-      "reference_price": "4.75",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/12819/colorete-fluido-blush-mate-deliplus-01-rosa-amarronado"
     },
     {
       "id": "12825",
@@ -39245,6 +39285,16 @@
       "url": "https://tienda.mercadona.es/product/24583/croissant-relleno-cacao-32-pieza"
     },
     {
+      "id": "18744",
+      "name": "Berlina rellena de crema de turrón con cobertura glaseada y trozos de almendra",
+      "packaging": "Pieza",
+      "category": "Panadería y pastelería · Bollería de horno",
+      "price": 1.25,
+      "reference_price": "13.16",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/18744/berlina-con-cobertura-glaseada-trozos-almendra-rellena-crema-turron-pieza"
+    },
+    {
       "id": "84692",
       "name": "Croissant de mantequilla",
       "packaging": "Pieza",
@@ -41675,16 +41725,6 @@
       "url": "https://tienda.mercadona.es/product/22932/preparado-crujiente-hacendado-paquete"
     },
     {
-      "id": "13034",
-      "name": "Tostadas con semillas de chía Marinheiras Hacendado",
-      "packaging": "Paquete",
-      "category": "Panadería y pastelería · Pan tostado y rallado",
-      "price": 1.5,
-      "reference_price": "8.33",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/13034/tostadas-marinheiras-trigo-con-semillas-chia-hacendado-paquete"
-    },
-    {
       "id": "82626",
       "name": "Crackers integrales de espelta Bachman",
       "packaging": "Caja",
@@ -41763,6 +41803,16 @@
       "reference_price": "5.80",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/21584/galletas-saladas-semillas-oregano-hacendado-paquete"
+    },
+    {
+      "id": "13034",
+      "name": "Tostadas con semillas de chía Marinheiras Hacendado",
+      "packaging": "Paquete",
+      "category": "Panadería y pastelería · Pan tostado y rallado",
+      "price": 1.5,
+      "reference_price": "8.33",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/13034/tostadas-marinheiras-trigo-con-semillas-chia-hacendado-paquete"
     },
     {
       "id": "13631",
@@ -43373,6 +43423,16 @@
       "reference_price": "13.85",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/22455/fideos-orientales-sabor-picante-hacendado-vaso"
+    },
+    {
+      "id": "35681",
+      "name": "Fideos orientales sabor pollo Hacendado",
+      "packaging": "Paquete",
+      "category": "Pizzas y platos preparados · Platos preparados calientes",
+      "price": 0.55,
+      "reference_price": "8.46",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/35681/fideos-orientales-sabor-pollo-hacendado-paquete"
     },
     {
       "id": "67786",
@@ -45035,16 +45095,6 @@
       "url": "https://tienda.mercadona.es/product/21557/bebida-lactea-desnatada-natural-l-casei-0-mg-0-azucares-anadidos-hacendado"
     },
     {
-      "id": "17927",
-      "name": "Bebida Kéfir de lima y limón suave Hacendado 0% MG",
-      "packaging": "Botella",
-      "category": "Postres y yogures · Yogures líquidos",
-      "price": 0.9,
-      "reference_price": "3.60",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/17927/bebida-kefir-lima-limon-suave-hacendado-0-mg-botella"
-    },
-    {
       "id": "22002",
       "name": "Bebida láctea de fresa Cuidacol 0% azúcares añadidos",
       "packaging": null,
@@ -45103,6 +45153,16 @@
       "reference_price": "3.60",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/52750/bebida-kefir-fresa-platano-hacendado-botella"
+    },
+    {
+      "id": "17927",
+      "name": "Bebida Kéfir de lima y limón suave Hacendado 0% MG",
+      "packaging": "Botella",
+      "category": "Postres y yogures · Yogures líquidos",
+      "price": 0.9,
+      "reference_price": "3.60",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/17927/bebida-kefir-lima-limon-suave-hacendado-0-mg-botella"
     },
     {
       "id": "22313",
