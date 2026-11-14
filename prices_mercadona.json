@@ -1,8 +1,8 @@
 {
   "store": "Mercadona",
   "region": "Madrid capital",
-  "updated_at": "2026-11-13T12:50:07Z",
-  "product_count": 4600,
+  "updated_at": "2026-11-14T11:56:02Z",
+  "product_count": 4601,
   "products": [
     {
       "id": "4241",
@@ -9185,6 +9185,16 @@
       "url": "https://tienda.mercadona.es/product/13956/bebida-cider-con-gas-spieler-sabor-manzana-botellin"
     },
     {
+      "id": "26999",
+      "name": "Cerveza 0,0% sin alcohol Estrella Galicia",
+      "packaging": null,
+      "category": "Bodega · Cerveza sin alcohol",
+      "price": 3.96,
+      "reference_price": "2.64",
+      "reference_unit": "L",
+      "url": "https://tienda.mercadona.es/product/26999/cerveza-00-sin-alcohol-estrella-galicia"
+    },
+    {
       "id": "66558",
       "name": "Cerveza 0,0% sin alcohol tostada Mahou",
       "packaging": "Pack-6",
@@ -9223,6 +9233,16 @@
       "reference_price": "2.70",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/9777/cerveza-00-sin-alcohol-aguila-sin-filtrar-botellin"
+    },
+    {
+      "id": "60976",
+      "name": "Cerveza 0,0% sin alcohol Estrella Galicia",
+      "packaging": "Botellín",
+      "category": "Bodega · Cerveza sin alcohol",
+      "price": 0.69,
+      "reference_price": "2.76",
+      "reference_unit": "L",
+      "url": "https://tienda.mercadona.es/product/60976/cerveza-00-sin-alcohol-estrella-galicia-botellin"
     },
     {
       "id": "21509",
@@ -9749,8 +9769,8 @@
       "name": "Licor de hierbas Jägermeister",
       "packaging": "Botella",
       "category": "Bodega · Licores",
-      "price": 15.25,
-      "reference_price": "21.79",
+      "price": 15.1,
+      "reference_price": "21.57",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/28724/licor-hierbas-jagermeister-botella"
     },
@@ -9933,16 +9953,6 @@
       "reference_price": "0.83",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/18699/tinto-verano-sin-alcohol-limon-don-simon"
-    },
-    {
-      "id": "60748",
-      "name": "Tinto de verano zero limón Casón Histórico",
-      "packaging": "Botella",
-      "category": "Bodega · Tinto de verano y sangría",
-      "price": 1.15,
-      "reference_price": "0.77",
-      "reference_unit": "L",
-      "url": "https://tienda.mercadona.es/product/60748/tinto-verano-zero-limon-cason-historico-0-alcohol-0-azucar-botella"
     },
     {
       "id": "66944",
@@ -18595,16 +18605,6 @@
       "url": "https://tienda.mercadona.es/product/23155/gyozas-pollo-verduras-hacendado-congeladas-paquete"
     },
     {
-      "id": "20271",
-      "name": "Parmigiana de berenjena Hacendado congelada",
-      "packaging": "Paquete",
-      "category": "Congelados · Fruta y verdura",
-      "price": 2.3,
-      "reference_price": "6.57",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/20271/parmigiana-berenjena-hacendado-congelada-paquete"
-    },
-    {
       "id": "21537",
       "name": "Salteado rústico Hacendado ultracongelado",
       "packaging": "Paquete",
@@ -24275,16 +24275,6 @@
       "url": "https://tienda.mercadona.es/product/46615/crema-manos-nutritiva-dove-intensiva-bote"
     },
     {
-      "id": "19868",
-      "name": "Crema de manos Oriental Woods Deliplus",
-      "packaging": "Tarro",
-      "category": "Cuidado facial y corporal · Cuidado corporal",
-      "price": 2.7,
-      "reference_price": "9.31",
-      "reference_unit": "100 ml",
-      "url": "https://tienda.mercadona.es/product/19868/crema-manos-oriental-woods-deliplus-tarro"
-    },
-    {
       "id": "18299",
       "name": "Crema de manos nutritiva Deliplus manteca Murumuru SPF 20",
       "packaging": "Bote",
@@ -27005,6 +26995,16 @@
       "url": "https://tienda.mercadona.es/product/35243/panal-adulto-talla-m-70-130-cm-deliplus-paquete"
     },
     {
+      "id": "35245",
+      "name": "Pañal adulto talla L Deliplus",
+      "packaging": "Paquete",
+      "category": "Cuidado facial y corporal · Higiene íntima",
+      "price": 14.8,
+      "reference_price": "0.74",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/35245/panal-adulto-talla-l-deliplus-paquete"
+    },
+    {
       "id": "73988",
       "name": "Toallitas íntimas Deliplus",
       "packaging": "Paquete",
@@ -28949,7 +28949,7 @@
       "name": "Plátano macho",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.9,
+      "price": 0.87,
       "reference_price": "2.90",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3132/platano-macho-pieza"
@@ -28979,7 +28979,7 @@
       "name": "Manzana Golden",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.4,
+      "price": 0.38,
       "reference_price": "2.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3028/manzana-golden-pieza"
@@ -29059,7 +29059,7 @@
       "name": "Pera Limonera",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.64,
+      "price": 0.62,
       "reference_price": "2.80",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3172/pera-limonera-pieza"
@@ -29089,7 +29089,7 @@
       "name": "Medio melón piel de sapo",
       "packaging": "1/2 Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 3.2,
+      "price": 3.15,
       "reference_price": "2.60",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3515/medio-melon-piel-sapo-12-pieza"
@@ -29099,7 +29099,7 @@
       "name": "Melón piel de sapo",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 5.54,
+      "price": 5.43,
       "reference_price": "2.20",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3506/melon-piel-sapo-pieza"
@@ -29119,7 +29119,7 @@
       "name": "Limón",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.4,
+      "price": 0.43,
       "reference_price": "2.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3210/limon-pieza"
@@ -29133,16 +29133,6 @@
       "reference_price": "2.15",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3238/mandarina-pieza"
-    },
-    {
-      "id": "5503",
-      "name": "Mandarina",
-      "packaging": "Malla",
-      "category": "Fruta y verdura · Fruta",
-      "price": 1.95,
-      "reference_price": "1.95",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/5503/mandarina-malla"
     },
     {
       "id": "30501",
@@ -29159,7 +29149,7 @@
       "name": "Naranja de mesa",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.67,
+      "price": 0.69,
       "reference_price": "2.15",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3235/naranja-mesa-pieza"
@@ -29219,7 +29209,7 @@
       "name": "Aguacate",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 1.06,
+      "price": 1.01,
       "reference_price": "5.60",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3830/aguacate-pieza"
@@ -29239,7 +29229,7 @@
       "name": "Piña",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 4.2,
+      "price": 4.24,
       "reference_price": "2.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3076/pina-pieza"
@@ -29279,7 +29269,7 @@
       "name": "Mango",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 1.39,
+      "price": 1.42,
       "reference_price": "2.90",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3050/mango-pieza"
@@ -29289,7 +29279,7 @@
       "name": "Papaya",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 3.31,
+      "price": 3.41,
       "reference_price": "5.25",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3026/papaya-pieza"
@@ -29339,7 +29329,7 @@
       "name": "Granada",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 1.2,
+      "price": 1.17,
       "reference_price": "3.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3915/granada-pieza"
@@ -29669,7 +29659,7 @@
       "name": "Patata",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.42,
+      "price": 0.44,
       "reference_price": "1.90",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69066/patata-pieza"
@@ -29719,7 +29709,7 @@
       "name": "Batata",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.89,
+      "price": 0.87,
       "reference_price": "2.55",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69239/batata-pieza"
@@ -29739,7 +29729,7 @@
       "name": "Yuca",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 1.95,
+      "price": 2.05,
       "reference_price": "3.30",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69173/yuca-pieza"
@@ -29839,7 +29829,7 @@
       "name": "Tomate canario",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.33,
+      "price": 0.37,
       "reference_price": "2.20",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69968/tomate-canario-pieza"
@@ -29929,7 +29919,7 @@
       "name": "Rama de Tomates",
       "packaging": "Granel",
       "category": "Fruta y verdura · Verdura",
-      "price": 1.89,
+      "price": 2.0,
       "reference_price": "2.70",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69487/rama-tomates-granel"
@@ -30019,7 +30009,7 @@
       "name": "Calabacín verde",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.55,
+      "price": 0.56,
       "reference_price": "1.40",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69338/calabacin-verde-pieza"
@@ -30039,7 +30029,7 @@
       "name": "Calabacín blanco",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.7,
+      "price": 0.66,
       "reference_price": "2.20",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69339/calabacin-blanco-pieza"
@@ -30069,7 +30059,7 @@
       "name": "Coliflor",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 2.3,
+      "price": 2.28,
       "reference_price": "1.70",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69220/coliflor-pieza"
@@ -30109,7 +30099,7 @@
       "name": "Col lombarda",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 1.76,
+      "price": 1.66,
       "reference_price": "2.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69251/col-lombarda-pieza"
@@ -30269,7 +30259,7 @@
       "name": "Brócoli",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 1.24,
+      "price": 1.19,
       "reference_price": "2.70",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69580/brocoli-pieza"
@@ -30279,7 +30269,7 @@
       "name": "Berenjena",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.88,
+      "price": 0.86,
       "reference_price": "2.20",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69326/berenjena-pieza"
@@ -39195,14 +39185,24 @@
       "url": "https://tienda.mercadona.es/product/52118/snack-corazones-perro-adulto-compy-paquete"
     },
     {
-      "id": "52145",
-      "name": "Snack barritas de ternera y cordero perro adulto Compy",
+      "id": "17615",
+      "name": "Snack barritas con ternera y cordero perro adulto Compy",
       "packaging": "Paquete",
       "category": "Mascotas · Perro",
-      "price": 1.05,
-      "reference_price": "11.93",
+      "price": 2.0,
+      "reference_price": "11.36",
       "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/52145/snack-barritas-perro-adulto-ternera-cordero-compy-pack-8"
+      "url": "https://tienda.mercadona.es/product/17615/snack-barritas-con-ternera-cordero-perro-adulto-compy-paquete"
+    },
+    {
+      "id": "17616",
+      "name": "Snack barritas con pollo e hígado perro adulto Compy",
+      "packaging": "Paquete",
+      "category": "Mascotas · Perro",
+      "price": 2.0,
+      "reference_price": "11.36",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/17616/snack-barritas-con-pollo-higado-perro-adulto-compy-paquete"
     },
     {
       "id": "70763",
@@ -43413,6 +43413,16 @@
       "reference_price": "13.85",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/22455/fideos-orientales-sabor-picante-hacendado-vaso"
+    },
+    {
+      "id": "35681",
+      "name": "Fideos orientales sabor pollo Hacendado",
+      "packaging": "Paquete",
+      "category": "Pizzas y platos preparados · Platos preparados calientes",
+      "price": 0.55,
+      "reference_price": "8.46",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/35681/fideos-orientales-sabor-pollo-hacendado-paquete"
     },
     {
       "id": "67786",
