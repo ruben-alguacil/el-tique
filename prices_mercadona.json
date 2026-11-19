@@ -1,8 +1,8 @@
 {
   "store": "Mercadona",
   "region": "Madrid capital",
-  "updated_at": "2026-11-18T13:39:38Z",
-  "product_count": 4618,
+  "updated_at": "2026-11-19T14:05:50Z",
+  "product_count": 4623,
   "products": [
     {
       "id": "4241",
@@ -113,6 +113,16 @@
       "reference_price": "9.70",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/4850/aceite-oliva-virgen-extra-picual-casa-juncal-botella"
+    },
+    {
+      "id": "16486",
+      "name": "Vinagre de manzana Hacendado sin filtrar",
+      "packaging": "Botella",
+      "category": "Aceite, especias y salsas · Aceite, vinagre y sal",
+      "price": 2.5,
+      "reference_price": "5.00",
+      "reference_unit": "L",
+      "url": "https://tienda.mercadona.es/product/16486/vinagre-manzana-hacendado-sin-filtrar-botella"
     },
     {
       "id": "4940",
@@ -6015,16 +6025,6 @@
       "url": "https://tienda.mercadona.es/product/67637/edulcorante-eritritol-sucralosa-hacendado-bote"
     },
     {
-      "id": "24535",
-      "name": "Chicles gragea hierbabuena sin azúcar Hacendado",
-      "packaging": null,
-      "category": "Azúcar, caramelos y chocolate · Chicles y caramelos",
-      "price": 1.35,
-      "reference_price": "25.23",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/24535/chicles-hierbabuena-gragea-hacendado"
-    },
-    {
       "id": "65235",
       "name": "Chicles gragea menta fuerte sin azúcar Hacendado",
       "packaging": "Paquete",
@@ -6063,6 +6063,16 @@
       "reference_price": "19.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/65172/chicles-hierbabuena-gragea-hacendado-bote"
+    },
+    {
+      "id": "24535",
+      "name": "Chicles gragea hierbabuena sin azúcar Hacendado",
+      "packaging": null,
+      "category": "Azúcar, caramelos y chocolate · Chicles y caramelos",
+      "price": 1.35,
+      "reference_price": "25.23",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/24535/chicles-hierbabuena-gragea-hacendado"
     },
     {
       "id": "65147",
@@ -8273,6 +8283,16 @@
       "reference_price": "9.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/35595/polvos-talco-deliplus-bote"
+    },
+    {
+      "id": "52856",
+      "name": "Bastoncillos algodón para bebés Deliplus",
+      "packaging": "Caja",
+      "category": "Bebé · Higiene y cuidado",
+      "price": 1.05,
+      "reference_price": "0.02",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/52856/bastoncillos-algodon-bebes-deliplus-caja"
     },
     {
       "id": "79603",
@@ -16165,16 +16185,6 @@
       "url": "https://tienda.mercadona.es/product/58230/surtido-ibericos-hacienda-iberico-contiene-jamon-cebo-chorizo-cana-lomo-cebo-salchichon-paquete"
     },
     {
-      "id": "12282",
-      "name": "Lomo de pavo Hacendado lonchas",
-      "packaging": null,
-      "category": "Charcutería y quesos · Embutido curado",
-      "price": 3.2,
-      "reference_price": "25.60",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/12282/lomo-pavo-hacendado-lonchas"
-    },
-    {
       "id": "54053",
       "name": "Lomo Hacendado",
       "packaging": "Pieza",
@@ -16203,6 +16213,16 @@
       "reference_price": "60.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/5840/presa-bellota-iberica-hacienda-iberico-pieza"
+    },
+    {
+      "id": "18749",
+      "name": "Bresaola black angus Beretta",
+      "packaging": "Paquete",
+      "category": "Charcutería y quesos · Jamón serrano",
+      "price": 4.4,
+      "reference_price": "55.00",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/18749/bresaola-black-angus-beretta-paquete"
     },
     {
       "id": "18765",
@@ -16965,6 +16985,16 @@
       "url": "https://tienda.mercadona.es/product/11682/queso-curado-mezcla-afrutado-hacendado-cortado-cunitas-pieza"
     },
     {
+      "id": "50939",
+      "name": "Queso mezcla semicurado Hacendado",
+      "packaging": "Pieza",
+      "category": "Charcutería y quesos · Queso curado, semicurado y tierno",
+      "price": 18.0,
+      "reference_price": "6.00",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/50939/queso-mezcla-semicurado-hacendado-pieza"
+    },
+    {
       "id": "50946",
       "name": "Queso semicurado mezcla Hacendado",
       "packaging": "Pieza",
@@ -17109,8 +17139,8 @@
       "name": "Queso tierno maasdam de vaca Holland Corona",
       "packaging": "Pieza",
       "category": "Charcutería y quesos · Queso curado, semicurado y tierno",
-      "price": 3.3,
-      "reference_price": "8.25",
+      "price": 3.4,
+      "reference_price": "8.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/50480/queso-tierno-maasdam-vaca-holland-corona-pieza"
     },
@@ -17119,8 +17149,8 @@
       "name": "Queso tierno gouda de vaca Hacendado",
       "packaging": "Pieza",
       "category": "Charcutería y quesos · Queso curado, semicurado y tierno",
-      "price": 3.3,
-      "reference_price": "7.33",
+      "price": 3.4,
+      "reference_price": "7.56",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/50478/queso-tierno-gouda-vaca-holland-pieza"
     },
@@ -17209,8 +17239,8 @@
       "name": "Queso lonchas gouda de vaca Hacendado",
       "packaging": "Paquete",
       "category": "Charcutería y quesos · Queso lonchas, rallado y en porciones",
-      "price": 1.95,
-      "reference_price": "6.50",
+      "price": 2.05,
+      "reference_price": "6.83",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/50654/queso-lonchas-gouda-vaca-hacendado-paquete"
     },
@@ -17249,8 +17279,8 @@
       "name": "Queso lonchas edam de vaca Holland Corona",
       "packaging": "Paquete",
       "category": "Charcutería y quesos · Queso lonchas, rallado y en porciones",
-      "price": 2.0,
-      "reference_price": "6.67",
+      "price": 2.05,
+      "reference_price": "6.83",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/50459/queso-lonchas-edam-vaca-holland-corona-paquete"
     },
@@ -17479,8 +17509,8 @@
       "name": "Crema de queso camembert Hacendado",
       "packaging": "Tarrina",
       "category": "Charcutería y quesos · Queso untable, fresco y especialidades",
-      "price": 1.8,
-      "reference_price": "12.00",
+      "price": 1.75,
+      "reference_price": "11.67",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/51181/crema-queso-camembert-hacendado-tarrina"
     },
@@ -17529,8 +17559,8 @@
       "name": "Crema de queso viejo tostado mezcla Hacendado",
       "packaging": "Tarrina",
       "category": "Charcutería y quesos · Queso untable, fresco y especialidades",
-      "price": 1.74,
-      "reference_price": "11.60",
+      "price": 1.75,
+      "reference_price": "11.67",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/22780/crema-queso-viejo-tostado-mezcla-hacendado-tarrina"
     },
@@ -17789,8 +17819,8 @@
       "name": "Queso camembert de vaca Marcillat",
       "packaging": "Caja",
       "category": "Charcutería y quesos · Queso untable, fresco y especialidades",
-      "price": 2.0,
-      "reference_price": "8.33",
+      "price": 2.1,
+      "reference_price": "8.75",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/51621/queso-camembert-vaca-marcillat-caja"
     },
@@ -17819,8 +17849,8 @@
       "name": "Queso brie marcillat de vaca Plaisir de Roy",
       "packaging": "Pieza",
       "category": "Charcutería y quesos · Queso untable, fresco y especialidades",
-      "price": 1.65,
-      "reference_price": "8.25",
+      "price": 1.75,
+      "reference_price": "8.75",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/50619/queso-brie-marcillat-vaca-plaisir-roy-pieza"
     },
@@ -22085,16 +22115,6 @@
       "url": "https://tienda.mercadona.es/product/52932/mascarilla-hydra-hyaluronic-deliplus-cabello-normal-seco-con-acido-hialuronico-niacinamida-provitamina-b5-bote"
     },
     {
-      "id": "67899",
-      "name": "Mascarilla Hidra Hialurónico Elvive cabello deshidratado",
-      "packaging": "Tarro",
-      "category": "Cuidado del cabello · Acondicionador y mascarilla",
-      "price": 4.4,
-      "reference_price": "14.19",
-      "reference_unit": "100 ml",
-      "url": "https://tienda.mercadona.es/product/67899/mascarilla-hidra-hialuronico-elvive-cabello-deshidratado-tarro"
-    },
-    {
       "id": "67701",
       "name": "Mascarilla Ultra Platinum Deliplus cabello gris, rubio y decolorado",
       "packaging": "Bote",
@@ -22103,16 +22123,6 @@
       "reference_price": "19.75",
       "reference_unit": "100 ml",
       "url": "https://tienda.mercadona.es/product/67701/mascarilla-ultra-platinum-deliplus-cabello-gris-rubio-decolorado-con-carbon-activo-bambu-reduce-tonos-amarillentos-bote"
-    },
-    {
-      "id": "7944",
-      "name": "Mascarilla intensiva Liso Keratina 1 Minute Wow! TRESemmé cabello encrespado o dañado",
-      "packaging": "Bote",
-      "category": "Cuidado del cabello · Acondicionador y mascarilla",
-      "price": 2.65,
-      "reference_price": "15.59",
-      "reference_unit": "100 ml",
-      "url": "https://tienda.mercadona.es/product/7944/mascarilla-intensiva-liso-keratina-1-minute-wow-tresemme-cabello-encrespado-danado-con-keratina-hidrolizada-pro-bond-complex-bote"
     },
     {
       "id": "21466",
@@ -22365,16 +22375,6 @@
       "url": "https://tienda.mercadona.es/product/67794/champu-plex-repair-deliplus-cabello-muy-danado-con-argan-jojoba-bote"
     },
     {
-      "id": "52801",
-      "name": "Champú Hidra Hialurónico Elvive cabello deshidratado",
-      "packaging": "Bote",
-      "category": "Cuidado del cabello · Champú",
-      "price": 3.45,
-      "reference_price": "11.50",
-      "reference_unit": "100 ml",
-      "url": "https://tienda.mercadona.es/product/52801/champu-hidra-hialuronico-elvive-cabello-deshidratado-bote"
-    },
-    {
       "id": "86306",
       "name": "Champú Silver Blond Deliplus cabello rubio, decolorado y grises,",
       "packaging": "Bote",
@@ -22505,6 +22505,16 @@
       "url": "https://tienda.mercadona.es/product/67801/instant-conditioner-protect-triple-action-deliplus-preventivo-sin-aclarado-con-arbol-te-vinagre-quassia-amara-bote"
     },
     {
+      "id": "18758",
+      "name": "Baño de color y brillo negro azulado Color Glow 0% amoniaco",
+      "packaging": "Caja",
+      "category": "Cuidado del cabello · Coloración cabello",
+      "price": 4.85,
+      "reference_price": "4.85",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/18758/bano-color-brillo-negro-azulado-color-glow-0-amoniaco-deliplus-caja"
+    },
+    {
       "id": "73182",
       "name": "Coloración permanente 1 negro Colorcor",
       "packaging": "Caja",
@@ -22583,6 +22593,36 @@
       "reference_price": "2.00",
       "reference_unit": "ud",
       "url": "https://tienda.mercadona.es/product/35763/mascarilla-cabello-negro-deliplus-caja"
+    },
+    {
+      "id": "18760",
+      "name": "Baño de color y brillo chocolate Color Glow 0% amoniaco",
+      "packaging": "Caja",
+      "category": "Cuidado del cabello · Coloración cabello",
+      "price": 4.85,
+      "reference_price": "4.85",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/18760/bano-color-brillo-chocolate-color-glow-0-amoniaco-deliplus-caja"
+    },
+    {
+      "id": "18759",
+      "name": "Baño de color y brillo castaño Color Glow 0% amoniaco",
+      "packaging": "Caja",
+      "category": "Cuidado del cabello · Coloración cabello",
+      "price": 4.85,
+      "reference_price": "4.85",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/18759/bano-color-brillo-castano-color-glow-0-amoniaco-deliplus-caja"
+    },
+    {
+      "id": "18761",
+      "name": "Baño de color y brillo rubio oscuro Color Glow 0% amoniaco",
+      "packaging": "Caja",
+      "category": "Cuidado del cabello · Coloración cabello",
+      "price": 4.85,
+      "reference_price": "4.85",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/18761/bano-color-brillo-rubio-oscuro-color-glow-0-amoniaco-deliplus-caja"
     },
     {
       "id": "73195",
@@ -25159,8 +25199,8 @@
       "name": "Desodorante roll-on Invisible Black & White Nivea antitranspirante",
       "packaging": null,
       "category": "Cuidado facial y corporal · Desodorante",
-      "price": 2.1,
-      "reference_price": "42.00",
+      "price": 2.5,
+      "reference_price": "50.00",
       "reference_unit": "100 ml",
       "url": "https://tienda.mercadona.es/product/46029/desodorante-roll-on-invisible-black-white-nivea-antitranspirante"
     },
@@ -25199,8 +25239,8 @@
       "name": "Desodorante roll-on Invisible Black & White Nivea Men antitranspirante",
       "packaging": null,
       "category": "Cuidado facial y corporal · Desodorante",
-      "price": 2.1,
-      "reference_price": "42.00",
+      "price": 2.5,
+      "reference_price": "50.00",
       "reference_unit": "100 ml",
       "url": "https://tienda.mercadona.es/product/46030/desodorante-roll-on-invisible-black-white-nivea-men-antitranspirante"
     },
@@ -25209,8 +25249,8 @@
       "name": "Desodorante roll-on Dry impact Nivea Men antitranspirante",
       "packaging": null,
       "category": "Cuidado facial y corporal · Desodorante",
-      "price": 2.1,
-      "reference_price": "42.00",
+      "price": 2.5,
+      "reference_price": "50.00",
       "reference_unit": "100 ml",
       "url": "https://tienda.mercadona.es/product/46016/desodorante-roll-on-dry-impact-nivea-men-antitranspirante"
     },
@@ -25269,8 +25309,8 @@
       "name": "Desodorante roll-on original Dove antitranspirante",
       "packaging": null,
       "category": "Cuidado facial y corporal · Desodorante",
-      "price": 2.15,
-      "reference_price": "43.00",
+      "price": 2.65,
+      "reference_price": "53.00",
       "reference_unit": "100 ml",
       "url": "https://tienda.mercadona.es/product/35965/desodorante-roll-on-original-dove-antitranspirante-0-alcohol"
     },
@@ -25379,8 +25419,8 @@
       "name": "Desodorante original Dove antitranspirante",
       "packaging": "Spray",
       "category": "Cuidado facial y corporal · Desodorante",
-      "price": 3.15,
-      "reference_price": "15.75",
+      "price": 3.75,
+      "reference_price": "18.75",
       "reference_unit": "100 ml",
       "url": "https://tienda.mercadona.es/product/35964/desodorante-original-dove-antitranspirante-0-alcohol-spray"
     },
@@ -26009,8 +26049,8 @@
       "name": "Dentífrico Total original Colgate",
       "packaging": "Tubo",
       "category": "Cuidado facial y corporal · Higiene bucal",
-      "price": 2.45,
-      "reference_price": "32.67",
+      "price": 2.9,
+      "reference_price": "38.67",
       "reference_unit": "100 ml",
       "url": "https://tienda.mercadona.es/product/79593/dentifrico-total-original-colgate-tubo"
     },
@@ -26079,8 +26119,8 @@
       "name": "Dentífrico Max Fresh Colgate sabor menta fresca",
       "packaging": "Tubo",
       "category": "Cuidado facial y corporal · Higiene bucal",
-      "price": 2.85,
-      "reference_price": "28.50",
+      "price": 2.25,
+      "reference_price": "22.50",
       "reference_unit": "100 ml",
       "url": "https://tienda.mercadona.es/product/73999/dentifrico-max-fresh-colgate-sabor-menta-fresca-tubo"
     },
@@ -26449,8 +26489,8 @@
       "name": "Enjuague bucal dientes y encías Listerine menta intensa",
       "packaging": "Botella",
       "category": "Cuidado facial y corporal · Higiene bucal",
-      "price": 3.95,
-      "reference_price": "7.90",
+      "price": 5.15,
+      "reference_price": "10.30",
       "reference_unit": "100 ml",
       "url": "https://tienda.mercadona.es/product/23067/enjuague-bucal-proteccion-dientes-encias-listerine-menta-botella"
     },
@@ -26469,8 +26509,8 @@
       "name": "Enjuague bucal cuidado total Listerine menta intensa",
       "packaging": "Botella",
       "category": "Cuidado facial y corporal · Higiene bucal",
-      "price": 3.95,
-      "reference_price": "7.90",
+      "price": 5.15,
+      "reference_price": "10.30",
       "reference_unit": "100 ml",
       "url": "https://tienda.mercadona.es/product/23066/enjuague-bucal-cuidado-total-listerine-menta-botella"
     },
@@ -29009,7 +29049,7 @@
       "name": "Plátano macho",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.87,
+      "price": 0.84,
       "reference_price": "2.90",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3132/platano-macho-pieza"
@@ -29119,7 +29159,7 @@
       "name": "Pera Limonera",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.64,
+      "price": 0.62,
       "reference_price": "2.80",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3172/pera-limonera-pieza"
@@ -29129,7 +29169,7 @@
       "name": "Manzana roja acidulce",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.65,
+      "price": 0.6,
       "reference_price": "2.40",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/8175/manzana-roja-acidulce-pieza"
@@ -29149,7 +29189,7 @@
       "name": "Medio melón piel de sapo",
       "packaging": "1/2 Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 3.12,
+      "price": 3.17,
       "reference_price": "2.60",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3515/medio-melon-piel-sapo-12-pieza"
@@ -29159,7 +29199,7 @@
       "name": "Melón piel de sapo",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 5.3,
+      "price": 5.24,
       "reference_price": "2.20",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3506/melon-piel-sapo-pieza"
@@ -29299,7 +29339,7 @@
       "name": "Piña",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 4.14,
+      "price": 4.1,
       "reference_price": "2.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3076/pina-pieza"
@@ -29349,7 +29389,7 @@
       "name": "Papaya",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 3.41,
+      "price": 3.47,
       "reference_price": "5.25",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3026/papaya-pieza"
@@ -29409,7 +29449,7 @@
       "name": "Granada",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 1.08,
+      "price": 1.02,
       "reference_price": "3.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3915/granada-pieza"
@@ -29789,7 +29829,7 @@
       "name": "Batata",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.87,
+      "price": 0.89,
       "reference_price": "2.55",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69239/batata-pieza"
@@ -29809,7 +29849,7 @@
       "name": "Yuca",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 2.18,
+      "price": 2.08,
       "reference_price": "3.30",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69173/yuca-pieza"
@@ -29999,10 +30039,20 @@
       "name": "Rama de Tomates",
       "packaging": "Granel",
       "category": "Fruta y verdura · Verdura",
-      "price": 1.92,
+      "price": 1.84,
       "reference_price": "2.70",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69487/rama-tomates-granel"
+    },
+    {
+      "id": "69444",
+      "name": "Tomate rosa",
+      "packaging": "Pieza",
+      "category": "Fruta y verdura · Verdura",
+      "price": 1.16,
+      "reference_price": "3.40",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/69444/tomate-rosa-pieza"
     },
     {
       "id": "69446",
@@ -30089,7 +30139,7 @@
       "name": "Pimiento rojo",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.46,
+      "price": 0.64,
       "reference_price": "2.90",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69310/pimiento-rojo-pieza"
@@ -30109,7 +30159,7 @@
       "name": "Pimiento verde freír",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.28,
+      "price": 0.3,
       "reference_price": "2.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69320/pimiento-verde-freir-pieza"
@@ -30189,7 +30239,7 @@
       "name": "Col lombarda",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 1.76,
+      "price": 1.84,
       "reference_price": "2.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69251/col-lombarda-pieza"
@@ -30349,7 +30399,7 @@
       "name": "Brócoli",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 1.22,
+      "price": 1.24,
       "reference_price": "2.70",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69580/brocoli-pieza"
@@ -32213,6 +32263,16 @@
       "reference_price": "0.19",
       "reference_unit": "lv",
       "url": "https://tienda.mercadona.es/product/23440/detergente-ropa-blanca-color-bosque-verde-capsulas-lavadora-caja"
+    },
+    {
+      "id": "20959",
+      "name": "Detergente ropa Blanca y Color floral Sensation Bosque Verde en cápsulas",
+      "packaging": "Caja",
+      "category": "Limpieza y hogar · Detergente y suavizante ropa",
+      "price": 4.65,
+      "reference_price": "0.19",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/20959/detergente-ropa-blanca-color-floral-sensation-bosque-verde-capsulas-caja"
     },
     {
       "id": "52752",
@@ -36535,16 +36595,6 @@
       "url": "https://tienda.mercadona.es/product/18266/pintalabios-mate-deliplus-102-rosa-petalo"
     },
     {
-      "id": "18267",
-      "name": "Pintalabios Mate Deliplus 103 caramelo",
-      "packaging": null,
-      "category": "Maquillaje · Labios",
-      "price": 4.5,
-      "reference_price": "4.50",
-      "reference_unit": "ud",
-      "url": "https://tienda.mercadona.es/product/18267/pintalabios-mate-deliplus-103-caramelo"
-    },
-    {
       "id": "18268",
       "name": "Pintalabios Mate Deliplus 104 marrón crema",
       "packaging": null,
@@ -38239,8 +38289,8 @@
       "name": "Boquerón limpio sin cabeza",
       "packaging": "Bandeja",
       "category": "Marisco y pescado · Pescado fresco",
-      "price": 3.0,
-      "reference_price": "10.00",
+      "price": 3.45,
+      "reference_price": "11.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/87929/boqueron-limpio-sin-cabeza-sin-tripa-bandeja"
     },
@@ -38249,8 +38299,8 @@
       "name": "Boquerón limpio sin espina",
       "packaging": "Bandeja",
       "category": "Marisco y pescado · Pescado fresco",
-      "price": 3.6,
-      "reference_price": "18.00",
+      "price": 4.0,
+      "reference_price": "20.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/87930/boqueron-limpio-sin-espina-bandeja"
     },
@@ -38259,8 +38309,8 @@
       "name": "Boquerón sin limpiar",
       "packaging": "Bandeja",
       "category": "Marisco y pescado · Pescado fresco",
-      "price": 2.63,
-      "reference_price": "7.00",
+      "price": 3.0,
+      "reference_price": "8.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/26981/boqueron-sin-limpiar-bandeja"
     },
@@ -39629,8 +39679,8 @@
       "name": "Berlina rellena de crema de galleta con cobertura blanca y trozos de galleta",
       "packaging": "Pieza",
       "category": "Panadería y pastelería · Bollería de horno",
-      "price": 1.25,
-      "reference_price": "12.50",
+      "price": 1.0,
+      "reference_price": "10.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/17713/berlina-con-cobertura-blanca-trozos-galleta-rellena-crema-con-galleta-pieza"
     },
