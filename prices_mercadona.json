@@ -1,8 +1,8 @@
 {
   "store": "Mercadona",
   "region": "Madrid capital",
-  "updated_at": "2026-11-21T13:13:23Z",
-  "product_count": 4628,
+  "updated_at": "2026-11-22T13:02:04Z",
+  "product_count": 4643,
   "products": [
     {
       "id": "4241",
@@ -4213,6 +4213,16 @@
       "reference_price": "17.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/34236/nuez-brasil-natural-hacendado-paquete"
+    },
+    {
+      "id": "36434",
+      "name": "Peladillas Hacendado",
+      "packaging": "Paquete",
+      "category": "Aperitivos · Frutos secos y fruta desecada",
+      "price": 1.85,
+      "reference_price": "12.33",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/36434/peladillas-hacendado-paquete"
     },
     {
       "id": "34997",
@@ -12495,6 +12505,26 @@
       "url": "https://tienda.mercadona.es/product/2228/solomillo-cerdo-marinado-congelado-paquete"
     },
     {
+      "id": "4022",
+      "name": "Paletilla de cordero entera congelada",
+      "packaging": "Pieza",
+      "category": "Carne · Carne congelada",
+      "price": 18.6,
+      "reference_price": "15.50",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/4022/paletilla-cordero-entera-congelada-pieza"
+    },
+    {
+      "id": "4072",
+      "name": "Paletilla de lechal entera congelada",
+      "packaging": "Pieza",
+      "category": "Carne · Carne congelada",
+      "price": 17.55,
+      "reference_price": "27.00",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/4072/paletilla-lechal-entera-congelada-pieza"
+    },
+    {
       "id": "4073",
       "name": "Pierna de lechal entera congelada",
       "packaging": "Pieza",
@@ -12503,6 +12533,26 @@
       "reference_price": "17.90",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/4073/pierna-lechal-entera-congelada-pieza"
+    },
+    {
+      "id": "5270",
+      "name": "Paletilla de cochinillo congelada",
+      "packaging": "Pieza",
+      "category": "Carne · Carne congelada",
+      "price": 16.63,
+      "reference_price": "9.50",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/5270/paletilla-cochinillo-congelada-pieza"
+    },
+    {
+      "id": "2120",
+      "name": "Medio cochinillo congelado",
+      "packaging": "Pieza",
+      "category": "Carne · Carne congelada",
+      "price": 45.9,
+      "reference_price": "13.50",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/2120/medio-cochinillo-congelado-pieza"
     },
     {
       "id": "4334",
@@ -15015,6 +15065,16 @@
       "url": "https://tienda.mercadona.es/product/53140/pechuga-pavo-horno-lena-campofrio-lonchas-pavofrio-paquete"
     },
     {
+      "id": "18465",
+      "name": "Pechuga de pavo 92% Hacendado lonchas",
+      "packaging": null,
+      "category": "Charcutería y quesos · Aves y jamón cocido",
+      "price": 4.5,
+      "reference_price": "11.25",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/18465/pechuga-pavo-92-hacendado-lonchas"
+    },
+    {
       "id": "5710",
       "name": "Pechuga de pavo 92% Hacendado lonchas",
       "packaging": "Paquete",
@@ -15083,6 +15143,16 @@
       "reference_price": "20.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/22332/pechuguita-pollo-asada-carlotena-lonchas-paquete"
+    },
+    {
+      "id": "22430",
+      "name": "Maxi pavo Hacendado finas lonchas",
+      "packaging": "Paquete",
+      "category": "Charcutería y quesos · Aves y jamón cocido",
+      "price": 3.05,
+      "reference_price": "7.63",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/22430/maxi-pavo-hacendado-finas-lonchas-paquete"
     },
     {
       "id": "11507",
@@ -18065,6 +18135,26 @@
       "url": "https://tienda.mercadona.es/product/2228/solomillo-cerdo-marinado-congelado-paquete"
     },
     {
+      "id": "4022",
+      "name": "Paletilla de cordero entera congelada",
+      "packaging": "Pieza",
+      "category": "Congelados · Carne",
+      "price": 18.6,
+      "reference_price": "15.50",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/4022/paletilla-cordero-entera-congelada-pieza"
+    },
+    {
+      "id": "4072",
+      "name": "Paletilla de lechal entera congelada",
+      "packaging": "Pieza",
+      "category": "Congelados · Carne",
+      "price": 17.55,
+      "reference_price": "27.00",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/4072/paletilla-lechal-entera-congelada-pieza"
+    },
+    {
       "id": "4073",
       "name": "Pierna de lechal entera congelada",
       "packaging": "Pieza",
@@ -18073,6 +18163,26 @@
       "reference_price": "17.90",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/4073/pierna-lechal-entera-congelada-pieza"
+    },
+    {
+      "id": "2120",
+      "name": "Medio cochinillo congelado",
+      "packaging": "Pieza",
+      "category": "Congelados · Carne",
+      "price": 45.9,
+      "reference_price": "13.50",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/2120/medio-cochinillo-congelado-pieza"
+    },
+    {
+      "id": "5270",
+      "name": "Paletilla de cochinillo congelada",
+      "packaging": "Pieza",
+      "category": "Congelados · Carne",
+      "price": 16.63,
+      "reference_price": "9.50",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/5270/paletilla-cochinillo-congelada-pieza"
     },
     {
       "id": "4334",
@@ -19263,6 +19373,16 @@
       "reference_price": "34.25",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/62380/bogavante-americano-mediano-crudo-hacendado-pieza"
+    },
+    {
+      "id": "62320",
+      "name": "Buey de mar cocido Hacendado congelado",
+      "packaging": "Pieza",
+      "category": "Congelados · Marisco",
+      "price": 11.68,
+      "reference_price": "16.33",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/62320/buey-mar-cocido-hacendado-congelado-pieza"
     },
     {
       "id": "62322",
@@ -21993,6 +22113,16 @@
       "reference_price": "9.20",
       "reference_unit": "100 ml",
       "url": "https://tienda.mercadona.es/product/52933/acondicionador-instantaneo-hydra-hyaluronic-deliplus-cabello-normal-seco-con-acido-hialuronico-niacinamida-provitamina-b5-bote"
+    },
+    {
+      "id": "21545",
+      "name": "Mascarilla Hydra revitaliza Pantene cabello muy seco",
+      "packaging": "Tarro",
+      "category": "Cuidado del cabello · Acondicionador y mascarilla",
+      "price": 2.85,
+      "reference_price": "14.25",
+      "reference_unit": "100 ml",
+      "url": "https://tienda.mercadona.es/product/21545/mascarilla-hydra-revitaliza-pantene-cabello-muy-seco-tarro"
     },
     {
       "id": "46569",
@@ -29039,7 +29169,7 @@
       "name": "Plátano macho",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.81,
+      "price": 0.87,
       "reference_price": "2.90",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3132/platano-macho-pieza"
@@ -29109,7 +29239,7 @@
       "name": "Manzana roja dulce",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.4,
+      "price": 0.38,
       "reference_price": "2.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/8177/manzana-roja-dulce-pieza"
@@ -29129,7 +29259,7 @@
       "name": "Pera Ercolina",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.29,
+      "price": 0.26,
       "reference_price": "2.90",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3170/pera-ercolina-pieza"
@@ -29159,7 +29289,7 @@
       "name": "Manzana roja acidulce",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.58,
+      "price": 0.6,
       "reference_price": "2.40",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/8175/manzana-roja-acidulce-pieza"
@@ -29179,7 +29309,7 @@
       "name": "Medio melón piel de sapo",
       "packaging": "1/2 Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 3.17,
+      "price": 3.15,
       "reference_price": "2.60",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3515/medio-melon-piel-sapo-12-pieza"
@@ -29189,7 +29319,7 @@
       "name": "Melón piel de sapo",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 5.24,
+      "price": 5.15,
       "reference_price": "2.20",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3506/melon-piel-sapo-pieza"
@@ -29329,7 +29459,7 @@
       "name": "Piña",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 3.94,
+      "price": 4.02,
       "reference_price": "2.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3076/pina-pieza"
@@ -29369,7 +29499,7 @@
       "name": "Mango",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 1.45,
+      "price": 1.54,
       "reference_price": "2.90",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3050/mango-pieza"
@@ -29379,7 +29509,7 @@
       "name": "Papaya",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 3.26,
+      "price": 3.15,
       "reference_price": "5.25",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3026/papaya-pieza"
@@ -29769,7 +29899,7 @@
       "name": "Patata",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.4,
+      "price": 0.42,
       "reference_price": "1.90",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69066/patata-pieza"
@@ -29819,7 +29949,7 @@
       "name": "Batata",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.89,
+      "price": 0.87,
       "reference_price": "2.55",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69239/batata-pieza"
@@ -29839,7 +29969,7 @@
       "name": "Yuca",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 1.91,
+      "price": 2.18,
       "reference_price": "3.30",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69173/yuca-pieza"
@@ -29929,7 +30059,7 @@
       "name": "Tomate ensalada",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.5,
+      "price": 0.53,
       "reference_price": "2.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69937/tomate-ensalada-pieza"
@@ -29949,7 +30079,7 @@
       "name": "Tomate pera",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.31,
+      "price": 0.33,
       "reference_price": "2.20",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69912/tomate-pera-pieza"
@@ -30029,7 +30159,7 @@
       "name": "Rama de Tomates",
       "packaging": "Granel",
       "category": "Fruta y verdura · Verdura",
-      "price": 1.65,
+      "price": 1.54,
       "reference_price": "2.70",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69487/rama-tomates-granel"
@@ -30039,7 +30169,7 @@
       "name": "Tomate rosa",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 2.55,
+      "price": 1.19,
       "reference_price": "3.40",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69444/tomate-rosa-pieza"
@@ -30129,7 +30259,7 @@
       "name": "Pimiento rojo",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.87,
+      "price": 0.9,
       "reference_price": "2.90",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69310/pimiento-rojo-pieza"
@@ -30139,7 +30269,7 @@
       "name": "Calabacín verde",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.72,
+      "price": 0.74,
       "reference_price": "1.90",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69338/calabacin-verde-pieza"
@@ -30159,7 +30289,7 @@
       "name": "Calabacín blanco",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.73,
+      "price": 0.7,
       "reference_price": "2.20",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69339/calabacin-blanco-pieza"
@@ -30189,7 +30319,7 @@
       "name": "Coliflor",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 2.3,
+      "price": 2.28,
       "reference_price": "1.70",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69220/coliflor-pieza"
@@ -30229,7 +30359,7 @@
       "name": "Col lombarda",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 1.98,
+      "price": 1.94,
       "reference_price": "2.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69251/col-lombarda-pieza"
@@ -30399,7 +30529,7 @@
       "name": "Berenjena",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.88,
+      "price": 0.86,
       "reference_price": "2.20",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69326/berenjena-pieza"
@@ -36495,6 +36625,26 @@
       "url": "https://tienda.mercadona.es/product/67888/perfilador-labios-deliplus-07-cereza"
     },
     {
+      "id": "17663",
+      "name": "Perfilador de labios líquido Tint Deliplus 01 nude rosado",
+      "packaging": null,
+      "category": "Maquillaje · Labios",
+      "price": 3.25,
+      "reference_price": "3.25",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/17663/perfilador-labios-liquido-tint-deliplus-01-nude-rosado"
+    },
+    {
+      "id": "17664",
+      "name": "Perfilador de labios líquido Tint Deliplus 02 canela",
+      "packaging": null,
+      "category": "Maquillaje · Labios",
+      "price": 3.25,
+      "reference_price": "3.25",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/17664/perfilador-labios-liquido-tint-deliplus-02-canela"
+    },
+    {
       "id": "18136",
       "name": "Pintalabios Creamy Deliplus 201 nude",
       "packaging": null,
@@ -37523,6 +37673,16 @@
       "reference_price": "34.25",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/62380/bogavante-americano-mediano-crudo-hacendado-pieza"
+    },
+    {
+      "id": "62320",
+      "name": "Buey de mar cocido Hacendado congelado",
+      "packaging": "Pieza",
+      "category": "Marisco y pescado · Marisco",
+      "price": 11.68,
+      "reference_price": "16.33",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/62320/buey-mar-cocido-hacendado-congelado-pieza"
     },
     {
       "id": "24102",
@@ -39723,16 +39883,6 @@
       "reference_price": "7.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/16288/bizcocho-manzana-paquete"
-    },
-    {
-      "id": "17713",
-      "name": "Berlina rellena de crema de galleta con cobertura blanca y trozos de galleta",
-      "packaging": "Pieza",
-      "category": "Panadería y pastelería · Bollería de horno",
-      "price": 1.0,
-      "reference_price": "10.00",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/17713/berlina-con-cobertura-blanca-trozos-galleta-rellena-crema-con-galleta-pieza"
     },
     {
       "id": "17698",
