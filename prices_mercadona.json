@@ -1,8 +1,8 @@
 {
   "store": "Mercadona",
   "region": "Madrid capital",
-  "updated_at": "2026-11-26T14:41:48Z",
-  "product_count": 4670,
+  "updated_at": "2026-11-27T14:40:10Z",
+  "product_count": 4641,
   "products": [
     {
       "id": "4241",
@@ -103,6 +103,16 @@
       "reference_price": "13.00",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/4718/aceite-oliva-virgen-extra-hacendado-spray"
+    },
+    {
+      "id": "4850",
+      "name": "Aceite de oliva virgen extra Picual Casa Juncal",
+      "packaging": "Botella",
+      "category": "Aceite, especias y salsas · Aceite, vinagre y sal",
+      "price": 4.85,
+      "reference_price": "9.70",
+      "reference_unit": "L",
+      "url": "https://tienda.mercadona.es/product/4850/aceite-oliva-virgen-extra-picual-casa-juncal-botella"
     },
     {
       "id": "14727",
@@ -3119,8 +3129,8 @@
       "name": "Tónica original Schweppes",
       "packaging": "Botella",
       "category": "Agua y refrescos · Tónica y bitter",
-      "price": 1.99,
-      "reference_price": "1.99",
+      "price": 1.6,
+      "reference_price": "1.60",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/16461/tonica-original-schweppes-botella"
     },
@@ -5269,8 +5279,8 @@
       "name": "Lenteja pardina Hacendado",
       "packaging": "Paquete",
       "category": "Arroz, legumbres y pasta · Legumbres",
-      "price": 1.85,
-      "reference_price": "1.85",
+      "price": 1.75,
+      "reference_price": "1.75",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/5330/lenteja-pardina-hacendado-categoria-extra-paquete"
     },
@@ -6799,8 +6809,8 @@
       "name": "Piruleta de chocolate Navidad Hacendado",
       "packaging": null,
       "category": "Azúcar, caramelos y chocolate · Chocolate",
-      "price": 1.5,
-      "reference_price": "42.86",
+      "price": 1.35,
+      "reference_price": "38.57",
       "reference_unit": "100 g",
       "url": "https://tienda.mercadona.es/product/52455/piruleta-chocolate-con-leche-hacendado-navidad"
     },
@@ -6909,8 +6919,8 @@
       "name": "Bombones cereza al licor Hacendado con chocolate",
       "packaging": "Paquete",
       "category": "Azúcar, caramelos y chocolate · Chocolate",
-      "price": 2.2,
-      "reference_price": "14.67",
+      "price": 2.0,
+      "reference_price": "13.33",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/35909/bombones-cereza-licor-hacendado-con-chocolate-negro-paquete"
     },
@@ -7569,8 +7579,8 @@
       "name": "Turrón duro de almendras Hacendado",
       "packaging": "Tableta",
       "category": "Azúcar, caramelos y chocolate · Turrones",
-      "price": 2.9,
-      "reference_price": "11.60",
+      "price": 2.75,
+      "reference_price": "11.00",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/36017/turron-duro-hacendado-tableta"
     },
@@ -7669,8 +7679,8 @@
       "name": "Turrón de pistacho Hacendado",
       "packaging": "Tableta",
       "category": "Azúcar, caramelos y chocolate · Turrones",
-      "price": 2.9,
-      "reference_price": "19.33",
+      "price": 2.75,
+      "reference_price": "18.33",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/36143/turron-pistacho-hacendado-tableta"
     },
@@ -8669,8 +8679,8 @@
       "name": "Cerveza clásica Mahou",
       "packaging": null,
       "category": "Bodega · Cerveza",
-      "price": 9.72,
-      "reference_price": "2.45",
+      "price": 7.2,
+      "reference_price": "1.82",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/66027/cerveza-clasica-mahou-pack-12"
     },
@@ -8679,8 +8689,8 @@
       "name": "Cerveza clásica Mahou",
       "packaging": "Lata",
       "category": "Bodega · Cerveza",
-      "price": 0.83,
-      "reference_price": "2.52",
+      "price": 0.79,
+      "reference_price": "2.39",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/27178/cerveza-clasica-mahou-lata"
     },
@@ -8689,8 +8699,8 @@
       "name": "Cerveza doble malta Voll-Damm",
       "packaging": "Pack-6",
       "category": "Bodega · Cerveza",
-      "price": 6.24,
-      "reference_price": "3.15",
+      "price": 5.1,
+      "reference_price": "2.58",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/28057/cerveza-doble-malta-voll-damm-pack-6"
     },
@@ -8699,8 +8709,8 @@
       "name": "Cerveza doble malta Voll-Damm",
       "packaging": "Lata",
       "category": "Bodega · Cerveza",
-      "price": 1.04,
-      "reference_price": "3.15",
+      "price": 0.89,
+      "reference_price": "2.70",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/27137/cerveza-doble-malta-voll-damm-lata"
     },
@@ -8789,8 +8799,8 @@
       "name": "Cerveza especial Estrella Galicia",
       "packaging": "Pack-10",
       "category": "Bodega · Cerveza",
-      "price": 8.8,
-      "reference_price": "2.67",
+      "price": 7.6,
+      "reference_price": "2.30",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/66586/cerveza-especial-estrella-galicia-pack-10"
     },
@@ -8799,8 +8809,8 @@
       "name": "Cerveza especial Estrella Galicia",
       "packaging": "Lata",
       "category": "Bodega · Cerveza",
-      "price": 0.9,
-      "reference_price": "2.73",
+      "price": 0.79,
+      "reference_price": "2.39",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/27357/cerveza-especial-estrella-galicia-lata"
     },
@@ -8959,8 +8969,8 @@
       "name": "Cerveza especial Mahou",
       "packaging": "Pack-12",
       "category": "Bodega · Cerveza",
-      "price": 8.04,
-      "reference_price": "2.68",
+      "price": 6.0,
+      "reference_price": "2.00",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/66028/cerveza-especial-mahou-pack-12"
     },
@@ -9459,8 +9469,8 @@
       "name": "Vermouth blanco Martini",
       "packaging": "Botella",
       "category": "Bodega · Licores",
-      "price": 11.0,
-      "reference_price": "11.00",
+      "price": 11.9,
+      "reference_price": "11.90",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/28400/vermouth-bianco-martini-botella"
     },
@@ -9469,8 +9479,8 @@
       "name": "Vermouth rojo Martini",
       "packaging": "Botella",
       "category": "Bodega · Licores",
-      "price": 11.0,
-      "reference_price": "11.00",
+      "price": 11.9,
+      "reference_price": "11.90",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/28401/vermouth-rosso-martini-botella"
     },
@@ -9649,8 +9659,8 @@
       "name": "Ron añejo Negrita",
       "packaging": "Botella",
       "category": "Bodega · Licores",
-      "price": 9.5,
-      "reference_price": "13.57",
+      "price": 8.95,
+      "reference_price": "12.79",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/28731/ron-anejo-negrita-botella"
     },
@@ -9809,8 +9819,8 @@
       "name": "Licor de hierbas Jägermeister",
       "packaging": "Botella",
       "category": "Bodega · Licores",
-      "price": 15.1,
-      "reference_price": "21.57",
+      "price": 14.25,
+      "reference_price": "20.36",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/28724/licor-hierbas-jagermeister-botella"
     },
@@ -9943,6 +9953,16 @@
       "reference_price": "8.75",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/22977/cava-brut-cabre-sabate-benjamin"
+    },
+    {
+      "id": "28949",
+      "name": "Cava brut Señorío De Requena",
+      "packaging": "Botella",
+      "category": "Bodega · Sidra y cava",
+      "price": 3.7,
+      "reference_price": "4.93",
+      "reference_unit": "L",
+      "url": "https://tienda.mercadona.es/product/28949/cava-brut-senorio-requena-botella"
     },
     {
       "id": "28969",
@@ -10579,8 +10599,8 @@
       "name": "Vino tinto tempranillo reserva Pata Negra DO Valdepeñas",
       "packaging": "Botella",
       "category": "Bodega · Vino tinto",
-      "price": 2.5,
-      "reference_price": "3.33",
+      "price": 2.25,
+      "reference_price": "3.00",
       "reference_unit": "L",
       "url": "https://tienda.mercadona.es/product/13875/vino-tinto-do-valdepenas-pata-negra-reserva-botella"
     },
@@ -13079,8 +13099,8 @@
       "name": "Longaniza magro fresca",
       "packaging": "Bandeja",
       "category": "Carne · Embutido",
-      "price": 3.1,
-      "reference_price": "5.80",
+      "price": 3.0,
+      "reference_price": "5.60",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/6040/longaniza-magro-fresca-bandeja"
     },
@@ -13099,8 +13119,8 @@
       "name": "Longaniza fresca de pollo",
       "packaging": "Bandeja",
       "category": "Carne · Embutido",
-      "price": 3.99,
-      "reference_price": "7.25",
+      "price": 3.93,
+      "reference_price": "7.15",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/6041/longaniza-fresca-pollo-bandeja"
     },
@@ -14895,16 +14915,6 @@
       "url": "https://tienda.mercadona.es/product/17929/galletas-rebuenas-hacendado-rellenas-chocolate-blanco-paquete"
     },
     {
-      "id": "17928",
-      "name": "Galletas Choco Bom Gullón con chips de chocolate recubiertas de chocolate blanco",
-      "packaging": "Paquete",
-      "category": "Cereales y galletas · Galletas",
-      "price": 1.0,
-      "reference_price": "10.00",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/17928/galletas-choco-bom-gullon-con-chips-chocolate-recubiertas-chocolate-blanco-paquete"
-    },
-    {
       "id": "14711",
       "name": "Surtido de galletas y barquillos Hacendado",
       "packaging": "Paquete",
@@ -15673,6 +15683,16 @@
       "reference_price": "4.75",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/53032/salchichas-cocidas-bocata-hacendado-pollo-cerdo-sabor-ahumado-paquete"
+    },
+    {
+      "id": "53041",
+      "name": "Salchichas cocidas Frankfurt La Selva",
+      "packaging": "Tarro",
+      "category": "Charcutería y quesos · Bacón y salchichas",
+      "price": 2.4,
+      "reference_price": "5.22",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/53041/salchichas-cocidas-frankfurt-selva-tarro"
     },
     {
       "id": "53042",
@@ -18649,8 +18669,8 @@
       "name": "Salteado de pollo Hacendado ultracongelado",
       "packaging": "Paquete",
       "category": "Congelados · Fruta y verdura",
-      "price": 2.1,
-      "reference_price": "4.67",
+      "price": 1.95,
+      "reference_price": "4.33",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/13404/salteado-pollo-hacendado-ultracongelado-paquete"
     },
@@ -18799,8 +18819,8 @@
       "name": "Espinacas a la crema Hacendado ultracongeladas",
       "packaging": "Paquete",
       "category": "Congelados · Fruta y verdura",
-      "price": 2.25,
-      "reference_price": "5.00",
+      "price": 2.1,
+      "reference_price": "4.67",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/61368/espinacas-crema-hacendado-ultracongeladas-paquete"
     },
@@ -23895,6 +23915,16 @@
       "url": "https://tienda.mercadona.es/product/17695/gel-fijador-cabello-forte-deliplus-fijacion-3-bote"
     },
     {
+      "id": "17986",
+      "name": "Gel fijador cabello con aloe vera Nature Deliplus 0% alcohol",
+      "packaging": "Bote",
+      "category": "Cuidado del cabello · Fijación cabello",
+      "price": 2.95,
+      "reference_price": "7.38",
+      "reference_unit": "100 ml",
+      "url": "https://tienda.mercadona.es/product/17986/gel-fijador-cabello-con-aloe-vera-nature-deliplus-0-alcohol-bote"
+    },
+    {
       "id": "23013",
       "name": "Gel de afeitar Sensitive Deliplus",
       "packaging": "Bote",
@@ -24813,16 +24843,6 @@
       "reference_price": "0.42",
       "reference_unit": "ud",
       "url": "https://tienda.mercadona.es/product/8883/tiras-faciales-limpia-poros-deliplus-caja"
-    },
-    {
-      "id": "16382",
-      "name": "Mousse facial limpiadora y purificante Oil Free piel grasa y acneica",
-      "packaging": "Bote",
-      "category": "Cuidado facial y corporal · Cuidado e higiene facial",
-      "price": 4.0,
-      "reference_price": "20.00",
-      "reference_unit": "100 ml",
-      "url": "https://tienda.mercadona.es/product/16382/mousse-facial-limpiadora-purificante-deliplus-oil-free-piel-grasa-acneica-bote"
     },
     {
       "id": "76465",
@@ -27915,16 +27935,6 @@
       "url": "https://tienda.mercadona.es/product/9940/eau-parfum-mujer-cerise-frasco"
     },
     {
-      "id": "9921",
-      "name": "Eau de parfum mujer Special Shine",
-      "packaging": "Frasco",
-      "category": "Cuidado facial y corporal · Perfume y colonia",
-      "price": 12.0,
-      "reference_price": "120.00",
-      "reference_unit": "100 ml",
-      "url": "https://tienda.mercadona.es/product/9921/eau-parfum-mujer-shine-special-frasco"
-    },
-    {
       "id": "13023",
       "name": "Eau de parfum mujer Santal Como Tú",
       "packaging": "Frasco",
@@ -29259,7 +29269,7 @@
       "name": "Banana",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.28,
+      "price": 0.26,
       "reference_price": "1.55",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3824/banana-pieza"
@@ -29379,7 +29389,7 @@
       "name": "Pera Limonera",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.64,
+      "price": 0.67,
       "reference_price": "2.80",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3172/pera-limonera-pieza"
@@ -29409,7 +29419,7 @@
       "name": "Medio melón piel de sapo",
       "packaging": "1/2 Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 2.96,
+      "price": 2.94,
       "reference_price": "2.60",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3515/medio-melon-piel-sapo-12-pieza"
@@ -29439,7 +29449,7 @@
       "name": "Limón",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.5,
+      "price": 0.53,
       "reference_price": "2.50",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3210/limon-pieza"
@@ -29509,7 +29519,7 @@
       "name": "Pomelo",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.89,
+      "price": 0.86,
       "reference_price": "3.30",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3202/pomelo-pieza"
@@ -29519,8 +29529,8 @@
       "name": "Kiwi verde",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 0.51,
-      "reference_price": "4.65",
+      "price": 0.37,
+      "reference_price": "3.35",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3820/kiwi-verde-pieza"
     },
@@ -29529,8 +29539,8 @@
       "name": "Kiwis verdes",
       "packaging": "Bandeja",
       "category": "Fruta y verdura · Fruta",
-      "price": 5.01,
-      "reference_price": "4.55",
+      "price": 3.58,
+      "reference_price": "3.25",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3832/kiwis-verdes-bandeja"
     },
@@ -29559,7 +29569,7 @@
       "name": "Piña",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 3.72,
+      "price": 3.69,
       "reference_price": "1.90",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3076/pina-pieza"
@@ -29599,7 +29609,7 @@
       "name": "Mango",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 1.36,
+      "price": 1.39,
       "reference_price": "2.90",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3050/mango-pieza"
@@ -29609,7 +29619,7 @@
       "name": "Papaya",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Fruta",
-      "price": 2.99,
+      "price": 2.94,
       "reference_price": "5.25",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/3026/papaya-pieza"
@@ -29999,7 +30009,7 @@
       "name": "Patata",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.42,
+      "price": 0.44,
       "reference_price": "1.90",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69066/patata-pieza"
@@ -30049,7 +30059,7 @@
       "name": "Batata",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.74,
+      "price": 0.79,
       "reference_price": "2.55",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69239/batata-pieza"
@@ -30069,7 +30079,7 @@
       "name": "Yuca",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 2.18,
+      "price": 2.24,
       "reference_price": "3.30",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69173/yuca-pieza"
@@ -30169,7 +30179,7 @@
       "name": "Tomate canario",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.4,
+      "price": 0.42,
       "reference_price": "2.20",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69968/tomate-canario-pieza"
@@ -30179,7 +30189,7 @@
       "name": "Tomate pera",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.31,
+      "price": 0.33,
       "reference_price": "2.20",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69912/tomate-pera-pieza"
@@ -30269,7 +30279,7 @@
       "name": "Tomate rosa",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 1.7,
+      "price": 1.67,
       "reference_price": "3.40",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69444/tomate-rosa-pieza"
@@ -30369,7 +30379,7 @@
       "name": "Calabacín verde",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.74,
+      "price": 0.72,
       "reference_price": "1.90",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69338/calabacin-verde-pieza"
@@ -30389,7 +30399,7 @@
       "name": "Calabacín blanco",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 0.73,
+      "price": 0.68,
       "reference_price": "2.20",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69339/calabacin-blanco-pieza"
@@ -30419,7 +30429,7 @@
       "name": "Coliflor",
       "packaging": "Pieza",
       "category": "Fruta y verdura · Verdura",
-      "price": 2.69,
+      "price": 2.71,
       "reference_price": "2.05",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/69220/coliflor-pieza"
@@ -35749,7 +35759,7 @@
       "name": "Gamuzas atrapa polvo Bosque Verde",
       "packaging": "Paquete",
       "category": "Limpieza y hogar · Utensilios de limpieza y calzado",
-      "price": 1.7,
+      "price": 1.8,
       "reference_price": "0.06",
       "reference_unit": "ud",
       "url": "https://tienda.mercadona.es/product/71533/gamuzas-atrapa-polvo-bosque-verde-paquete"
@@ -36473,6 +36483,16 @@
       "reference_price": "4.75",
       "reference_unit": "ud",
       "url": "https://tienda.mercadona.es/product/8318/colorete-fluido-blush-luminoso-deliplus-02"
+    },
+    {
+      "id": "12819",
+      "name": "Colorete fluido Blush mate Deliplus 01 rosa amarronado",
+      "packaging": null,
+      "category": "Maquillaje · Colorete y polvos",
+      "price": 4.75,
+      "reference_price": "4.75",
+      "reference_unit": "ud",
+      "url": "https://tienda.mercadona.es/product/12819/colorete-fluido-blush-mate-deliplus-01-rosa-amarronado"
     },
     {
       "id": "12825",
@@ -41995,16 +42015,6 @@
       "url": "https://tienda.mercadona.es/product/17667/pan-molde-15-maiz-hacendado-paquete"
     },
     {
-      "id": "18754",
-      "name": "Pan de burger Bretzel Hacendado",
-      "packaging": "Paquete",
-      "category": "Panadería y pastelería · Pan de molde y otras especialidades",
-      "price": 1.05,
-      "reference_price": "6.56",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/18754/pan-burger-bretzel-hacendado-paquete"
-    },
-    {
       "id": "80859",
       "name": "Tortillas de trigo Hacendado",
       "packaging": "Paquete",
@@ -42153,6 +42163,16 @@
       "reference_price": "4.32",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/17665/pan-burger-hacendado-rustico-paquete"
+    },
+    {
+      "id": "18754",
+      "name": "Pan de burger Bretzel Hacendado",
+      "packaging": "Paquete",
+      "category": "Panadería y pastelería · Pan de molde y otras especialidades",
+      "price": 1.05,
+      "reference_price": "6.56",
+      "reference_unit": "kg",
+      "url": "https://tienda.mercadona.es/product/18754/pan-burger-bretzel-hacendado-paquete"
     },
     {
       "id": "82287",
@@ -45543,316 +45563,6 @@
       "reference_price": "2.47",
       "reference_unit": "kg",
       "url": "https://tienda.mercadona.es/product/17760/yogur-griego-dulce-hacendado-con-dulce-leche-galleta-platano"
-    },
-    {
-      "id": "86331",
-      "name": "Yogur líquido de fresa Hacendado",
-      "packaging": "Pack-12",
-      "category": "Postres y yogures · Yogures líquidos",
-      "price": 2.0,
-      "reference_price": "1.67",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/86331/yogur-liquido-fresa-hacendado-pack-12"
-    },
-    {
-      "id": "20613",
-      "name": "Bebida láctea de fresa y plátano Hacendado",
-      "packaging": "Botella",
-      "category": "Postres y yogures · Yogures líquidos",
-      "price": 1.5,
-      "reference_price": "1.50",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/20613/bebida-lactea-fresa-platano-hacendado-botella"
-    },
-    {
-      "id": "20612",
-      "name": "Bebida láctea de fresa Hacendado",
-      "packaging": "Botella",
-      "category": "Postres y yogures · Yogures líquidos",
-      "price": 1.5,
-      "reference_price": "1.50",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/20612/bebida-lactea-fresa-hacendado-botella"
-    },
-    {
-      "id": "20629",
-      "name": "Bebida láctea de piña y coco Hacendado",
-      "packaging": "Botella",
-      "category": "Postres y yogures · Yogures líquidos",
-      "price": 1.5,
-      "reference_price": "1.50",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/20629/bebida-lactea-pina-coco-hacendado-botella"
-    },
-    {
-      "id": "9982",
-      "name": "Bebida láctea de frutas del bosque Hacendado",
-      "packaging": "Botella",
-      "category": "Postres y yogures · Yogures líquidos",
-      "price": 1.5,
-      "reference_price": "1.50",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/9982/bebida-lactea-frutas-bosque-hacendado-botella"
-    },
-    {
-      "id": "7878",
-      "name": "Yogur líquido natural Hacendado con azúcar de caña",
-      "packaging": "Pack-12",
-      "category": "Postres y yogures · Yogures líquidos",
-      "price": 2.0,
-      "reference_price": "1.67",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/7878/yogur-liquido-natural-hacendado-con-azucar-cana-pack-12"
-    },
-    {
-      "id": "15660",
-      "name": "Yogur líquido piña y coco Hacendado 0% MG 0% azúcares añadidos",
-      "packaging": "Botella",
-      "category": "Postres y yogures · Yogures líquidos",
-      "price": 1.5,
-      "reference_price": "1.50",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/15660/yogur-liquido-desnatado-pina-coco-hacendado-0-mg-0-sin-azucares-anadidos-botella"
-    },
-    {
-      "id": "15661",
-      "name": "Yogur líquido frutos silvestres Hacendado 0% MG 0% azúcares añadidos",
-      "packaging": "Botella",
-      "category": "Postres y yogures · Yogures líquidos",
-      "price": 1.5,
-      "reference_price": "1.50",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/15661/yogur-liquido-desnatado-frutos-silvestres-hacendado-0-mg-0-sin-azucares-anadidos-botella"
-    },
-    {
-      "id": "9981",
-      "name": "Bebida láctea natural azucarada Hacendado",
-      "packaging": "Botella",
-      "category": "Postres y yogures · Yogures líquidos",
-      "price": 1.5,
-      "reference_price": "1.50",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/9981/bebida-lactea-natural-azucarada-hacendado-botella"
-    },
-    {
-      "id": "21333",
-      "name": "Bebida láctea sabor fresa +Proteínas 20 g 0% MG",
-      "packaging": "Botella",
-      "category": "Postres y yogures · Yogures líquidos",
-      "price": 1.15,
-      "reference_price": "4.11",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/21333/bebida-lactea-desnatada-sabor-fresa-proteinas-hacendado-0-mg-20-g-proteinas-botella"
-    },
-    {
-      "id": "86418",
-      "name": "Batido lácteo sabor chocolate +Proteínas 30 g",
-      "packaging": "Brik",
-      "category": "Postres y yogures · Yogures líquidos",
-      "price": 1.3,
-      "reference_price": "3.94",
-      "reference_unit": "L",
-      "url": "https://tienda.mercadona.es/product/86418/batido-lacteo-sabor-chocolate-proteinas-hacendado-30-g-proteinas-brick"
-    },
-    {
-      "id": "86419",
-      "name": "Batido lácteo sabor vainilla +Proteínas 30 g",
-      "packaging": "Brik",
-      "category": "Postres y yogures · Yogures líquidos",
-      "price": 1.3,
-      "reference_price": "3.94",
-      "reference_unit": "L",
-      "url": "https://tienda.mercadona.es/product/86419/batido-lacteo-sabor-vainilla-proteinas-hacendado-30-g-proteinas-brick"
-    },
-    {
-      "id": "21378",
-      "name": "Bebida láctea sabor tropical +Proteínas 20 g 0% MG",
-      "packaging": "Botella",
-      "category": "Postres y yogures · Yogures líquidos",
-      "price": 1.15,
-      "reference_price": "4.11",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/21378/bebida-lactea-desnatada-sabor-tropical-proteinas-hacendado-0-mg-20-g-proteinas-botella"
-    },
-    {
-      "id": "35847",
-      "name": "Bebida láctea sabor açaí plátano +Proteínas 20 g 0% MG",
-      "packaging": "Botella",
-      "category": "Postres y yogures · Yogures líquidos",
-      "price": 1.15,
-      "reference_price": "4.11",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/35847/bebida-lactea-desnatada-proteinas-sabor-acai-platano-hacendado-0-mg-20-g-proteinas-botella"
-    },
-    {
-      "id": "12753",
-      "name": "Bebida láctea sabor fresa y plátano +Proteínas 17,4 g 0% MG 0% azúcares añadidos",
-      "packaging": "Botella",
-      "category": "Postres y yogures · Yogures líquidos",
-      "price": 2.5,
-      "reference_price": "2.50",
-      "reference_unit": "L",
-      "url": "https://tienda.mercadona.es/product/12753/bebida-lactea-desnatada-sabor-fresa-platano-proteinas-hacendado-0-mg-174-g-proteinas-botella"
-    },
-    {
-      "id": "19985",
-      "name": "Bebida láctea sabor stracciatella +Proteínas 20 g 0% azúcares añadidos",
-      "packaging": "Botella",
-      "category": "Postres y yogures · Yogures líquidos",
-      "price": 1.15,
-      "reference_price": "4.11",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/19985/bebida-lactea-desnatada-sabor-stracciatella-proteinas-hacendado-0-azucares-anadidos-20-g-proteinas-botella"
-    },
-    {
-      "id": "21625",
-      "name": "Batido lácteo sabor café +Proteínas 30 g",
-      "packaging": "Brik",
-      "category": "Postres y yogures · Yogures líquidos",
-      "price": 1.4,
-      "reference_price": "4.24",
-      "reference_unit": "L",
-      "url": "https://tienda.mercadona.es/product/21625/batido-lacteo-sabor-cafe-proteinas-hacendado-30-g-proteinas-brik"
-    },
-    {
-      "id": "20627",
-      "name": "Bebida láctea de fresa L-casei",
-      "packaging": null,
-      "category": "Postres y yogures · Yogures líquidos",
-      "price": 2.25,
-      "reference_price": "1.88",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/20627/bebida-lactea-fresa-l-casei-hacendado-pack-12"
-    },
-    {
-      "id": "20640",
-      "name": "Bebida láctea sabores L-casei",
-      "packaging": null,
-      "category": "Postres y yogures · Yogures líquidos",
-      "price": 2.25,
-      "reference_price": "1.88",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/20640/bebida-lactea-sabores-l-casei-6-fresaplatano-6-pinacoco-hacendado-pack-12"
-    },
-    {
-      "id": "22126",
-      "name": "Bebida láctea natural azucarada L-casei",
-      "packaging": null,
-      "category": "Postres y yogures · Yogures líquidos",
-      "price": 2.25,
-      "reference_price": "1.88",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/22126/bebida-lactea-natural-azucarada-l-casei-hacendado-pack-12"
-    },
-    {
-      "id": "20738",
-      "name": "Bebida láctea natural Actimel",
-      "packaging": null,
-      "category": "Postres y yogures · Yogures líquidos",
-      "price": 5.99,
-      "reference_price": "4.99",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/20738/bebida-lactea-natural-actimel-danone-pack-12"
-    },
-    {
-      "id": "20709",
-      "name": "Bebida láctea natural Actimel 0% MG 0% azúcares añadidos",
-      "packaging": null,
-      "category": "Postres y yogures · Yogures líquidos",
-      "price": 5.99,
-      "reference_price": "4.99",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/20709/bebida-lactea-natural-actimel-0-mg-danone-pack-12"
-    },
-    {
-      "id": "21556",
-      "name": "Bebida láctea de fresa L-casei 0% MG 0% azúcares añadidos",
-      "packaging": null,
-      "category": "Postres y yogures · Yogures líquidos",
-      "price": 2.6,
-      "reference_price": "2.17",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/21556/bebida-lactea-desnatada-fresa-l-casei-0-mg-0-azucares-anadidos-hacendado"
-    },
-    {
-      "id": "21557",
-      "name": "Bebida láctea natural L-casei 0% MG 0% azúcares añadidos",
-      "packaging": null,
-      "category": "Postres y yogures · Yogures líquidos",
-      "price": 2.6,
-      "reference_price": "2.17",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/21557/bebida-lactea-desnatada-natural-l-casei-0-mg-0-azucares-anadidos-hacendado"
-    },
-    {
-      "id": "22002",
-      "name": "Bebida láctea de fresa Cuidacol 0% azúcares añadidos",
-      "packaging": null,
-      "category": "Postres y yogures · Yogures líquidos",
-      "price": 2.5,
-      "reference_price": "3.13",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/22002/bebida-lactea-fresa-cuidacol-0-azucares-anadidos-hacendado-pack-8"
-    },
-    {
-      "id": "20941",
-      "name": "Bebida láctea de fresa Danacol 0% azúcares añadidos 0% MG",
-      "packaging": null,
-      "category": "Postres y yogures · Yogures líquidos",
-      "price": 5.9,
-      "reference_price": "5.90",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/20941/bebida-lactea-fresa-danacol-0-azucares-anadidos-danone-pack-10"
-    },
-    {
-      "id": "20940",
-      "name": "Bebida láctea natural Danacol 0% azúcares añadidos 0% MG",
-      "packaging": null,
-      "category": "Postres y yogures · Yogures líquidos",
-      "price": 5.9,
-      "reference_price": "5.90",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/20940/bebida-lactea-natural-danacol-0-azucares-anadidos-danone-pack-10"
-    },
-    {
-      "id": "22001",
-      "name": "Bebida láctea natural Cuidacol 0% azúcares añadidos",
-      "packaging": null,
-      "category": "Postres y yogures · Yogures líquidos",
-      "price": 2.5,
-      "reference_price": "3.13",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/22001/bebida-lactea-natural-cuidacol-0-azucares-anadidos-hacendado-pack-8"
-    },
-    {
-      "id": "15662",
-      "name": "Bebida Kéfir natural Hacendado 0% MG",
-      "packaging": "Botella",
-      "category": "Postres y yogures · Yogures líquidos",
-      "price": 0.9,
-      "reference_price": "3.60",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/15662/bebida-kefir-natural-hacendado-0-mg-botella"
-    },
-    {
-      "id": "52750",
-      "name": "Bebida Kéfir de fresa y plátano Hacendado",
-      "packaging": "Botella",
-      "category": "Postres y yogures · Yogures líquidos",
-      "price": 0.9,
-      "reference_price": "3.60",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/52750/bebida-kefir-fresa-platano-hacendado-botella"
-    },
-    {
-      "id": "17927",
-      "name": "Bebida Kéfir de lima y limón suave Hacendado 0% MG",
-      "packaging": "Botella",
-      "category": "Postres y yogures · Yogures líquidos",
-      "price": 0.9,
-      "reference_price": "3.60",
-      "reference_unit": "kg",
-      "url": "https://tienda.mercadona.es/product/17927/bebida-kefir-lima-limon-suave-hacendado-0-mg-botella"
     },
     {
       "id": "22313",
